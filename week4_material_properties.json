@@ -1,0 +1,629 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "What does 'isotropy' mean in materials science?",
+    "options": [
+      "Physical and mechanical properties are the same in all directions",
+      "Properties vary with direction",
+      "Contains multiple phases",
+      "Has directional fibers",
+      "Only found in composites"
+    ],
+    "answer": "Physical and mechanical properties are the same in all directions"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of these best describes 'anisotropy'?",
+    "options": [
+      "Physical and mechanical properties are not the same in all directions",
+      "Properties are the same in all directions",
+      "Material is homogeneous",
+      "Material is amorphous",
+      "It only applies to metals"
+    ],
+    "answer": "Physical and mechanical properties are not the same in all directions"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "When is a material considered homogeneous?",
+    "options": [
+      "When properties at any point are the same as at any other point",
+      "When properties vary by direction",
+      "When it is made of many layers",
+      "When it contains voids",
+      "When it is anisotropic"
+    ],
+    "answer": "When properties at any point are the same as at any other point"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT typically considered a primary bond?",
+    "options": [
+      "Van der Waals",
+      "Ionic",
+      "Covalent",
+      "Metallic",
+      "Mixed bonds"
+    ],
+    "answer": "Van der Waals"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which bond type is characterized by a 'sea' of free electrons?",
+    "options": [
+      "Metallic bonding",
+      "Ionic bonding",
+      "Covalent bonding",
+      "Van der Waals bonding",
+      "Hydrogen bonding"
+    ],
+    "answer": "Metallic bonding"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Hydrogen bonding is important because it...",
+    "options": [
+      "helps keep water liquid at room temperature and binds polymer chains",
+      "creates metallic conductivity",
+      "is the strongest bond type",
+      "is a type of ionic bond",
+      "only occurs in metals"
+    ],
+    "answer": "helps keep water liquid at room temperature and binds polymer chains"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which property does Young's Modulus measure?",
+    "options": [
+      "Stiffness of a material",
+      "Toughness",
+      "Density",
+      "Electrical conductivity",
+      "Fracture toughness"
+    ],
+    "answer": "Stiffness of a material"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Toughness is best defined as:",
+    "options": [
+      "A material's ability to absorb energy and deform without fracturing",
+      "The maximum stress before yielding",
+      "Resistance to crack propagation",
+      "Elastic stiffness",
+      "Thermal conductivity"
+    ],
+    "answer": "A material's ability to absorb energy and deform without fracturing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Fracture toughness (Kc or Gc) primarily measures:",
+    "options": [
+      "Resistance to crack propagation",
+      "Total energy absorbed in plastic deformation",
+      "Electrical resistance",
+      "Density",
+      "Thermal emittance"
+    ],
+    "answer": "Resistance to crack propagation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ductile fracture is characterized by:",
+    "options": [
+      "Extensive plastic deformation and energy dissipation",
+      "Sudden failure with little deformation",
+      "Smooth, shiny fracture surface",
+      "Chevron marks perpendicular to loading",
+      "No microcrack growth"
+    ],
+    "answer": "Extensive plastic deformation and energy dissipation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Brittle fracture often shows which surface features?",
+    "options": [
+      "Clean, smooth, shiny surfaces with chevron marks",
+      "Fibrous, dull surfaces",
+      "Large plastic necking",
+      "Cup and cone",
+      "Significant ductility"
+    ],
+    "answer": "Clean, smooth, shiny surfaces with chevron marks"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Specific strength is defined as:",
+    "options": [
+      "Strength divided by density",
+      "Strength multiplied by density",
+      "Density divided by strength",
+      "Toughness divided by strength",
+      "Elastic modulus times density"
+    ],
+    "answer": "Strength divided by density"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which factor does NOT strongly affect whether a structure fails in a ductile or brittle mode?",
+    "options": [
+      "Color of material",
+      "Manufacturing process",
+      "Loading characteristics",
+      "Environmental effects",
+      "Structural configuration"
+    ],
+    "answer": "Color of material"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of these is a secondary bond?",
+    "options": [
+      "Van der Waals",
+      "Covalent",
+      "Ionic",
+      "Metallic",
+      "Mixed bond"
+    ],
+    "answer": "Van der Waals"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What typically happens to toughness when a metal is rapidly quenched?",
+    "options": [
+      "Toughness decreases (material becomes more brittle)",
+      "Toughness increases",
+      "No change",
+      "Density decreases",
+      "It becomes isotropic"
+    ],
+    "answer": "Toughness decreases (material becomes more brittle)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which is a common measure used for fracture toughness?",
+    "options": [
+      "Kc (critical stress intensity factor)",
+      "R-value",
+      "Thermal conductivity",
+      "Albedo",
+      "Permeance"
+    ],
+    "answer": "Kc (critical stress intensity factor)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Permeance measures:",
+    "options": [
+      "How easily a liquid or vapor can pass through a material",
+      "Thermal conductivity",
+      "Emittance of thermal radiation",
+      "Transmittance of light",
+      "Electrical conductivity"
+    ],
+    "answer": "How easily a liquid or vapor can pass through a material"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Emittance refers to:",
+    "options": [
+      "A material's ability to emit energy as thermal radiation",
+      "How much light is transmitted",
+      "How much vapor passes through",
+      "Electrical resistivity",
+      "Specific heat capacity"
+    ],
+    "answer": "A material's ability to emit energy as thermal radiation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of these is a typical sequence in the evolution of standards?",
+    "options": [
+      "Innovation → Experimental adoption → Common usage",
+      "Immediate regulation → Standardization",
+      "Common usage → Innovation",
+      "Obsolete scrap → Prompt scrap",
+      "Testing → Innovation → Abandonment"
+    ],
+    "answer": "Innovation → Experimental adoption → Common usage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which organization is NOT an international standards organization listed in the notes?",
+    "options": [
+      "FDA",
+      "UL",
+      "ASTM",
+      "DIN",
+      "BS"
+    ],
+    "answer": "FDA"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which material property is MOST important for resisting crack propagation in service where flaws exist?",
+    "options": [
+      "Fracture toughness",
+      "Density",
+      "Thermal conductivity",
+      "Emittance",
+      "Permeance"
+    ],
+    "answer": "Fracture toughness"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is typically true about metals vs. ceramics regarding toughness?",
+    "options": [
+      "Metals are generally tougher; ceramics have low toughness",
+      "Ceramics are tougher than metals",
+      "Metals cannot plastically deform",
+      "Ceramics have high elongation",
+      "Metals have lower density than ceramics"
+    ],
+    "answer": "Metals are generally tougher; ceramics have low toughness"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which sentence best describes a material with inhomogeneity?",
+    "options": [
+      "Its physical/mechanical properties vary between points in the material",
+      "It has identical properties everywhere",
+      "It must be a metal",
+      "It cannot be used structurally",
+      "It is always brittle"
+    ],
+    "answer": "Its physical/mechanical properties vary between points in the material"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why are composites useful for achieving high strength at low weight?",
+    "options": [
+      "They combine very strong fibres with light matrix materials",
+      "They have higher density than metals",
+      "They use ionic bonding",
+      "They increase thermal conductivity",
+      "They eliminate all flaws"
+    ],
+    "answer": "They combine very strong fibres with light matrix materials"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of these is a primary bond characteristic?",
+    "options": [
+      "Generally strong, with high melting temperatures (1000–5000K)",
+      "Generally weak and melt at low temperatures",
+      "Always directional like Van der Waals",
+      "Only present in polymers",
+      "Only in gases"
+    ],
+    "answer": "Generally strong, with high melting temperatures (1000–5000K)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which variable is NOT explicitly listed in the selection process?",
+    "options": [
+      "Color",
+      "Function",
+      "Constraint",
+      "Objective",
+      "Free Variables"
+    ],
+    "answer": "Color"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary risk with brittle materials regarding flaws?",
+    "options": [
+      "Tensile strength is sensitive to the presence of flaws and can fail catastrophically",
+      "They always plastically deform",
+      "They have unlimited toughness",
+      "They absorb energy before fracturing",
+      "They get stronger with temperature increase"
+    ],
+    "answer": "Tensile strength is sensitive to the presence of flaws and can fail catastrophically"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which property would you consult to evaluate how much heat flows through a 1m thick slab with a 1°C difference?",
+    "options": [
+      "Thermal conductivity",
+      "Emittance",
+      "Permeance",
+      "Specific strength",
+      "Fracture toughness"
+    ],
+    "answer": "Thermal conductivity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What do τ, ρ, and α commonly represent in radiative properties?",
+    "options": [
+      "Transmittance, reflectance, and absorptance",
+      "Tension, resistance, and angle",
+      "Temperature, rho, and alpha coefficients",
+      "Thermal, radiant, and albedo",
+      "Transference, reflectivity, and absorption rate"
+    ],
+    "answer": "Transmittance, reflectance, and absorptance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which statement about testing and standards is true?",
+    "options": [
+      "Standards evolve from developed practice through stages like innovation and adoption",
+      "Standards are only set by governments",
+      "Standards do not change",
+      "Testing is unnecessary for materials",
+      "Standards apply only to metals"
+    ],
+    "answer": "Standards evolve from developed practice through stages like innovation and adoption"
+  },
+  {
+    "type": "fill_blank",
+    "question": "A material that has the same properties in every direction is called _______.",
+    "answer": "isotropic"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The measure of stiffness expressed as Young's ________ is called modulus.",
+    "answer": "modulus"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Resistance to crack propagation is often quantified by the critical stress intensity factor, denoted K____.",
+    "answer": "c"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Tough materials absorb a lot of energy as a crack grows through them; this property is called _______.",
+    "answer": "toughness"
+  },
+  {
+    "type": "fill_blank",
+    "question": "A common weak bond between uncharged atoms due to temporary dipoles is called _______ (two words: Van der _______).",
+    "answer": "van der waals"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The gradual process of nucleation, growth and coalescence of microcracks is typical of _______ fracture.",
+    "answer": "ductile"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The sudden and complete disruption of material with little plastic deformation is called _______ fracture.",
+    "answer": "brittle"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Strength divided by density is known as specific _______.",
+    "answer": "strength"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Permeance measures how easily a liquid or _______ passes through a material.",
+    "answer": "vapor"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The ability of a material's surface to emit thermal radiation is called _______.",
+    "answer": "emittance"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Fracture toughness measured as an energy rate is denoted by G____.",
+    "answer": "c"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The type of bonding characterized by sharing electrons between atoms is called _______ bonding.",
+    "answer": "covalent"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Metallic bonding creates a 'sea' of _______ that allows electrical conductivity.",
+    "answer": "electrons"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Materials with direction-dependent properties are called _______.",
+    "answer": "anisotropic"
+  },
+  {
+    "type": "fill_blank",
+    "question": "In material selection, one of the listed steps is to identify the _______ (a constraint, function, objective or free variable).",
+    "answer": "function"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which material property is most directly related to how much a material stretches under tensile load before breaking?",
+    "options": [
+      "Elongation to failure",
+      "Thermal conductivity",
+      "Emittance",
+      "Permeance",
+      "Density"
+    ],
+    "answer": "Elongation to failure"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which failure mode is most likely when a material is used below its ductile-brittle transition temperature?",
+    "options": [
+      "Brittle fracture",
+      "Ductile fracture",
+      "Creep",
+      "Fatigue",
+      "Corrosion"
+    ],
+    "answer": "Brittle fracture"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which testing approach helps predict long-term properties from short-term tests?",
+    "options": [
+      "Extrapolation from short-term tests",
+      "Immediate full-scale testing",
+      "Ignoring short-term data",
+      "Only using historical norms",
+      "Ad-hoc estimation"
+    ],
+    "answer": "Extrapolation from short-term tests"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of these is a reason to explore a material experimentally?",
+    "options": [
+      "To determine if it has advantages in properties, cost, supply, or convenience",
+      "To skip standards",
+      "To avoid testing",
+      "Because it is fashionable",
+      "To decrease density"
+    ],
+    "answer": "To determine if it has advantages in properties, cost, supply, or convenience"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a typical international standards body?",
+    "options": [
+      "ASTM",
+      "CSA",
+      "ULC",
+      "CGSB",
+      "ISO"
+    ],
+    "answer": "ASTM"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which bond type is most associated with high directionality and determines crystal packing?",
+    "options": [
+      "Covalent bonding",
+      "Metallic bonding",
+      "Van der Waals",
+      "Ionic bonding",
+      "Hydrogen bonding"
+    ],
+    "answer": "Covalent bonding"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If K < Kc for a crack in a material, the crack will:",
+    "options": [
+      "Remain stable (not propagate rapidly)",
+      "Propagate at the speed of sound",
+      "Always cause catastrophic failure",
+      "Double in length each second",
+      "Immediately cause plastic collapse"
+    ],
+    "answer": "Remain stable (not propagate rapidly)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of these is a useful property descriptor for glazing (glass) performance?",
+    "options": [
+      "Shading coefficient (SC)",
+      "Yield strength",
+      "Elongation",
+      "Fracture toughness",
+      "Specific strength"
+    ],
+    "answer": "Shading coefficient (SC)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What does albedo measure?",
+    "options": [
+      "The reflectivity of a surface (fraction of incident radiation reflected)",
+      "Thermal storage capacity",
+      "Electrical conductivity",
+      "Vapour permeance",
+      "Flaw sensitivity"
+    ],
+    "answer": "The reflectivity of a surface (fraction of incident radiation reflected)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which materials are given as typical examples of isotropic materials in the notes?",
+    "options": [
+      "Most metals, polymers and ceramics",
+      "Wood and fiberboard",
+      "Fibre-reinforced composites only",
+      "Only gases",
+      "Liquid metals"
+    ],
+    "answer": "Most metals, polymers and ceramics"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which factor is important to reduce convective loops in porous insulation?",
+    "options": [
+      "Ensure air pockets are trapped and still (optimum cell size)",
+      "Increase bulk density drastically",
+      "Remove all blowing agents",
+      "Use metallic fibers",
+      "Decrease thermal storage"
+    ],
+    "answer": "Ensure air pockets are trapped and still (optimum cell size)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which property is described by τ, ρ, α in radiative terms?",
+    "options": [
+      "Transmittance, reflectance, absorptance",
+      "Tensile, rupture, area",
+      "Thermal, radiant, albedo",
+      "Temperature, resistance, angle",
+      "Thickness, roughness, absorbency"
+    ],
+    "answer": "Transmittance, reflectance, absorptance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which is a consequence of increasing temperature on corrosion rate as mentioned in notes?",
+    "options": [
+      "Each 10°C increase can roughly double corrosion rate",
+      "Temperature has no effect",
+      "Corrosion rate halves",
+      "Only humidity matters",
+      "Corrosion stops above 100°C"
+    ],
+    "answer": "Each 10°C increase can roughly double corrosion rate"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of these is an example of a mixed bond occurrence?",
+    "options": [
+      "Many atoms exhibit mixed bonding characteristics",
+      "Pure ionic crystals only",
+      "Perfect metals with no electron sea",
+      "Van der Waals only",
+      "None of the above"
+    ],
+    "answer": "Many atoms exhibit mixed bonding characteristics"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which testing stage comes after initial speculative use stage according to the notes?",
+    "options": [
+      "Detailed descriptions stage (indexing and properties relative to benchmarks)",
+      "Immediate regulation",
+      "Obsolete scrap review",
+      "Prompt scrap analysis",
+      "International certification"
+    ],
+    "answer": "Detailed descriptions stage (indexing and properties relative to benchmarks)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which property is most important when designing against impact loads?",
+    "options": [
+      "Toughness",
+      "Emittance",
+      "Permeance",
+      "Albedo",
+      "Shading coefficient"
+    ],
+    "answer": "Toughness"
+  }
+]

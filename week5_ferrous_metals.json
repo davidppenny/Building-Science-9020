@@ -1,0 +1,1034 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "In Canada, which region provides the largest share of iron ore for steelmaking?",
+    "options": [
+      "Quebec (~61%)",
+      "Nunavut (~9%)",
+      "Newfoundland and Labrador (~30%)",
+      "Ontario (~45%)",
+      "British Columbia (~25%)"
+    ],
+    "answer": "Quebec (~61%)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Roughly how did Canadian iron ore output change between 2013 and 2022?",
+    "options": [
+      "Increased from ~40 Mt to ~70 Mt",
+      "Decreased from ~70 Mt to ~40 Mt",
+      "Stayed flat at ~50 Mt",
+      "Doubled from 20 Mt to 40 Mt",
+      "Unknown change"
+    ],
+    "answer": "Increased from ~40 Mt to ~70 Mt"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Recycling 1 tonne of steel saves approximately how much iron ore?",
+    "options": [
+      "14,000 kg",
+      "7,400 kg",
+      "120 kg",
+      "1,400 kg",
+      "2,800 kg"
+    ],
+    "answer": "14,000 kg"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Recycling 1 tonne of steel saves about how much coking coal?",
+    "options": [
+      "740 kg",
+      "7,400 kg",
+      "120 kg",
+      "14,000 kg",
+      "1,200 kg"
+    ],
+    "answer": "740 kg"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Recycling 1 tonne of steel saves about how much limestone?",
+    "options": [
+      "120 kg",
+      "12 kg",
+      "1,200 kg",
+      "740 kg",
+      "14,000 kg"
+    ],
+    "answer": "120 kg"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The Basic Oxygen Furnace (BOF) primarily uses which feedstock?",
+    "options": [
+      "Molten iron from a blast furnace",
+      "Scrap metal",
+      "Direct reduced iron only",
+      "Pig iron only",
+      "Ore fines and flux only"
+    ],
+    "answer": "Molten iron from a blast furnace"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which furnace relies on high‑power electrical arcs to melt scrap?",
+    "options": [
+      "Electric Arc Furnace (EAF)",
+      "Basic Oxygen Furnace (BOF)",
+      "Blast Furnace",
+      "Open Hearth Furnace",
+      "Cupola Furnace"
+    ],
+    "answer": "Electric Arc Furnace (EAF)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which furnace route is generally more flexible for start/stop operation?",
+    "options": [
+      "Electric Arc Furnace (EAF)",
+      "Basic Oxygen Furnace (BOF)",
+      "Blast Furnace",
+      "Open Hearth Furnace",
+      "Induction Furnace"
+    ],
+    "answer": "Electric Arc Furnace (EAF)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which statement best compares BOF vs EAF?",
+    "options": [
+      "BOF refines hot metal from blast furnace; EAF melts mostly scrap",
+      "Both melt only scrap",
+      "BOF is always greener than EAF",
+      "EAF needs oxygen blowing",
+      "BOF cannot make large heats"
+    ],
+    "answer": "BOF refines hot metal from blast furnace; EAF melts mostly scrap"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In metals, 'grains' are best described as:",
+    "options": [
+      "Small crystalline regions with ordered atomic patterns",
+      "Amorphous regions lacking atomic order",
+      "Voids caused by casting",
+      "Surface oxides",
+      "Carbide inclusions only"
+    ],
+    "answer": "Small crystalline regions with ordered atomic patterns"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In etched steel micrographs, the darker phase is commonly:",
+    "options": [
+      "Pearlite",
+      "Ferrite",
+      "Austenite",
+      "Martensite",
+      "Cementite only"
+    ],
+    "answer": "Pearlite"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ferrite is typically:",
+    "options": [
+      "Soft and ductile, forming at low carbon contents",
+      "Hard and brittle, forming at high carbon",
+      "Only present in cast iron",
+      "A high‑chromium phase",
+      "Non‑metallic inclusion"
+    ],
+    "answer": "Soft and ductile, forming at low carbon contents"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How does smaller ferrite grain size affect properties?",
+    "options": [
+      "Higher strength and toughness; lower DBTT",
+      "Lower strength and higher brittleness",
+      "Higher density and conductivity",
+      "Higher corrosion rate",
+      "Lower melting point"
+    ],
+    "answer": "Higher strength and toughness; lower DBTT"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Crystalline regions in metals observed under microscopy are called _______.",
+    "answer": "grains"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The soft, ductile iron‑rich phase in low‑carbon steels is called _______.",
+    "answer": "ferrite"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical carbon range for common structural steels is about:",
+    "options": [
+      "0.15–0.25% C",
+      "0.01–0.05% C",
+      "0.5–1.5% C",
+      "2–4% C",
+      "5–7% C"
+    ],
+    "answer": "0.15–0.25% C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical manganese range for structural steels is about:",
+    "options": [
+      "0.5–1.5% Mn",
+      "0.01–0.05% Mn",
+      "2–4% Mn",
+      "5–7% Mn",
+      "10–12% Mn"
+    ],
+    "answer": "0.5–1.5% Mn"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sulfur and phosphorus in structural steels are typically limited to:",
+    "options": [
+      "<0.05% each",
+      "~0.5% each",
+      "~1% each",
+      "~0.25% each",
+      "~0.15% each"
+    ],
+    "answer": "<0.05% each"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "As impurities are removed, the melting temperature of iron increases toward:",
+    "options": [
+      "1535°C",
+      "1200°C",
+      "900°C",
+      "1800°C",
+      "1000°C"
+    ],
+    "answer": "1535°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which scrap category is discard from industrial processes and easily characterized?",
+    "options": [
+      "Prompt scrap",
+      "Obsolete scrap",
+      "Residuals scrap",
+      "Tramp scrap",
+      "Return fines"
+    ],
+    "answer": "Prompt scrap"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Obsolete scrap from scrapyards is challenging because it:",
+    "options": [
+      "May contain tin, copper and other 'tramp' metals",
+      "Is always pure",
+      "Is only stainless",
+      "Has no copper",
+      "Cannot be melted"
+    ],
+    "answer": "May contain tin, copper and other 'tramp' metals"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A long‑term recycling challenge is the drift upward of 'tramp' metals, which can:",
+    "options": [
+      "Affect weldability and properties",
+      "Eliminate corrosion",
+      "Lower density dramatically",
+      "Increase melting point",
+      "Improve conductivity"
+    ],
+    "answer": "Affect weldability and properties"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Mild steel typically contains roughly:",
+    "options": [
+      "0.29–0.54% carbon",
+      "0.01–0.05% carbon",
+      "1–2% carbon",
+      "2–4% carbon",
+      "7–10% carbon"
+    ],
+    "answer": "0.29–0.54% carbon"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A key weakness of mild steel is:",
+    "options": [
+      "Corrosion susceptibility without protection",
+      "Poor recyclability",
+      "Inability to weld",
+      "Very low density",
+      "No magnetic response"
+    ],
+    "answer": "Corrosion susceptibility without protection"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Alloy steels with medium to high carbon contents respond well to:",
+    "options": [
+      "Quenching and tempering",
+      "Only cold rolling",
+      "Only annealing",
+      "Painting",
+      "Shot peening only"
+    ],
+    "answer": "Quenching and tempering"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Stainless steels typically contain significant amounts of:",
+    "options": [
+      "Chromium and nickel for corrosion resistance",
+      "Lead and tin",
+      "Copper and zinc",
+      "Magnesium and silicon",
+      "Carbon and sulfur"
+    ],
+    "answer": "Chromium and nickel for corrosion resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A common fabrication concern for stainless steels is:",
+    "options": [
+      "Not as easy to weld as carbon steels",
+      "Cannot be recycled",
+      "Always magnetic so easy to sort",
+      "Very poor toughness",
+      "Extremely low melting point"
+    ],
+    "answer": "Not as easy to weld as carbon steels"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Low‑carbon steel widely used in structures is often called _______ steel.",
+    "answer": "mild"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Stainless steels achieve corrosion resistance primarily due to high _______ content.",
+    "answer": "chromium"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which is a typical product area for mild steel?",
+    "options": [
+      "Large structures (e.g., buildings, rigs)",
+      "Microchips",
+      "Optical fibers",
+      "Aerospace turbine blades only",
+      "Rigid PVC piping"
+    ],
+    "answer": "Large structures (e.g., buildings, rigs)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which is a typical product for alloy steels?",
+    "options": [
+      "Bearings, gears, shafts and tools",
+      "Glass panes",
+      "Polystyrene foams",
+      "Concrete aggregates",
+      "Only rebar"
+    ],
+    "answer": "Bearings, gears, shafts and tools"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A typical use for stainless steels is:",
+    "options": [
+      "Cladding and corrosion‑resistant components",
+      "Reinforced concrete",
+      "Pure timber",
+      "Expanded polystyrene",
+      "Porous ceramics only"
+    ],
+    "answer": "Cladding and corrosion‑resistant components"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A36 is best described as:",
+    "options": [
+      "A common ASTM structural carbon steel for shapes, plates and bars",
+      "A stainless grade",
+      "A tool steel only",
+      "A cast iron grade",
+      "A copper alloy"
+    ],
+    "answer": "A common ASTM structural carbon steel for shapes, plates and bars"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "44W/44WT is commonly used as:",
+    "options": [
+      "Standard weldable steel for building construction",
+      "Only for high‑temperature furnaces",
+      "Exclusive to stainless",
+      "Only for cold rolling",
+      "Only for fasteners"
+    ],
+    "answer": "Standard weldable steel for building construction"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "50W is commonly used for:",
+    "options": [
+      "Square hollow structural sections",
+      "Only rebar",
+      "Only sheet cladding",
+      "Weld filler metal",
+      "Bearing balls"
+    ],
+    "answer": "Square hollow structural sections"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "ASTM A572 grades are:",
+    "options": [
+      "High‑strength low‑alloy structural steels",
+      "Cast irons",
+      "Stainless steels",
+      "Pure nickel",
+      "Quenched martensite plates only"
+    ],
+    "answer": "High‑strength low‑alloy structural steels"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "QT‑100 is:",
+    "options": [
+      "Quench and tempered steel",
+      "Cold‑rolled stainless",
+      "Cast aluminum",
+      "Annealed copper",
+      "Pure iron"
+    ],
+    "answer": "Quench and tempered steel"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Normalizing primarily aims to:",
+    "options": [
+      "Refine grain structure and improve toughness",
+      "Increase dislocation density dramatically",
+      "Dissolve passivation layer",
+      "Increase brittleness",
+      "Decrease melting temperature"
+    ],
+    "answer": "Refine grain structure and improve toughness"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Annealing generally:",
+    "options": [
+      "Improves ductility and relieves internal stresses",
+      "Increases brittleness",
+      "Raises yield strength only",
+      "Eliminates corrosion",
+      "Creates martensite"
+    ],
+    "answer": "Improves ductility and relieves internal stresses"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quenching generally:",
+    "options": [
+      "Hardens steel but reduces ductility (can create brittleness)",
+      "Softens steel greatly",
+      "Improves only corrosion resistance",
+      "Has no effect",
+      "Always increases toughness"
+    ],
+    "answer": "Hardens steel but reduces ductility (can create brittleness)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tempering after quenching:",
+    "options": [
+      "Reduces brittleness and improves toughness",
+      "Increases brittleness",
+      "Eliminates all hardness",
+      "Creates pearlite from ferrite",
+      "Has no effect"
+    ],
+    "answer": "Reduces brittleness and improves toughness"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which sequence best describes quench & temper?",
+    "options": [
+      "Heat → Quench → Reheat lower temp → Controlled cool",
+      "Heat → Slow cool → Heat → Quench",
+      "Cold work → Quench → Temper",
+      "Anneal only",
+      "Normalize → Anneal"
+    ],
+    "answer": "Heat → Quench → Reheat lower temp → Controlled cool"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Heating above critical temperature then air cooling to refine grains is called _______.",
+    "answer": "normalizing"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Softening steel and relieving stress by slow furnace cooling is called _______.",
+    "answer": "annealing"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Rapid cooling from high temperature in water or oil is called _______.",
+    "answer": "quenching"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Reheating quenched steel to balance hardness and toughness is called _______.",
+    "answer": "tempering"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Hot rolling typically occurs at around:",
+    "options": [
+      "≈1200°C and above",
+      "≈200°C",
+      "≈500°C",
+      "≈900°C max",
+      "Room temperature only"
+    ],
+    "answer": "≈1200°C and above"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Cold rolling generally:",
+    "options": [
+      "Increases strength via work hardening",
+      "Decreases strength",
+      "Eliminates dislocations",
+      "Melts the surface",
+      "Increases grain size"
+    ],
+    "answer": "Increases strength via work hardening"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A common reduction ratio target for steels in rolling is about:",
+    "options": [
+      "8:1",
+      "2:1",
+      "4:3",
+      "1:8",
+      "16:1"
+    ],
+    "answer": "8:1"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Controlled rolling for fine grain size is typically between:",
+    "options": [
+      "≈900–650°C",
+      "≈1200–1100°C",
+      "≈400–200°C",
+      "Below 0°C",
+      "≈1500–1400°C"
+    ],
+    "answer": "≈900–650°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT a typical weld defect listed?",
+    "options": [
+      "Eutectic microsegregation",
+      "Poor weld shape/incomplete penetration",
+      "Slag inclusions",
+      "Porosity",
+      "Hydrogen cracking"
+    ],
+    "answer": "Eutectic microsegregation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Solidification cracking, hydrogen cracking, and lamellar tearing are:",
+    "options": [
+      "Recognized weld defects",
+      "Heat treatment methods",
+      "Rolling passes",
+      "Austenite stabilization techniques",
+      "Grain refiners"
+    ],
+    "answer": "Recognized weld defects"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A good welding guideline from the notes is:",
+    "options": [
+      "Use filler metal of equal or higher alloy quality than base",
+      "Always use lower‑quality filler",
+      "Avoid preheat in all cases",
+      "Never clean surfaces",
+      "Use no shielding gas"
+    ],
+    "answer": "Use filler metal of equal or higher alloy quality than base"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What fundamentally drives corrosion reactions in metals?",
+    "options": [
+      "Lowering of free energy via electrochemical reactions",
+      "Raising free energy",
+      "Evaporation of ions",
+      "Optical reflectivity",
+      "Thermal conduction only"
+    ],
+    "answer": "Lowering of free energy via electrochemical reactions"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In an electrochemical corrosion cell, the corroded area is typically around the:",
+    "options": [
+      "Anode",
+      "Cathode",
+      "Electrolyte surface only",
+      "Electrical ground clamp",
+      "Painted surface only"
+    ],
+    "answer": "Anode"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which pair correctly describes the two key corrosion reactions?",
+    "options": [
+      "Anodic (oxidation) and cathodic (reduction)",
+      "Cracking and creep",
+      "Rolling and forging",
+      "Quench and temper",
+      "Anneal and normalize"
+    ],
+    "answer": "Anodic (oxidation) and cathodic (reduction)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "An electrolyte in corrosion is best described as:",
+    "options": [
+      "A medium that conducts ions enabling reactions",
+      "A perfect insulator",
+      "An inert gas",
+      "A structural brace",
+      "A thermal barrier only"
+    ],
+    "answer": "A medium that conducts ions enabling reactions"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A rule of thumb for temperature on corrosion rate is:",
+    "options": [
+      "Every 10°C increase can roughly double the rate",
+      "Rate halves each 10°C",
+      "No temperature effect",
+      "Only pH matters",
+      "Only chloride matters"
+    ],
+    "answer": "Every 10°C increase can roughly double the rate"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Minimum chromium content to form a protective passive layer in stainless steel is about:",
+    "options": [
+      "≈12% Cr",
+      "≈2% Cr",
+      "≈5% Cr",
+      "≈25% Cr minimum",
+      "≈0.5% Cr"
+    ],
+    "answer": "≈12% Cr"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which protection method uses a sacrificial metal to protect the base metal?",
+    "options": [
+      "Cathodic protection (e.g., zinc anodes)",
+      "Paint only",
+      "Anodizing aluminum",
+      "Shot peening",
+      "Pickling"
+    ],
+    "answer": "Cathodic protection (e.g., zinc anodes)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pitting corrosion is problematic because it:",
+    "options": [
+      "Can be hidden, self‑accelerating and severe",
+      "Always obvious on the surface",
+      "Stops in chloride environments",
+      "Heals quickly",
+      "Only affects cast iron"
+    ],
+    "answer": "Can be hidden, self‑accelerating and severe"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The corroded zone in a galvanic cell forms at the _______.",
+    "answer": "anode"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Reduction reactions in corrosion occur at the _______.",
+    "answer": "cathode"
+  },
+  {
+    "type": "fill_blank",
+    "question": "A medium that conducts ions, enabling corrosion reactions, is called an _______.",
+    "answer": "electrolyte"
+  },
+  {
+    "type": "fill_blank",
+    "question": "A thin protective layer formed on stainless steel is called a _______ layer.",
+    "answer": "passivation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If scrap is abundant and flexible operation is needed, which furnace route is best?",
+    "options": [
+      "EAF route",
+      "BOF route",
+      "Blast furnace only",
+      "Open hearth",
+      "Cupola"
+    ],
+    "answer": "EAF route"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For a hammer head needing toughness after hardening, which treatment sequence fits best?",
+    "options": [
+      "Quench then temper",
+      "Anneal then normalize",
+      "Normalize then anneal",
+      "Temper then quench",
+      "Cold roll then anneal"
+    ],
+    "answer": "Quench then temper"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "To minimize brittle fracture at low temperatures, you would generally prefer:",
+    "options": [
+      "Fine (small) grain size steels",
+      "Large grain size steels",
+      "High S and P impurities",
+      "Un‑tempered martensite",
+      "High residual stresses"
+    ],
+    "answer": "Fine (small) grain size steels"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A grade for square HSS sections in Canada is:",
+    "options": [
+      "50W",
+      "A36",
+      "44WT only",
+      "QT‑100 only",
+      "A572 exclusively"
+    ],
+    "answer": "50W"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "You observe porosity and slag inclusions in a fillet weld. What should you infer?",
+    "options": [
+      "Poor practice; may indicate more serious defects",
+      "Improves fatigue life",
+      "Desired for ductility",
+      "Eliminates cracking",
+      "Ensures better corrosion resistance"
+    ],
+    "answer": "Poor practice; may indicate more serious defects"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Stainless cladding on a seaside building is chosen mostly for:",
+    "options": [
+      "Excellent corrosion resistance",
+      "Lowest cost",
+      "Magnetic sorting response",
+      "Highest conductivity",
+      "Ease of forming martensite"
+    ],
+    "answer": "Excellent corrosion resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For high strength at low weight, a general approach is:",
+    "options": [
+      "Use composites or fine‑grain steels",
+      "Use very large grains",
+      "Maximize impurities",
+      "Use only cast iron",
+      "Avoid heat treatments entirely"
+    ],
+    "answer": "Use composites or fine‑grain steels"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The dark lamellar mixture of ferrite and cementite is called _______.",
+    "answer": "pearlite"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The finishing temperature band ≈900–650°C is important for controlled _______.",
+    "answer": "rolling"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Quench & _______ balances hardness with toughness.",
+    "answer": "temper"
+  },
+  {
+    "type": "fill_blank",
+    "question": "High‑strength low‑alloy structural steels include ASTM A572‑_____.",
+    "answer": "gr"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Steel made mostly by melting scrap with arcs is produced in an _______ furnace.",
+    "answer": "eaf"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The basic oxygen furnace refines hot metal by blowing high‑purity _______.",
+    "answer": "oxygen"
+  },
+  {
+    "type": "fill_blank",
+    "question": "A common structural carbon steel for shapes, plates and bars is ASTM _______.",
+    "answer": "a36"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Standard weldable steel for building construction in Canada includes _______ / 44WT.",
+    "answer": "44w"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Quench and tempered plate grade often referred to is _______-100.",
+    "answer": "qt"
+  },
+  {
+    "type": "fill_blank",
+    "question": "In a corrosion cell, oxidation occurs at the _______.",
+    "answer": "anode"
+  },
+  {
+    "type": "fill_blank",
+    "question": "In a corrosion cell, reduction occurs at the _______.",
+    "answer": "cathode"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Stainless steels generally contain at least _______% chromium for passivity.",
+    "answer": "12"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which heat treatment typically stypicallys steel and relieves stress?",
+    "options": [
+      "Annealing",
+      "Normalizing",
+      "Quenching",
+      "Tempering",
+      "Case hardening"
+    ],
+    "answer": "Annealing"
+  }
+]

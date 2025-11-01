@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BCSI 9020 – Materials Science Review</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>BCSI 9020 – Materials Science Review</h1>
+      <p class="subtitle">Self‑assessment quiz (Week 4 & Week 5)</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="card" id="setup-card">
+      <h2>Choose a Topic</h2>
+      <div class="row">
+        <label for="topic">Topic</label>
+        <select id="topic">
+          <option value="week4_material_properties.json">Week 4 – Material Properties</option>
+          <option value="week5_ferrous_metals.json">Week 5 – Ferrous Metals</option>
+        </select>
+      </div>
+      <button id="start-btn" class="primary">Start Quiz</button>
+      <p class="hint">This quiz starts fresh each time. No personal data is stored.</p>
+    </section>
+
+    <section class="card hidden" id="quiz-card">
+      <div class="quiz-head">
+        <div id="progress">Question 1 of 1</div>
+        <div id="score">Score: 0</div>
+      </div>
+
+      <div id="question-text" class="question-text"></div>
+
+      <div id="options" class="options"></div>
+
+      <div id="fillin" class="fillin hidden">
+        <input id="fillin-input" type="text" placeholder="Type your answer…" autocomplete="off" />
+        <button id="submit-fillin" class="primary">Submit</button>
+      </div>
+
+      <div id="feedback" class="feedback"></div>
+
+      <div class="actions">
+        <button id="next-btn" class="secondary hidden">Next</button>
+      </div>
+    </section>
+
+    <section class="card hidden" id="summary-card">
+      <h2>Summary</h2>
+      <p id="final-score" class="final-score"></p>
+      <div id="wrong-list" class="wrong-list"></div>
+      <div class="actions">
+        <button id="restart-btn" class="primary">Restart</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>© <span id="year"></span> Materials Science Review • Built for classmates learning together</small>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
