@@ -89,8 +89,7 @@ async function startQuiz(){
     const data = await res.json();
     questions = shuffle([...data]);
   }catch(err){
-    alert('Could not load quiz data. Make sure the JSON files are present.
-' + err.message);
+    alert('Could not load quiz data. Make sure the JSON files are present. ' + err.message);
     return;
   }
 
