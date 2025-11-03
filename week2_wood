@@ -1,0 +1,1104 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Wood is a complex biological structure evolved for:",
+    "options": [
+      "Thermal insulation",
+      "Photosynthesis and respiration",
+      "Water conduction, mechanical support, and biochemical storage",
+      "Seed germination",
+      "Oxygen production"
+    ],
+    "answer": "Water conduction, mechanical support, and biochemical storage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "British Columbia forests maintain diversity by:",
+    "options": [
+      "Planting monocultures",
+      "Using only fast-growing pine species",
+      "Introducing exotic hardwoods",
+      "Eliminating conifers",
+      "Replanting native species like Douglas Fir and Western Red Cedar"
+    ],
+    "answer": "Replanting native species like Douglas Fir and Western Red Cedar"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sapwood contains:",
+    "options": [
+      "More water and living cells, less durable",
+      "No water content",
+      "Dead cells and extractives",
+      "High resin concentration",
+      "Only lignin and cellulose"
+    ],
+    "answer": "More water and living cells, less durable"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Heartwood differs from sapwood because it:",
+    "options": [
+      "Is lighter in color",
+      "Has higher water content",
+      "Contains more living cells",
+      "Contains dead cells, more extractives, and is more durable",
+      "Is less dense"
+    ],
+    "answer": "Contains dead cells, more extractives, and is more durable"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Hardwoods are characterized by:",
+    "options": [
+      "Simple cell structure",
+      "Complex structure with fibers, vessels, and parenchyma cells",
+      "Uniform texture",
+      "Single-layered cell walls",
+      "Only tracheids and resin canals"
+    ],
+    "answer": "Complex structure with fibers, vessels, and parenchyma cells"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Cell walls in wood are primarily made of ______, ______, and ______.",
+    "answer": "cellulose, hemicellulose, lignin"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in wood cells allow:",
+    "options": [
+      "Light diffusion",
+      "Thermal expansion",
+      "Fluid transfer between cells",
+      "Storage of nutrients",
+      "Gas exchange"
+    ],
+    "answer": "Fluid transfer between cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Sapwood is vulnerable to ______ due to nutrient content.",
+    "answer": "bio-deterioration"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Lumber grading evaluates:",
+    "options": [
+      "Knots, slope of grain, and flaws",
+      "Moisture absorption",
+      "Age of the tree",
+      "Color and smell",
+      "Mineral content"
+    ],
+    "answer": "Knots, slope of grain, and flaws"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood’s thermal conductivity is low because:",
+    "options": [
+      "It has metallic bonds",
+      "It has uniform crystal structure",
+      "It contains air spaces and low-density fibers",
+      "It is chemically inert",
+      "It has high water content"
+    ],
+    "answer": "It contains air spaces and low-density fibers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood is a complex biological structure evolved for:",
+    "options": [
+      "Thermal insulation",
+      "Photosynthesis and respiration",
+      "Water conduction, mechanical support, and biochemical storage",
+      "Seed germination",
+      "Oxygen production"
+    ],
+    "answer": "Water conduction, mechanical support, and biochemical storage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood’s thermal conductivity is low because:",
+    "options": [
+      "It has metallic bonds",
+      "It has uniform crystal structure",
+      "It contains air spaces and low-density fibers",
+      "It is chemically inert",
+      "It has high water content"
+    ],
+    "answer": "It contains air spaces and low-density fibers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood’s thermal conductivity is low because:",
+    "options": [
+      "It has metallic bonds",
+      "It has uniform crystal structure",
+      "It contains air spaces and low-density fibers",
+      "It is chemically inert",
+      "It has high water content"
+    ],
+    "answer": "It contains air spaces and low-density fibers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood is a complex biological structure evolved for:",
+    "options": [
+      "Thermal insulation",
+      "Photosynthesis and respiration",
+      "Water conduction, mechanical support, and biochemical storage",
+      "Seed germination",
+      "Oxygen production"
+    ],
+    "answer": "Water conduction, mechanical support, and biochemical storage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Cell walls in wood are primarily made of ______, ______, and ______.",
+    "answer": "cellulose, hemicellulose, lignin"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in wood cells allow:",
+    "options": [
+      "Light diffusion",
+      "Thermal expansion",
+      "Fluid transfer between cells",
+      "Storage of nutrients",
+      "Gas exchange"
+    ],
+    "answer": "Fluid transfer between cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood’s thermal conductivity is low because:",
+    "options": [
+      "It has metallic bonds",
+      "It has uniform crystal structure",
+      "It contains air spaces and low-density fibers",
+      "It is chemically inert",
+      "It has high water content"
+    ],
+    "answer": "It contains air spaces and low-density fibers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in wood cells allow:",
+    "options": [
+      "Light diffusion",
+      "Thermal expansion",
+      "Fluid transfer between cells",
+      "Storage of nutrients",
+      "Gas exchange"
+    ],
+    "answer": "Fluid transfer between cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood’s thermal conductivity is low because:",
+    "options": [
+      "It has metallic bonds",
+      "It has uniform crystal structure",
+      "It contains air spaces and low-density fibers",
+      "It is chemically inert",
+      "It has high water content"
+    ],
+    "answer": "It contains air spaces and low-density fibers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood is a complex biological structure evolved for:",
+    "options": [
+      "Thermal insulation",
+      "Photosynthesis and respiration",
+      "Water conduction, mechanical support, and biochemical storage",
+      "Seed germination",
+      "Oxygen production"
+    ],
+    "answer": "Water conduction, mechanical support, and biochemical storage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood’s thermal conductivity is low because:",
+    "options": [
+      "It has metallic bonds",
+      "It has uniform crystal structure",
+      "It contains air spaces and low-density fibers",
+      "It is chemically inert",
+      "It has high water content"
+    ],
+    "answer": "It contains air spaces and low-density fibers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Lumber grading evaluates:",
+    "options": [
+      "Knots, slope of grain, and flaws",
+      "Moisture absorption",
+      "Age of the tree",
+      "Color and smell",
+      "Mineral content"
+    ],
+    "answer": "Knots, slope of grain, and flaws"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sapwood contains:",
+    "options": [
+      "More water and living cells, less durable",
+      "No water content",
+      "Dead cells and extractives",
+      "High resin concentration",
+      "Only lignin and cellulose"
+    ],
+    "answer": "More water and living cells, less durable"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood is a complex biological structure evolved for:",
+    "options": [
+      "Thermal insulation",
+      "Photosynthesis and respiration",
+      "Water conduction, mechanical support, and biochemical storage",
+      "Seed germination",
+      "Oxygen production"
+    ],
+    "answer": "Water conduction, mechanical support, and biochemical storage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sapwood contains:",
+    "options": [
+      "More water and living cells, less durable",
+      "No water content",
+      "Dead cells and extractives",
+      "High resin concentration",
+      "Only lignin and cellulose"
+    ],
+    "answer": "More water and living cells, less durable"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in wood cells allow:",
+    "options": [
+      "Light diffusion",
+      "Thermal expansion",
+      "Fluid transfer between cells",
+      "Storage of nutrients",
+      "Gas exchange"
+    ],
+    "answer": "Fluid transfer between cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in wood cells allow:",
+    "options": [
+      "Light diffusion",
+      "Thermal expansion",
+      "Fluid transfer between cells",
+      "Storage of nutrients",
+      "Gas exchange"
+    ],
+    "answer": "Fluid transfer between cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sapwood contains:",
+    "options": [
+      "More water and living cells, less durable",
+      "No water content",
+      "Dead cells and extractives",
+      "High resin concentration",
+      "Only lignin and cellulose"
+    ],
+    "answer": "More water and living cells, less durable"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Cell walls in wood are primarily made of ______, ______, and ______.",
+    "answer": "cellulose, hemicellulose, lignin"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "British Columbia forests maintain diversity by:",
+    "options": [
+      "Planting monocultures",
+      "Using only fast-growing pine species",
+      "Introducing exotic hardwoods",
+      "Eliminating conifers",
+      "Replanting native species like Douglas Fir and Western Red Cedar"
+    ],
+    "answer": "Replanting native species like Douglas Fir and Western Red Cedar"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood is a complex biological structure evolved for:",
+    "options": [
+      "Thermal insulation",
+      "Photosynthesis and respiration",
+      "Water conduction, mechanical support, and biochemical storage",
+      "Seed germination",
+      "Oxygen production"
+    ],
+    "answer": "Water conduction, mechanical support, and biochemical storage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Cell walls in wood are primarily made of ______, ______, and ______.",
+    "answer": "cellulose, hemicellulose, lignin"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood is a complex biological structure evolved for:",
+    "options": [
+      "Thermal insulation",
+      "Photosynthesis and respiration",
+      "Water conduction, mechanical support, and biochemical storage",
+      "Seed germination",
+      "Oxygen production"
+    ],
+    "answer": "Water conduction, mechanical support, and biochemical storage"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Cell walls in wood are primarily made of ______, ______, and ______.",
+    "answer": "cellulose, hemicellulose, lignin"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "British Columbia forests maintain diversity by:",
+    "options": [
+      "Planting monocultures",
+      "Using only fast-growing pine species",
+      "Introducing exotic hardwoods",
+      "Eliminating conifers",
+      "Replanting native species like Douglas Fir and Western Red Cedar"
+    ],
+    "answer": "Replanting native species like Douglas Fir and Western Red Cedar"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood is a complex biological structure evolved for:",
+    "options": [
+      "Thermal insulation",
+      "Photosynthesis and respiration",
+      "Water conduction, mechanical support, and biochemical storage",
+      "Seed germination",
+      "Oxygen production"
+    ],
+    "answer": "Water conduction, mechanical support, and biochemical storage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Cell walls in wood are primarily made of ______, ______, and ______.",
+    "answer": "cellulose, hemicellulose, lignin"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sapwood contains:",
+    "options": [
+      "More water and living cells, less durable",
+      "No water content",
+      "Dead cells and extractives",
+      "High resin concentration",
+      "Only lignin and cellulose"
+    ],
+    "answer": "More water and living cells, less durable"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Cell walls in wood are primarily made of ______, ______, and ______.",
+    "answer": "cellulose, hemicellulose, lignin"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "British Columbia forests maintain diversity by:",
+    "options": [
+      "Planting monocultures",
+      "Using only fast-growing pine species",
+      "Introducing exotic hardwoods",
+      "Eliminating conifers",
+      "Replanting native species like Douglas Fir and Western Red Cedar"
+    ],
+    "answer": "Replanting native species like Douglas Fir and Western Red Cedar"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in wood cells allow:",
+    "options": [
+      "Light diffusion",
+      "Thermal expansion",
+      "Fluid transfer between cells",
+      "Storage of nutrients",
+      "Gas exchange"
+    ],
+    "answer": "Fluid transfer between cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Heartwood differs from sapwood because it:",
+    "options": [
+      "Is lighter in color",
+      "Has higher water content",
+      "Contains more living cells",
+      "Contains dead cells, more extractives, and is more durable",
+      "Is less dense"
+    ],
+    "answer": "Contains dead cells, more extractives, and is more durable"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Cell walls in wood are primarily made of ______, ______, and ______.",
+    "answer": "cellulose, hemicellulose, lignin"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Cell walls in wood are primarily made of ______, ______, and ______.",
+    "answer": "cellulose, hemicellulose, lignin"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Lumber grading evaluates:",
+    "options": [
+      "Knots, slope of grain, and flaws",
+      "Moisture absorption",
+      "Age of the tree",
+      "Color and smell",
+      "Mineral content"
+    ],
+    "answer": "Knots, slope of grain, and flaws"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sapwood contains:",
+    "options": [
+      "More water and living cells, less durable",
+      "No water content",
+      "Dead cells and extractives",
+      "High resin concentration",
+      "Only lignin and cellulose"
+    ],
+    "answer": "More water and living cells, less durable"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood’s thermal conductivity is low because:",
+    "options": [
+      "It has metallic bonds",
+      "It has uniform crystal structure",
+      "It contains air spaces and low-density fibers",
+      "It is chemically inert",
+      "It has high water content"
+    ],
+    "answer": "It contains air spaces and low-density fibers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood’s thermal conductivity is low because:",
+    "options": [
+      "It has metallic bonds",
+      "It has uniform crystal structure",
+      "It contains air spaces and low-density fibers",
+      "It is chemically inert",
+      "It has high water content"
+    ],
+    "answer": "It contains air spaces and low-density fibers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood is a complex biological structure evolved for:",
+    "options": [
+      "Thermal insulation",
+      "Photosynthesis and respiration",
+      "Water conduction, mechanical support, and biochemical storage",
+      "Seed germination",
+      "Oxygen production"
+    ],
+    "answer": "Water conduction, mechanical support, and biochemical storage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Lumber grading evaluates:",
+    "options": [
+      "Knots, slope of grain, and flaws",
+      "Moisture absorption",
+      "Age of the tree",
+      "Color and smell",
+      "Mineral content"
+    ],
+    "answer": "Knots, slope of grain, and flaws"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sapwood contains:",
+    "options": [
+      "More water and living cells, less durable",
+      "No water content",
+      "Dead cells and extractives",
+      "High resin concentration",
+      "Only lignin and cellulose"
+    ],
+    "answer": "More water and living cells, less durable"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in wood cells allow:",
+    "options": [
+      "Light diffusion",
+      "Thermal expansion",
+      "Fluid transfer between cells",
+      "Storage of nutrients",
+      "Gas exchange"
+    ],
+    "answer": "Fluid transfer between cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood’s thermal conductivity is low because:",
+    "options": [
+      "It has metallic bonds",
+      "It has uniform crystal structure",
+      "It contains air spaces and low-density fibers",
+      "It is chemically inert",
+      "It has high water content"
+    ],
+    "answer": "It contains air spaces and low-density fibers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sapwood contains:",
+    "options": [
+      "More water and living cells, less durable",
+      "No water content",
+      "Dead cells and extractives",
+      "High resin concentration",
+      "Only lignin and cellulose"
+    ],
+    "answer": "More water and living cells, less durable"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in wood cells allow:",
+    "options": [
+      "Light diffusion",
+      "Thermal expansion",
+      "Fluid transfer between cells",
+      "Storage of nutrients",
+      "Gas exchange"
+    ],
+    "answer": "Fluid transfer between cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood’s thermal conductivity is low because:",
+    "options": [
+      "It has metallic bonds",
+      "It has uniform crystal structure",
+      "It contains air spaces and low-density fibers",
+      "It is chemically inert",
+      "It has high water content"
+    ],
+    "answer": "It contains air spaces and low-density fibers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Cell walls in wood are primarily made of ______, ______, and ______.",
+    "answer": "cellulose, hemicellulose, lignin"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "British Columbia forests maintain diversity by:",
+    "options": [
+      "Planting monocultures",
+      "Using only fast-growing pine species",
+      "Introducing exotic hardwoods",
+      "Eliminating conifers",
+      "Replanting native species like Douglas Fir and Western Red Cedar"
+    ],
+    "answer": "Replanting native species like Douglas Fir and Western Red Cedar"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Cell walls in wood are primarily made of ______, ______, and ______.",
+    "answer": "cellulose, hemicellulose, lignin"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood’s thermal conductivity is low because:",
+    "options": [
+      "It has metallic bonds",
+      "It has uniform crystal structure",
+      "It contains air spaces and low-density fibers",
+      "It is chemically inert",
+      "It has high water content"
+    ],
+    "answer": "It contains air spaces and low-density fibers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in wood cells allow:",
+    "options": [
+      "Light diffusion",
+      "Thermal expansion",
+      "Fluid transfer between cells",
+      "Storage of nutrients",
+      "Gas exchange"
+    ],
+    "answer": "Fluid transfer between cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Hardwoods are characterized by:",
+    "options": [
+      "Simple cell structure",
+      "Complex structure with fibers, vessels, and parenchyma cells",
+      "Uniform texture",
+      "Single-layered cell walls",
+      "Only tracheids and resin canals"
+    ],
+    "answer": "Complex structure with fibers, vessels, and parenchyma cells"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Cell walls in wood are primarily made of ______, ______, and ______.",
+    "answer": "cellulose, hemicellulose, lignin"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in wood cells allow:",
+    "options": [
+      "Light diffusion",
+      "Thermal expansion",
+      "Fluid transfer between cells",
+      "Storage of nutrients",
+      "Gas exchange"
+    ],
+    "answer": "Fluid transfer between cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in wood cells allow:",
+    "options": [
+      "Light diffusion",
+      "Thermal expansion",
+      "Fluid transfer between cells",
+      "Storage of nutrients",
+      "Gas exchange"
+    ],
+    "answer": "Fluid transfer between cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in wood cells allow:",
+    "options": [
+      "Light diffusion",
+      "Thermal expansion",
+      "Fluid transfer between cells",
+      "Storage of nutrients",
+      "Gas exchange"
+    ],
+    "answer": "Fluid transfer between cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in wood cells allow:",
+    "options": [
+      "Light diffusion",
+      "Thermal expansion",
+      "Fluid transfer between cells",
+      "Storage of nutrients",
+      "Gas exchange"
+    ],
+    "answer": "Fluid transfer between cells"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pits in heartwood are typically:",
+    "options": [
+      "Closed",
+      "Perforated",
+      "Porous",
+      "Open",
+      "Blocked with resin"
+    ],
+    "answer": "Closed"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Softwoods are characterized by:",
+    "options": [
+      "High extractive content",
+      "Simpler structure with two main cell types",
+      "Dense fibrous structure",
+      "Presence of parenchyma only",
+      "Complex vessel networks"
+    ],
+    "answer": "Simpler structure with two main cell types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "British Columbia forests maintain diversity by:",
+    "options": [
+      "Planting monocultures",
+      "Using only fast-growing pine species",
+      "Introducing exotic hardwoods",
+      "Eliminating conifers",
+      "Replanting native species like Douglas Fir and Western Red Cedar"
+    ],
+    "answer": "Replanting native species like Douglas Fir and Western Red Cedar"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Sapwood is vulnerable to ______ due to nutrient content.",
+    "answer": "bio-deterioration"
+  }
+]
