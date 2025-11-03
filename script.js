@@ -19,6 +19,7 @@ const els = {
   fillinInput: document.getElementById('fillin-input'),
   submitFillin: document.getElementById('submit-fillin'),
   feedback: document.getElementById('feedback'),
+  answerReveal: document.getElementById('answer-reveal'),
   nextBtn: document.getElementById('next-btn'),
   quitBtn: document.getElementById('quit-btn'),
   finalScore: document.getElementById('final-score'),
@@ -27,7 +28,7 @@ const els = {
 };
 
 // State
-let questions = [];
+let questionQueue = [];
 let currentIndex = 0;
 let score = 0;
 let wrongAnswers = [];
@@ -58,7 +59,7 @@ function setFeedback(ok, msg){
 }
 
 function setProgress(){
-  const totalQuestions = questions.length;
+  const totalQuestions = questionQueue.length;
   const asked = totalQuestions === 0 ? 0 : Math.min(currentIndex + 1, totalQuestions);
   els.progress.textContent = `Question ${asked} of ${totalQuestions}`;
   els.score.textContent = `Score: ${score}/${asked}`;
@@ -68,7 +69,6 @@ function show(el){ el.classList.remove('hidden'); }
 function hide(el){ el.classList.add('hidden'); }
 
 function lockUI(){
-  // Disable buttons/inputs after answering
   const btns = els.options.querySelectorAll('button');
   btns.forEach(b => b.disabled = true);
   els.submitFillin.disabled = true;
@@ -82,6 +82,8 @@ function resetUI(){
   els.submitFillin.disabled = false;
   els.feedback.textContent = '';
   els.feedback.className = 'feedback';
+  els.answerReveal.textContent = '';
+  hide(els.answerReveal);
   hide(els.nextBtn);
 }
 
@@ -107,9 +109,6 @@ async function startQuiz(){
     if(!Array.isArray(data)){
       throw new Error('Quiz data must be an array of questions.');
     }
-        if(!Array.isArray(data)){
-      throw new Error('Quiz data must be an array of questions.');
-    }
     if(data.length === 0){
       alert('No questions are available for this topic yet.');
       return;
@@ -131,13 +130,13 @@ async function startQuiz(){
     }
 
     const pool = shuffle([...data]);
-    questions = pool.slice(0, desiredCount);
+    questionQueue = pool.slice(0, desiredCount).map(q => ({ ...q }));
   }catch(err){
     alert(`Could not load quiz data. Make sure the JSON files are present. ${err.message}`);
     return;
+  } finally {
+    els.startBtn.disabled = false;
   }
-
-  els.startBtn.disabled = false;
 
   currentIndex = 0;
   score = 0;
@@ -155,10 +154,9 @@ function renderCurrent(){
   resetUI();
   setProgress();
 
-  const q = questions[currentIndex];
+  const q = questionQueue[currentIndex];
   els.qText.textContent = q.question ?? '';
 
-  // Decide type
   const type = q.type || (q.options ? 'multiple_choice' : 'fill_blank');
 
   if(type === 'multiple_choice'){
@@ -168,6 +166,20 @@ function renderCurrent(){
   }
 }
 
+function recordWrongAnswer(q, userAnswer){
+  wrongAnswers.push({
+    question: q.question,
+    userAnswer,
+    correctAnswer: q.answer
+  });
+}
+
+function scheduleRetry(q){
+  const insertAt = Math.min(questionQueue.length, currentIndex + 4);
+  questionQueue.splice(insertAt, 0, q);
+  setProgress();
+}
+
 function showMultipleChoice(q){
   show(els.options);
   hide(els.fillin);
@@ -175,17 +187,15 @@ function showMultipleChoice(q){
   const correct = q.answer;
   const normalizedCorrect = correct != null ? String(correct) : '';
   const options = Array.isArray(q.options) ? q.options.slice() : [];
-  // Ensure options exist; if not, fallback
   if(options.length === 0 && typeof correct === 'string'){
     options.push(correct);
   }
-  // Shuffle options for fairness
   shuffle(options);
 
   options.forEach((opt, idx) => {
     const btn = document.createElement('button');
     btn.className = 'option-btn';
-        btn.dataset.choiceValue = String(opt);
+    btn.dataset.choiceValue = String(opt);
 
     const letterSpan = document.createElement('span');
     letterSpan.className = 'option-letter';
@@ -209,14 +219,10 @@ function showMultipleChoice(q){
       }else{
         btn.classList.add('incorrect');
         setFeedback(false, 'Incorrect ❌');
-        wrongAnswers.push({
-          question: q.question,
-          userAnswer: opt,
-          correctAnswer: correct
-        });
-        // Also highlight the correct one
+        recordWrongAnswer(q, opt);
+        scheduleRetry(q);
         [...els.options.querySelectorAll('button')].forEach(b => {
-        if(String(b.dataset.choiceValue) === normalizedCorrect) b.classList.add('correct');
+          if(String(b.dataset.choiceValue) === normalizedCorrect) b.classList.add('correct');
         });
       }
       lockUI();
@@ -233,7 +239,7 @@ function showFillBlank(q){
 
   const correct = normalizeText(q.answer);
 
-  function submit(){
+  const submit = () => {
     if(answered) return;
     const userRaw = els.fillinInput.value;
     const user = normalizeText(userRaw);
@@ -245,20 +251,19 @@ function showFillBlank(q){
       score += 1;
     }else{
       setFeedback(false, 'Incorrect ❌');
-      wrongAnswers.push({
-        question: q.question,
-        userAnswer: userRaw,
-        correctAnswer: q.answer
-      });
+      recordWrongAnswer(q, userRaw);
+      els.answerReveal.textContent = `Correct answer: ${q.answer}`;
+      show(els.answerReveal);
+      scheduleRetry(q);
     }
     lockUI();
     show(els.nextBtn);
     setProgress();
-  }
+  };
 
   els.submitFillin.onclick = submit;
   els.fillinInput.onkeydown = (e) => {
-    if(e.key === 'Enter'){ submit(); }
+    if(e.key === 'Enter') submit();
   };
   els.fillinInput.focus();
 }
@@ -266,7 +271,7 @@ function showFillBlank(q){
 function nextQuestion(){
   answered = false;
   currentIndex += 1;
-  if(currentIndex >= questions.length){
+  if(currentIndex >= questionQueue.length){
     return showSummary();
   }
   renderCurrent();
@@ -276,11 +281,10 @@ function showSummary(){
   hide(els.quizCard);
   show(els.summaryCard);
 
-  const total = questions.length;
+  const total = questionQueue.length;
   const pct = total > 0 ? Math.round((score / total) * 100) : 0;
   els.finalScore.textContent = `Final Score: ${score} / ${total} (${pct}%)`;
 
-  // Wrong answers list
   els.wrongList.innerHTML = '';
   if(wrongAnswers.length === 0){
     const p = document.createElement('p');
@@ -306,7 +310,6 @@ function showSummary(){
 }
 
 function restart(){
-  // Return to setup screen (fresh start)
   hide(els.quizCard);
   hide(els.summaryCard);
   show(els.setupCard);
@@ -314,10 +317,12 @@ function restart(){
   currentIndex = 0;
   score = 0;
   wrongAnswers = [];
-  questions = [];
+  questionQueue = [];
   els.feedback.textContent = '';
   els.options.innerHTML = '';
   els.fillinInput.value = '';
+  els.answerReveal.textContent = '';
+  hide(els.answerReveal);
   setProgress();
 }
 
