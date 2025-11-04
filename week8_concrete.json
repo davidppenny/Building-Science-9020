@@ -1,1683 +1,1669 @@
 [
   {
     "type": "multiple_choice",
-    "question": "Which admixture type delays setting time?",
+    "question": "Reinforced concrete was introduced primarily to address:",
     "options": [
-      "Water reducer",
-      "Retarder",
-      "Air-entrainer",
-      "Corrosion inhibitor",
-      "Accelerator"
+      "High compressive strength",
+      "Low density",
+      "High thermal expansion",
+      "Poor fire resistance",
+      "Concrete’s low tensile strength"
     ],
-    "answer": "Retarder"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which admixture type delays setting time?",
-    "options": [
-      "Water reducer",
-      "Retarder",
-      "Air-entrainer",
-      "Corrosion inhibitor",
-      "Accelerator"
-    ],
-    "answer": "Retarder"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Higher W/C ratio results in:",
-    "options": [
-      "Higher strength",
-      "None",
-      "Reduced shrinkage",
-      "Improved abrasion resistance",
-      "Lower strength and durability"
-    ],
-    "answer": "Lower strength and durability"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Coarse aggregates are typically:",
-    "options": [
-      "Fly ash",
-      "Clay",
-      "Lime powder",
-      "Gravel or crushed rock",
-      "Sand"
-    ],
-    "answer": "Gravel or crushed rock"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which admixture type delays setting time?",
-    "options": [
-      "Water reducer",
-      "Retarder",
-      "Air-entrainer",
-      "Corrosion inhibitor",
-      "Accelerator"
-    ],
-    "answer": "Retarder"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which admixture type delays setting time?",
-    "options": [
-      "Water reducer",
-      "Retarder",
-      "Air-entrainer",
-      "Corrosion inhibitor",
-      "Accelerator"
-    ],
-    "answer": "Retarder"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Creep in concrete refers to:",
-    "options": [
-      "Freeze expansion",
-      "Thermal cracking",
-      "Shrinkage cracking",
-      "Long-term deformation under load",
-      "Chemical corrosion"
-    ],
-    "answer": "Long-term deformation under load"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What pH level causes steel passivation to break down in concrete?",
-    "options": [
-      "Below 6",
-      "Below 10.5",
-      "Below 9",
-      "Below 12",
-      "Below 8.5"
-    ],
-    "answer": "Below 9"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Ground granulated blast furnace slag must be ______ to be reactive.",
-    "options": [
-      "Slow cooled",
-      "Quenched (glassy)",
-      "Calcined",
-      "Air cured",
-      "Hydrated"
-    ],
-    "answer": "Quenched (glassy)"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What pH level causes steel passivation to break down in concrete?",
-    "options": [
-      "Below 6",
-      "Below 10.5",
-      "Below 9",
-      "Below 12",
-      "Below 8.5"
-    ],
-    "answer": "Below 9"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which factor most affects concrete permeability?",
-    "options": [
-      "W/C ratio",
-      "Air content",
-      "Aggregate shape",
-      "Temperature",
-      "Cement fineness"
-    ],
-    "answer": "W/C ratio"
+    "answer": "Concrete’s low tensile strength"
   },
   {
     "type": "fill_blank",
-    "question": "Cement hydration continues for years, but strength is typically tested at ______ days.",
-    "answer": "28"
+    "question": "Modern cement usage since the 1980s has produced volumes ______ all prior history.",
+    "answer": "greater than"
   },
   {
     "type": "multiple_choice",
-    "question": "Ground granulated blast furnace slag must be ______ to be reactive.",
+    "question": "Which ancient structure used volcanic pumice to reduce concrete density?",
     "options": [
-      "Slow cooled",
-      "Quenched (glassy)",
-      "Calcined",
-      "Air cured",
-      "Hydrated"
-    ],
-    "answer": "Quenched (glassy)"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What proportion of global CO₂ emissions are attributed to cement production?",
-    "options": [
-      "2%",
-      "12%",
-      "15%",
-      "5%",
-      "8%"
-    ],
-    "answer": "8%"
-  },
-  {
-    "type": "fill_blank",
-    "question": "Cement hydration continues for years, but strength is typically tested at ______ days.",
-    "answer": "28"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Chloride attack primarily affects concrete by:",
-    "options": [
-      "Destroying the passive film on rebar",
-      "Leaching lime",
-      "Causing carbonation",
-      "Reducing strength gain",
-      "Increasing porosity"
-    ],
-    "answer": "Destroying the passive film on rebar"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
-    "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
-    ],
-    "answer": "Lime (CaO)"
-  },
-  {
-    "type": "fill_blank",
-    "question": "Cement hydration continues for years, but strength is typically tested at ______ days.",
-    "answer": "28"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
-    "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
-    ],
-    "answer": "Lime (CaO)"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Fine aggregate is another term for:",
-    "options": [
-      "Clay",
-      "Cement",
-      "Gypsum",
-      "Gravel",
-      "Sand"
-    ],
-    "answer": "Sand"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Fine aggregate is another term for:",
-    "options": [
-      "Clay",
-      "Cement",
-      "Gypsum",
-      "Gravel",
-      "Sand"
-    ],
-    "answer": "Sand"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Creep in concrete refers to:",
-    "options": [
-      "Freeze expansion",
-      "Thermal cracking",
-      "Shrinkage cracking",
-      "Long-term deformation under load",
-      "Chemical corrosion"
-    ],
-    "answer": "Long-term deformation under load"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Ground granulated blast furnace slag must be ______ to be reactive.",
-    "options": [
-      "Slow cooled",
-      "Quenched (glassy)",
-      "Calcined",
-      "Air cured",
-      "Hydrated"
-    ],
-    "answer": "Quenched (glassy)"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
-    "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
-    ],
-    "answer": "Lime (CaO)"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What pH level causes steel passivation to break down in concrete?",
-    "options": [
-      "Below 6",
-      "Below 10.5",
-      "Below 9",
-      "Below 12",
-      "Below 8.5"
-    ],
-    "answer": "Below 9"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
-    "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
-    ],
-    "answer": "Lime (CaO)"
-  },
-  {
-    "type": "fill_blank",
-    "question": "Cement hydration continues for years, but strength is typically tested at ______ days.",
-    "answer": "28"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What byproduct of hydration reduces concrete durability?",
-    "options": [
-      "Gypsum",
-      "C-S-H gel",
-      "Calcium hydroxide",
-      "Alumina",
-      "Lime"
-    ],
-    "answer": "Calcium hydroxide"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which oxide contributes primarily to the color of cement?",
-    "options": [
-      "Magnesium oxide",
-      "Lime",
-      "Alumina",
-      "Gypsum",
-      "Iron oxide"
-    ],
-    "answer": "Iron oxide"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What byproduct of hydration reduces concrete durability?",
-    "options": [
-      "Gypsum",
-      "C-S-H gel",
-      "Calcium hydroxide",
-      "Alumina",
-      "Lime"
-    ],
-    "answer": "Calcium hydroxide"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What pH level causes steel passivation to break down in concrete?",
-    "options": [
-      "Below 6",
-      "Below 10.5",
-      "Below 9",
-      "Below 12",
-      "Below 8.5"
-    ],
-    "answer": "Below 9"
-  },
-  {
-    "type": "fill_blank",
-    "question": "Cement hydration continues for years, but strength is typically tested at ______ days.",
-    "answer": "28"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which factor most affects concrete permeability?",
-    "options": [
-      "W/C ratio",
-      "Air content",
-      "Aggregate shape",
-      "Temperature",
-      "Cement fineness"
-    ],
-    "answer": "W/C ratio"
-  },
-  {
-    "type": "fill_blank",
-    "question": "Cement hydration continues for years, but strength is typically tested at ______ days.",
-    "answer": "28"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Fine aggregate is another term for:",
-    "options": [
-      "Clay",
-      "Cement",
-      "Gypsum",
-      "Gravel",
-      "Sand"
-    ],
-    "answer": "Sand"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "The main setting regulator in cement is:",
-    "options": [
-      "Iron oxide",
-      "Gypsum",
-      "Lime",
-      "Sulfates",
-      "Silica"
-    ],
-    "answer": "Gypsum"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What byproduct of hydration reduces concrete durability?",
-    "options": [
-      "Gypsum",
-      "C-S-H gel",
-      "Calcium hydroxide",
-      "Alumina",
-      "Lime"
-    ],
-    "answer": "Calcium hydroxide"
-  },
-  {
-    "type": "fill_blank",
-    "question": "The swelling gel responsible for internal cracking in AAR is formed by reaction between alkalis and ______.",
-    "answer": "Reactive silica"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Ground granulated blast furnace slag must be ______ to be reactive.",
-    "options": [
-      "Slow cooled",
-      "Quenched (glassy)",
-      "Calcined",
-      "Air cured",
-      "Hydrated"
-    ],
-    "answer": "Quenched (glassy)"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "FRP bars are governed by which CSA standard?",
-    "options": [
-      "CSA A23.1",
-      "CSA S413",
-      "CSA O80",
-      "CSA S806",
-      "CSA G40.21"
-    ],
-    "answer": "CSA S806"
-  },
-  {
-    "type": "fill_blank",
-    "question": "Cement hydration continues for years, but strength is typically tested at ______ days.",
-    "answer": "28"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Coarse aggregates are typically:",
-    "options": [
-      "Fly ash",
-      "Clay",
-      "Lime powder",
-      "Gravel or crushed rock",
-      "Sand"
-    ],
-    "answer": "Gravel or crushed rock"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Creep in concrete refers to:",
-    "options": [
-      "Freeze expansion",
-      "Thermal cracking",
-      "Shrinkage cracking",
-      "Long-term deformation under load",
-      "Chemical corrosion"
-    ],
-    "answer": "Long-term deformation under load"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which factor most affects concrete permeability?",
-    "options": [
-      "W/C ratio",
-      "Air content",
-      "Aggregate shape",
-      "Temperature",
-      "Cement fineness"
-    ],
-    "answer": "W/C ratio"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What pH level causes steel passivation to break down in concrete?",
-    "options": [
-      "Below 6",
-      "Below 10.5",
-      "Below 9",
-      "Below 12",
-      "Below 8.5"
-    ],
-    "answer": "Below 9"
-  },
-  {
-    "type": "fill_blank",
-    "question": "Cement hydration continues for years, but strength is typically tested at ______ days.",
-    "answer": "28"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What pH level causes steel passivation to break down in concrete?",
-    "options": [
-      "Below 6",
-      "Below 10.5",
-      "Below 9",
-      "Below 12",
-      "Below 8.5"
-    ],
-    "answer": "Below 9"
-  },
-  {
-    "type": "fill_blank",
-    "question": "Cement hydration continues for years, but strength is typically tested at ______ days.",
-    "answer": "28"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Ground granulated blast furnace slag must be ______ to be reactive.",
-    "options": [
-      "Slow cooled",
-      "Quenched (glassy)",
-      "Calcined",
-      "Air cured",
-      "Hydrated"
-    ],
-    "answer": "Quenched (glassy)"
-  },
-  {
-    "type": "fill_blank",
-    "question": "Cement hydration continues for years, but strength is typically tested at ______ days.",
-    "answer": "28"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Fine aggregate is another term for:",
-    "options": [
-      "Clay",
-      "Cement",
-      "Gypsum",
-      "Gravel",
-      "Sand"
-    ],
-    "answer": "Sand"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Creep in concrete refers to:",
-    "options": [
-      "Freeze expansion",
-      "Thermal cracking",
-      "Shrinkage cracking",
-      "Long-term deformation under load",
-      "Chemical corrosion"
-    ],
-    "answer": "Long-term deformation under load"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What pH level causes steel passivation to break down in concrete?",
-    "options": [
-      "Below 6",
-      "Below 10.5",
-      "Below 9",
-      "Below 12",
-      "Below 8.5"
-    ],
-    "answer": "Below 9"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which admixture type delays setting time?",
-    "options": [
-      "Water reducer",
-      "Retarder",
-      "Air-entrainer",
-      "Corrosion inhibitor",
-      "Accelerator"
-    ],
-    "answer": "Retarder"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "The main setting regulator in cement is:",
-    "options": [
-      "Iron oxide",
-      "Gypsum",
-      "Lime",
-      "Sulfates",
-      "Silica"
-    ],
-    "answer": "Gypsum"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Higher W/C ratio results in:",
-    "options": [
-      "Higher strength",
-      "None",
-      "Reduced shrinkage",
-      "Improved abrasion resistance",
-      "Lower strength and durability"
-    ],
-    "answer": "Lower strength and durability"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "FRP bars are governed by which CSA standard?",
-    "options": [
-      "CSA A23.1",
-      "CSA S413",
-      "CSA O80",
-      "CSA S806",
-      "CSA G40.21"
-    ],
-    "answer": "CSA S806"
-  },
-  {
-    "type": "fill_blank",
-    "question": "Cement hydration continues for years, but strength is typically tested at ______ days.",
-    "answer": "28"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Pozzolanic materials gain strength primarily by reacting with:",
-    "options": [
-      "Calcium hydroxide",
-      "Aluminum silicates",
-      "Iron oxide",
-      "Magnesium oxide",
-      "Sulfate ions"
-    ],
-    "answer": "Calcium hydroxide"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Creep in concrete refers to:",
-    "options": [
-      "Freeze expansion",
-      "Thermal cracking",
-      "Shrinkage cracking",
-      "Long-term deformation under load",
-      "Chemical corrosion"
-    ],
-    "answer": "Long-term deformation under load"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which factor most affects concrete permeability?",
-    "options": [
-      "W/C ratio",
-      "Air content",
-      "Aggregate shape",
-      "Temperature",
-      "Cement fineness"
-    ],
-    "answer": "W/C ratio"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Superplasticizers are used to:",
-    "options": [
-      "Slow setting",
-      "Increase flow without adding water",
-      "Increase density",
-      "Reduce shrinkage",
-      "Increase air content"
-    ],
-    "answer": "Increase flow without adding water"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Superplasticizers are used to:",
-    "options": [
-      "Slow setting",
-      "Increase flow without adding water",
-      "Increase density",
-      "Reduce shrinkage",
-      "Increase air content"
-    ],
-    "answer": "Increase flow without adding water"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Creep in concrete refers to:",
-    "options": [
-      "Freeze expansion",
-      "Thermal cracking",
-      "Shrinkage cracking",
-      "Long-term deformation under load",
-      "Chemical corrosion"
-    ],
-    "answer": "Long-term deformation under load"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What is the primary binder used in modern concrete?",
-    "options": [
-      "Pozzolana",
-      "Calcium sulfate",
-      "Portland cement",
-      "Lime and clay",
-      "Bitumen"
-    ],
-    "answer": "Portland cement"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Air entrainment improves resistance to:",
-    "options": [
-      "Sulfate attack",
-      "AAR",
-      "Chloride attack",
-      "Freeze-thaw cycles",
-      "Corrosion"
-    ],
-    "answer": "Freeze-thaw cycles"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Fine aggregate is another term for:",
-    "options": [
-      "Clay",
-      "Cement",
-      "Gypsum",
-      "Gravel",
-      "Sand"
-    ],
-    "answer": "Sand"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Ground granulated blast furnace slag must be ______ to be reactive.",
-    "options": [
-      "Slow cooled",
-      "Quenched (glassy)",
-      "Calcined",
-      "Air cured",
-      "Hydrated"
-    ],
-    "answer": "Quenched (glassy)"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
-    "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
-    ],
-    "answer": "Lime (CaO)"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which factor most affects concrete permeability?",
-    "options": [
-      "W/C ratio",
-      "Air content",
-      "Aggregate shape",
-      "Temperature",
-      "Cement fineness"
-    ],
-    "answer": "W/C ratio"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "The main setting regulator in cement is:",
-    "options": [
-      "Iron oxide",
-      "Gypsum",
-      "Lime",
-      "Sulfates",
-      "Silica"
-    ],
-    "answer": "Gypsum"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which ancient structure demonstrates early use of lightweight concrete using volcanic pumice?",
-    "options": [
-      "Parthenon",
-      "Hagia Sophia",
-      "Colosseum",
       "Great Pyramid",
-      "Pantheon dome"
+      "Pantheon dome",
+      "Parthenon",
+      "Colosseum",
+      "Hagia Sophia"
     ],
     "answer": "Pantheon dome"
   },
   {
     "type": "multiple_choice",
-    "question": "Which admixture type delays setting time?",
+    "question": "Natural cement is best described as:",
     "options": [
-      "Water reducer",
-      "Retarder",
-      "Air-entrainer",
-      "Corrosion inhibitor",
-      "Accelerator"
+      "Calcined clay-limestone rock; quick-setting but low strength",
+      "Pozzolana mixed with water only",
+      "Hydraulic lime with silica fume",
+      "Pure gypsum fired at low temperature",
+      "Ground slag blended with lime"
     ],
-    "answer": "Retarder"
+    "answer": "Calcined clay-limestone rock; quick-setting but low strength"
   },
   {
     "type": "multiple_choice",
-    "question": "Fine aggregate is another term for:",
+    "question": "Slag cement is primarily produced from:",
     "options": [
-      "Clay",
-      "Cement",
-      "Gypsum",
-      "Gravel",
-      "Sand"
+      "Hydrated lime and fly ash only",
+      "Blast furnace slag blended with lime",
+      "Silica sand and alumina only",
+      "Clay fired at low temperatures",
+      "Metakaolin calcined with gypsum"
     ],
-    "answer": "Sand"
+    "answer": "Blast furnace slag blended with lime"
   },
   {
     "type": "multiple_choice",
-    "question": "Which factor most affects concrete permeability?",
+    "question": "Which civilization is credited with inventing hydraulic cement?",
     "options": [
-      "W/C ratio",
-      "Air content",
-      "Aggregate shape",
-      "Temperature",
-      "Cement fineness"
+      "Romans",
+      "Egyptians",
+      "Chinese",
+      "Persians",
+      "Greeks"
     ],
-    "answer": "W/C ratio"
+    "answer": "Romans"
   },
   {
     "type": "multiple_choice",
-    "question": "Higher W/C ratio results in:",
+    "question": "Historically, early evidence of lime and stone flooring dates to about:",
     "options": [
-      "Higher strength",
-      "None",
-      "Reduced shrinkage",
-      "Improved abrasion resistance",
-      "Lower strength and durability"
+      "900 AD",
+      "1800 AD",
+      "2500 BC",
+      "1200 BC",
+      "5600 BC"
     ],
-    "answer": "Lower strength and durability"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which factor most affects concrete permeability?",
-    "options": [
-      "W/C ratio",
-      "Air content",
-      "Aggregate shape",
-      "Temperature",
-      "Cement fineness"
-    ],
-    "answer": "W/C ratio"
+    "answer": "5600 BC"
   },
   {
     "type": "fill_blank",
-    "question": "The most common corrosion inhibitor used in concrete is ______.",
-    "answer": "Calcium nitrate"
+    "question": "Concrete is a composite in which a fine and coarse aggregate is bound together with ______.",
+    "answer": "cement"
   },
   {
     "type": "multiple_choice",
-    "question": "Superplasticizers are used to:",
+    "question": "Pozzolana cement relies on the reaction between lime and:",
     "options": [
-      "Slow setting",
-      "Increase flow without adding water",
-      "Increase density",
-      "Reduce shrinkage",
-      "Increase air content"
-    ],
-    "answer": "Increase flow without adding water"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What pH level causes steel passivation to break down in concrete?",
-    "options": [
-      "Below 6",
-      "Below 10.5",
-      "Below 9",
-      "Below 12",
-      "Below 8.5"
-    ],
-    "answer": "Below 9"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Chloride attack primarily affects concrete by:",
-    "options": [
-      "Destroying the passive film on rebar",
-      "Leaching lime",
-      "Causing carbonation",
-      "Reducing strength gain",
-      "Increasing porosity"
-    ],
-    "answer": "Destroying the passive film on rebar"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which factor most affects concrete permeability?",
-    "options": [
-      "W/C ratio",
-      "Air content",
-      "Aggregate shape",
-      "Temperature",
-      "Cement fineness"
-    ],
-    "answer": "W/C ratio"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Fly ash improves concrete by:",
-    "options": [
-      "Reducing curing time",
-      "Raising heat of hydration",
-      "Increasing workability and chemical resistance",
-      "Increasing early strength",
-      "Accelerating setting"
-    ],
-    "answer": "Increasing workability and chemical resistance"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What pH level causes steel passivation to break down in concrete?",
-    "options": [
-      "Below 6",
-      "Below 10.5",
-      "Below 9",
-      "Below 12",
-      "Below 8.5"
-    ],
-    "answer": "Below 9"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which fiber type provides the highest tensile strength-to-weight ratio among FRPs?",
-    "options": [
-      "Carbon fiber (CFRP)",
-      "Glass fiber (GFRP)",
-      "Aramid (AFRP)",
-      "Nylon fiber",
-      "Steel fiber"
-    ],
-    "answer": "Carbon fiber (CFRP)"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which oxide contributes primarily to the color of cement?",
-    "options": [
-      "Magnesium oxide",
-      "Lime",
-      "Alumina",
-      "Gypsum",
-      "Iron oxide"
-    ],
-    "answer": "Iron oxide"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What byproduct of hydration reduces concrete durability?",
-    "options": [
-      "Gypsum",
-      "C-S-H gel",
-      "Calcium hydroxide",
-      "Alumina",
-      "Lime"
-    ],
-    "answer": "Calcium hydroxide"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "The main setting regulator in cement is:",
-    "options": [
+      "Magnesium carbonate",
+      "Volcanic ash (siliceous materials)",
+      "Sulfate salts",
       "Iron oxide",
-      "Gypsum",
+      "Aluminum nitrate"
+    ],
+    "answer": "Volcanic ash (siliceous materials)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What are the main components of modern concrete?",
+    "options": [
+      "Bitumen and gravel",
+      "Cement, aggregates, and water",
+      "Cement, clay, and sand",
+      "Clay and lime",
+      "Cement and steel"
+    ],
+    "answer": "Cement, aggregates, and water"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A common deleterious effect of too-fine cement is:",
+    "options": [
+      "Lower early strength",
+      "No effect on hydration",
+      "Increased heat and cracking risk",
+      "Zero shrinkage",
+      "No change in reactivity"
+    ],
+    "answer": "Increased heat and cracking risk"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which oxide is associated with color and hardness in cement?",
+    "options": [
+      "Iron oxide (Fe₂O₃)",
+      "SO₃",
+      "Al₂O₃",
+      "MgO",
+      "K₂O"
+    ],
+    "answer": "Iron oxide (Fe₂O₃)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Natural cement compared to Portland cement is generally:",
+    "options": [
+      "Same composition",
+      "Cheaper, quick-setting, lower strength",
+      "Non-hydraulic",
+      "More durable, slow-setting, high strength",
+      "Not suitable for structural use due to toxicity only"
+    ],
+    "answer": "Cheaper, quick-setting, lower strength"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Portland cement is produced by intergrinding clinker with ______.",
+    "answer": "gypsum"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Excess alkalis (Na₂O, K₂O) in cement can cause:",
+    "options": [
+      "Improved freeze-thaw",
+      "Efflorescence and durability issues",
+      "Lower hydration heat",
+      "Less shrinkage",
+      "Higher compressive strength"
+    ],
+    "answer": "Efflorescence and durability issues"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Silica (SiO₂) in cement primarily contributes to:",
+    "options": [
+      "Set control",
+      "Workability",
+      "Freeze resistance",
+      "Color only",
+      "Strength development"
+    ],
+    "answer": "Strength development"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which cement family forms a paste when hydrated and binds aggregates?",
+    "options": [
+      "Clay slurry",
+      "Bituminous binder",
+      "Gypsum plaster",
+      "Portland cement",
+      "Lime putty"
+    ],
+    "answer": "Portland cement"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which oxide in Portland cement most directly contributes to strength and bonding?",
+    "options": [
+      "Calcium oxide (lime)",
+      "Magnesia",
+      "Iron oxide",
+      "Silica",
+      "Alumina"
+    ],
+    "answer": "Calcium oxide (lime)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pozzolanic materials are best described as:",
+    "options": [
+      "Organic resins",
+      "Hydraulic binders requiring no lime",
+      "Magnesium clays only",
+      "Iron-rich aggregates",
+      "Siliceous/aluminous materials reacting with lime"
+    ],
+    "answer": "Siliceous/aluminous materials reacting with lime"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "SO₃ (from gypsum) mainly influences:",
+    "options": [
+      "Permeability of hardened concrete",
+      "Soundness and set control",
+      "Workability of fresh concrete",
+      "Air entrainment",
+      "Density of aggregates"
+    ],
+    "answer": "Soundness and set control"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Slag cement hydration is generally:",
+    "options": [
+      "Slower with improved later-age strength",
+      "Faster with reduced durability",
+      "Instant with high heat",
+      "Unrelated to curing",
+      "Independent of temperature"
+    ],
+    "answer": "Slower with improved later-age strength"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Alumina (Al₂O₃) in cement is associated with:",
+    "options": [
+      "Soundness",
+      "Air entrainment",
+      "Quick setting",
+      "Long-term strength only",
+      "Color"
+    ],
+    "answer": "Quick setting"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical CaO content in Portland cement is:",
+    "options": [
+      "60–66%",
+      "15–25%",
+      "70–80%",
+      "45–50%",
+      "30–40%"
+    ],
+    "answer": "60–66%"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which component primarily regulates setting time in cement?",
+    "options": [
+      "Silica",
       "Lime",
-      "Sulfates",
-      "Silica"
+      "Alkalis",
+      "Iron oxide",
+      "Gypsum"
     ],
     "answer": "Gypsum"
   },
   {
     "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
+    "question": "A minor role in Portland cement chemistry is played by:",
     "options": [
+      "Al₂O₃",
+      "MgO (Magnesia)",
+      "CaO",
+      "Fe₂O₃",
+      "SiO₂"
+    ],
+    "answer": "MgO (Magnesia)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "After the kiln, clinker is cooled and ground with:",
+    "options": [
+      "Coarse aggregate",
+      "Adhesives",
+      "Gypsum and sometimes limestone",
+      "Fly ash only",
+      "Silica fume only"
+    ],
+    "answer": "Gypsum and sometimes limestone"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which test is standard for setting time of cement paste?",
+    "options": [
+      "Vicát needle",
+      "Slump cone",
+      "Pull-out test",
+      "Thermogravimetric test",
+      "Schmidt hammer"
+    ],
+    "answer": "Vicát needle"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical 3-day compressive strength minimum is about:",
+    "options": [
+      "5 MPa",
+      "30 MPa",
+      "11 MPa",
+      "50 MPa",
+      "20 MPa"
+    ],
+    "answer": "11 MPa"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Clinker is typically formed in the kiln at about:",
+    "options": [
+      "1250°C",
+      "~1480°C",
+      "1100°C",
+      "1700°C",
+      "900°C"
+    ],
+    "answer": "~1480°C"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Heat of hydration limit at 28 days is roughly:",
+    "options": [
+      "≤25 cal/g",
+      "≤150 cal/g",
+      "≤45 cal/g",
+      "≤100 cal/g",
+      "≤75 cal/g"
+    ],
+    "answer": "≤75 cal/g"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Calcination of limestone produces CaO and ______.",
+    "options": [
+      "H₂O",
+      "SO₂",
+      "CO₂",
+      "Fe₂O₃",
+      "Na₂O"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Initial and final set limits are typically:",
+    "options": [
+      "≥10 min and ≤180 min",
+      "≥45 min and ≤300 min",
+      "≥15 min and ≤900 min",
+      "≥60 min and ≤240 min",
+      "≥30 min and ≤600 min"
+    ],
+    "answer": "≥30 min and ≤600 min"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Increasing cement fineness generally ______ reactivity and heat release.",
+    "answer": "increases"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A key performance risk associated with high heat of hydration is:",
+    "options": [
+      "Lower slump",
+      "Improved abrasion resistance",
+      "Efflorescence",
+      "Thermal cracking",
+      "Color change"
+    ],
+    "answer": "Thermal cracking"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Grinding clinker with extra limestone can:",
+    "options": [
+      "Increase alkali content",
+      "Eliminate SCM needs",
+      "Modify workability and reduce embodied carbon",
+      "Raise sulfate content",
+      "Stop hydration"
+    ],
+    "answer": "Modify workability and reduce embodied carbon"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Adjusting raw mix proportions primarily aims to:",
+    "options": [
+      "Increase finishing speed",
+      "Change air content",
+      "Reduce aggregate size",
+      "Tune clinker phase composition and performance",
+      "Alter reinforcement cover"
+    ],
+    "answer": "Tune clinker phase composition and performance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "About what share of cement’s CO₂ emissions is from heating energy?",
+    "options": [
+      "62%",
+      "80%",
+      "≈35%",
+      "5%",
+      "15%"
+    ],
+    "answer": "≈35%"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical 7-day compressive strength minimum is about:",
+    "options": [
+      "12 MPa",
+      "8 MPa",
+      "17.9 MPa",
+      "40 MPa",
+      "22 MPa"
+    ],
+    "answer": "17.9 MPa"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which factor most closely links to early-age thermal stress?",
+    "options": [
+      "Color of cement",
+      "Aggregate modulus",
+      "Fly ash fineness",
+      "Heat of hydration",
+      "Air content"
+    ],
+    "answer": "Heat of hydration"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Cement production accounts for roughly what percent of global CO₂ emissions?",
+    "options": [
+      "~4%",
+      "~2%",
+      "~8%",
+      "~20%",
+      "~12%"
+    ],
+    "answer": "~8%"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Pozzolanic reaction primarily consumes:",
+    "options": [
+      "Calcium hydroxide",
+      "Sulfates",
       "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
+      "C-S-H gel",
+      "Ettringite"
     ],
-    "answer": "Lime (CaO)"
+    "answer": "Calcium hydroxide"
   },
   {
     "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
+    "question": "A benefit of slag replacement is:",
     "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
+      "Lower heat of hydration in mass pours",
+      "Increased bleeding",
+      "Reduced sulfate resistance",
+      "Lower later-age strength",
+      "Higher alkali loading"
     ],
-    "answer": "Lime (CaO)"
+    "answer": "Lower heat of hydration in mass pours"
   },
   {
     "type": "multiple_choice",
-    "question": "The ideal air bubble diameter for freeze-thaw durability is approximately:",
+    "question": "Fly ash is best described as:",
     "options": [
-      "1–5 mm",
-      "5–10 mm",
-      "0.05–1.25 mm",
-      "2–3 mm",
-      "0.001–0.01 mm"
+      "Hydrated lime",
+      "Hydraulic by-product of steelmaking",
+      "Organic resin",
+      "Siliceous natural rock",
+      "Pozzolanic by-product of coal combustion"
     ],
-    "answer": "0.05–1.25 mm"
+    "answer": "Pozzolanic by-product of coal combustion"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Fly ash reacts with ______ released during cement hydration to form additional C-S-H.",
+    "answer": "lime"
   },
   {
     "type": "multiple_choice",
-    "question": "Coarse aggregates are typically:",
+    "question": "One trade-off when using SCMs is:",
     "options": [
-      "Fly ash",
-      "Clay",
-      "Lime powder",
-      "Gravel or crushed rock",
-      "Sand"
+      "Higher carbonation rate only",
+      "Increased permeability",
+      "Lower slump at equal water",
+      "No change in durability",
+      "Longer curing/strength development time"
+    ],
+    "answer": "Longer curing/strength development time"
+  },
+  {
+    "type": "fill_blank",
+    "question": "The primary strength-giving hydration product is ______.",
+    "answer": "Calcium Silicate Hydrate"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Silica fume dosage is often limited to avoid:",
+    "options": [
+      "Higher strength",
+      "Workability loss and excessive shrinkage",
+      "Lower durability",
+      "Lower resistance to chloride",
+      "Reduced abrasion resistance"
+    ],
+    "answer": "Workability loss and excessive shrinkage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "High-volume fly ash concrete typically requires:",
+    "options": [
+      "Extended curing and controlled temperature rise",
+      "More air content",
+      "Lower slump targets",
+      "Less curing",
+      "No admixtures"
+    ],
+    "answer": "Extended curing and controlled temperature rise"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Silica fume is a by-product from:",
+    "options": [
+      "Ferrosilicon production",
+      "Lime kilns",
+      "Petrochemical distillation",
+      "Brick firing",
+      "Glass quenching"
+    ],
+    "answer": "Ferrosilicon production"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Calcium hydroxide produced during hydration tends to:",
+    "options": [
+      "Eliminate shrinkage",
+      "Increase tensile strength",
+      "Improve carbonation resistance",
+      "Reduce durability if not consumed by SCMs",
+      "Lower pore solution pH only"
+    ],
+    "answer": "Reduce durability if not consumed by SCMs"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Ground granulated blast furnace slag must be:",
+    "options": [
+      "Hydrated then calcined",
+      "Quenched to a glassy state and ground",
+      "Blended with gypsum only",
+      "Air-cooled and unground",
+      "Exposed to CO₂"
+    ],
+    "answer": "Quenched to a glassy state and ground"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Silica fume is:",
+    "options": [
+      "Retarder",
+      "Coarse aggregate",
+      "Very fine pozzolan improving pore structure and resistance",
+      "Air-entrainer",
+      "Natural gypsum"
+    ],
+    "answer": "Very fine pozzolan improving pore structure and resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "SCMs generally impact permeability by:",
+    "options": [
+      "Raising bleeding",
+      "Eliminating gel pores",
+      "Reducing connected capillary porosity",
+      "Increasing surface roughness only",
+      "Increasing pore size"
+    ],
+    "answer": "Reducing connected capillary porosity"
+  },
+  {
+    "type": "fill_blank",
+    "question": "SCMs often ______ early heat but improve later-age performance.",
+    "answer": "reduce"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Hydration continues for years but design strength is typically based on:",
+    "options": [
+      "90-day tests only",
+      "56-day tests only",
+      "7-day tests only",
+      "28-day tests",
+      "1-day tests"
+    ],
+    "answer": "28-day tests"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Coarse aggregates are usually:",
+    "options": [
+      "Gypsum beads",
+      "Sand",
+      "Clay nodules",
+      "Lime pellets",
+      "Gravel or crushed rock"
     ],
     "answer": "Gravel or crushed rock"
   },
   {
     "type": "multiple_choice",
-    "question": "Chloride attack primarily affects concrete by:",
+    "question": "Water reducers primarily:",
     "options": [
-      "Destroying the passive film on rebar",
-      "Leaching lime",
-      "Causing carbonation",
-      "Reducing strength gain",
-      "Increasing porosity"
+      "Increase permeability",
+      "Raise cement content",
+      "Lower water demand for a given slump",
+      "Reduce aggregate abrasion",
+      "Increase thermal mass"
     ],
-    "answer": "Destroying the passive film on rebar"
+    "answer": "Lower water demand for a given slump"
   },
   {
     "type": "multiple_choice",
-    "question": "Which oxide contributes primarily to the color of cement?",
+    "question": "Retarders are used to:",
     "options": [
-      "Magnesium oxide",
-      "Lime",
-      "Alumina",
-      "Gypsum",
-      "Iron oxide"
+      "Entrap purposeful air voids",
+      "Reduce porosity",
+      "Reduce chloride ingress directly",
+      "Delay setting time for workability window",
+      "Accelerate early strength only"
     ],
-    "answer": "Iron oxide"
+    "answer": "Delay setting time for workability window"
   },
   {
     "type": "multiple_choice",
-    "question": "Chloride attack primarily affects concrete by:",
+    "question": "Using well-graded aggregates generally:",
     "options": [
-      "Destroying the passive film on rebar",
-      "Leaching lime",
-      "Causing carbonation",
-      "Reducing strength gain",
-      "Increasing porosity"
+      "Raises needed W/C",
+      "Eliminates curing needs",
+      "Lowers strength at all ages",
+      "Reduces paste volume required",
+      "Increases segregation risk"
     ],
-    "answer": "Destroying the passive film on rebar"
+    "answer": "Reduces paste volume required"
   },
   {
     "type": "multiple_choice",
-    "question": "FRP bars are governed by which CSA standard?",
+    "question": "Superplasticizers enable:",
     "options": [
-      "CSA A23.1",
-      "CSA S413",
-      "CSA O80",
-      "CSA S806",
-      "CSA G40.21"
+      "High flow at low water content",
+      "Lower ultimate strength always",
+      "Increased density",
+      "Higher air content only",
+      "Faster set with no flow change"
     ],
-    "answer": "CSA S806"
+    "answer": "High flow at low water content"
   },
   {
     "type": "multiple_choice",
-    "question": "What byproduct of hydration reduces concrete durability?",
+    "question": "Aggregate gradation strongly influences:",
     "options": [
-      "Gypsum",
-      "C-S-H gel",
-      "Calcium hydroxide",
-      "Alumina",
-      "Lime"
+      "Color of concrete",
+      "Chemical composition of cement",
+      "Air content specification only",
+      "Cover depth requirement",
+      "Workability and packing density"
     ],
-    "answer": "Calcium hydroxide"
+    "answer": "Workability and packing density"
   },
   {
     "type": "multiple_choice",
-    "question": "Which factor most affects concrete permeability?",
+    "question": "Maximum aggregate size selection impacts:",
     "options": [
-      "W/C ratio",
-      "Air content",
-      "Aggregate shape",
-      "Temperature",
-      "Cement fineness"
+      "Cement chemistry",
+      "Steel corrosion potential directly",
+      "Air-void stability only",
+      "Color stability",
+      "Paste demand, finishability, and pumpability"
     ],
-    "answer": "W/C ratio"
+    "answer": "Paste demand, finishability, and pumpability"
   },
   {
     "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
+    "question": "Fine aggregate refers to:",
     "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
+      "Fly ash spheres",
+      "Silica fume",
+      "Pea gravel",
+      "Sand-sized particles",
+      "Cement powder"
     ],
-    "answer": "Lime (CaO)"
+    "answer": "Sand-sized particles"
   },
   {
     "type": "multiple_choice",
-    "question": "In CSA A23.1, the exposure class “C” refers to environments with:",
+    "question": "Angular crushed aggregates typically:",
     "options": [
-      "High humidity only",
-      "Residential exposure",
-      "Chloride exposure",
-      "Sulfate attack",
-      "Freeze-thaw cycles"
+      "Increase bleeding",
+      "Lower strength and increase slump",
+      "Increase strength but reduce workability",
+      "Have no effect",
+      "Require less paste"
     ],
-    "answer": "Chloride exposure"
+    "answer": "Increase strength but reduce workability"
   },
   {
     "type": "multiple_choice",
-    "question": "Fly ash improves concrete by:",
+    "question": "Air-entraining agents:",
     "options": [
-      "Reducing curing time",
-      "Raising heat of hydration",
-      "Increasing workability and chemical resistance",
-      "Increasing early strength",
-      "Accelerating setting"
+      "Reduce slump exclusively",
+      "Harden the surface chemically",
+      "Increase abrasion resistance only",
+      "Improve freeze-thaw durability via microscopic bubbles",
+      "Eliminate shrinkage"
     ],
-    "answer": "Increasing workability and chemical resistance"
+    "answer": "Improve freeze-thaw durability via microscopic bubbles"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Aggregate tests per CSA A23 include checks for ______ reactivity.",
+    "answer": "alkali-aggregate"
   },
   {
     "type": "multiple_choice",
-    "question": "What pH level causes steel passivation to break down in concrete?",
+    "question": "Calcium nitrite is commonly added to:",
     "options": [
-      "Below 6",
-      "Below 10.5",
-      "Below 9",
-      "Below 12",
-      "Below 8.5"
+      "Entrap air",
+      "Inhibit corrosion of embedded steel",
+      "Accelerate carbonation",
+      "Improve finishing color",
+      "Reduce sulfate attack"
     ],
-    "answer": "Below 9"
+    "answer": "Inhibit corrosion of embedded steel"
+  },
+  {
+    "type": "fill_blank",
+    "question": "High absorption aggregates may require ______ adjustments to batch water.",
+    "answer": "moisture"
   },
   {
     "type": "multiple_choice",
-    "question": "The main factor controlling concrete workability is:",
+    "question": "Absorptive aggregates can:",
+    "options": [
+      "Supply sulfate ions",
+      "Lower W/C automatically",
+      "Increase effective water demand of the mix",
+      "Decrease slump loss",
+      "Prevent bleeding entirely"
+    ],
+    "answer": "Increase effective water demand of the mix"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Flat and elongated particles:",
+    "options": [
+      "Increase freeze-thaw resistance",
+      "Always improve finishing",
+      "Can cause compaction issues and lower strength",
+      "Reduce water demand",
+      "Eliminate segregation"
+    ],
+    "answer": "Can cause compaction issues and lower strength"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Proper curing primarily aims to:",
+    "options": [
+      "Eliminate alkalis",
+      "Change cover depth",
+      "Increase aggregate modulus",
+      "Maintain moisture and temperature for hydration",
+      "Reduce cement content"
+    ],
+    "answer": "Maintain moisture and temperature for hydration"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Proper curing for at least ______ days improves strength and durability.",
+    "answer": "7"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Elastic modulus of concrete is influenced strongly by:",
+    "options": [
+      "Aggregate stiffness",
+      "Cement color",
+      "Air content alone",
+      "Type of vibrators",
+      "Cover thickness"
+    ],
+    "answer": "Aggregate stiffness"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The primary variable controlling permeability is:",
     "options": [
       "Cement color",
-      "Aggregate size",
-      "W/C ratio",
-      "Fineness modulus",
+      "Water-cement ratio",
+      "Aggregate mineralogy",
+      "Finishing method only",
       "Air content"
     ],
-    "answer": "W/C ratio"
+    "answer": "Water-cement ratio"
   },
   {
     "type": "multiple_choice",
-    "question": "Creep in concrete refers to:",
+    "question": "Scaling in freeze-thaw climates is minimized by:",
     "options": [
-      "Freeze expansion",
-      "Thermal cracking",
-      "Shrinkage cracking",
-      "Long-term deformation under load",
-      "Chemical corrosion"
+      "Entrained air and adequate curing",
+      "High cement fineness",
+      "High slump finishing",
+      "Early sealing of surface bleed",
+      "Increased alkali content"
     ],
-    "answer": "Long-term deformation under load"
+    "answer": "Entrained air and adequate curing"
   },
   {
     "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
+    "question": "Segregation is minimized by:",
     "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
+      "Proper mixing, proportioning, and limited drop height",
+      "Higher W/C",
+      "Pouring from excessive height",
+      "Over-vibration",
+      "Eliminating fines"
     ],
-    "answer": "Lime (CaO)"
+    "answer": "Proper mixing, proportioning, and limited drop height"
   },
   {
     "type": "multiple_choice",
-    "question": "Fine aggregate is another term for:",
+    "question": "Plastic shrinkage cracking occurs:",
     "options": [
-      "Clay",
-      "Cement",
-      "Gypsum",
-      "Gravel",
-      "Sand"
+      "After full cure only",
+      "After carbonation",
+      "During freeze-thaw cycles",
+      "Shortly after placement due to rapid evaporation",
+      "Only under sulfate attack"
     ],
-    "answer": "Sand"
+    "answer": "Shortly after placement due to rapid evaporation"
   },
   {
     "type": "multiple_choice",
-    "question": "The main setting regulator in cement is:",
+    "question": "Higher W/C typically leads to:",
     "options": [
-      "Iron oxide",
-      "Gypsum",
-      "Lime",
-      "Sulfates",
-      "Silica"
+      "Lower strength and higher permeability",
+      "Higher strength and lower shrinkage",
+      "Lower drying shrinkage",
+      "Lower creep",
+      "Higher abrasion resistance"
     ],
-    "answer": "Gypsum"
+    "answer": "Lower strength and higher permeability"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Abrasion resistance improves with:",
+    "options": [
+      "Low W/C and strong aggregate paste bond",
+      "High paste content",
+      "Weak interfacial zone",
+      "High bleeding",
+      "High air content"
+    ],
+    "answer": "Low W/C and strong aggregate paste bond"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Entrained air typically reduces compressive strength by about:",
+    "options": [
+      "10%",
+      "25%",
+      "40%",
+      "5%",
+      "50%"
+    ],
+    "answer": "25%"
   },
   {
     "type": "fill_blank",
-    "question": "Cement hydration continues for years, but strength is typically tested at ______ days.",
-    "answer": "28"
+    "question": "Creep is the time-dependent ______ of concrete under sustained load.",
+    "answer": "deformation"
   },
   {
     "type": "multiple_choice",
-    "question": "The chemical reaction in carbonation that reduces concrete alkalinity is:",
+    "question": "Autogenous shrinkage is associated with:",
     "options": [
-      "Fe + O₂ + H₂O → Fe₂O₃",
-      "Na₂O + SO₄ → Na₂SO₄",
-      "SiO₂ + H₂O → H₄SiO₄",
-      "Ca(OH)₂ + CO₂ → CaCO₃",
-      "CaCO₃ → CaO + CO₂"
+      "High SCM content always",
+      "High air content",
+      "High temperature curing only",
+      "Large aggregate size",
+      "Low W/C and self-desiccation"
     ],
-    "answer": "Ca(OH)₂ + CO₂ → CaCO₃"
+    "answer": "Low W/C and self-desiccation"
   },
   {
     "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
+    "question": "Lower connected porosity generally leads to:",
     "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
+      "Higher durability and lower permeability",
+      "More creep",
+      "Less strength",
+      "More plastic shrinkage",
+      "Higher permeability"
     ],
-    "answer": "Lime (CaO)"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What byproduct of hydration reduces concrete durability?",
-    "options": [
-      "Gypsum",
-      "C-S-H gel",
-      "Calcium hydroxide",
-      "Alumina",
-      "Lime"
-    ],
-    "answer": "Calcium hydroxide"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What byproduct of hydration reduces concrete durability?",
-    "options": [
-      "Gypsum",
-      "C-S-H gel",
-      "Calcium hydroxide",
-      "Alumina",
-      "Lime"
-    ],
-    "answer": "Calcium hydroxide"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which admixture type delays setting time?",
-    "options": [
-      "Water reducer",
-      "Retarder",
-      "Air-entrainer",
-      "Corrosion inhibitor",
-      "Accelerator"
-    ],
-    "answer": "Retarder"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Creep in concrete refers to:",
-    "options": [
-      "Freeze expansion",
-      "Thermal cracking",
-      "Shrinkage cracking",
-      "Long-term deformation under load",
-      "Chemical corrosion"
-    ],
-    "answer": "Long-term deformation under load"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which factor most affects concrete permeability?",
-    "options": [
-      "W/C ratio",
-      "Air content",
-      "Aggregate shape",
-      "Temperature",
-      "Cement fineness"
-    ],
-    "answer": "W/C ratio"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Creep in concrete refers to:",
-    "options": [
-      "Freeze expansion",
-      "Thermal cracking",
-      "Shrinkage cracking",
-      "Long-term deformation under load",
-      "Chemical corrosion"
-    ],
-    "answer": "Long-term deformation under load"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which factor most affects concrete permeability?",
-    "options": [
-      "W/C ratio",
-      "Air content",
-      "Aggregate shape",
-      "Temperature",
-      "Cement fineness"
-    ],
-    "answer": "W/C ratio"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Higher W/C ratio results in:",
-    "options": [
-      "Higher strength",
-      "None",
-      "Reduced shrinkage",
-      "Improved abrasion resistance",
-      "Lower strength and durability"
-    ],
-    "answer": "Lower strength and durability"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Ground granulated blast furnace slag must be ______ to be reactive.",
-    "options": [
-      "Slow cooled",
-      "Quenched (glassy)",
-      "Calcined",
-      "Air cured",
-      "Hydrated"
-    ],
-    "answer": "Quenched (glassy)"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
-    "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
-    ],
-    "answer": "Lime (CaO)"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Fine aggregate is another term for:",
-    "options": [
-      "Clay",
-      "Cement",
-      "Gypsum",
-      "Gravel",
-      "Sand"
-    ],
-    "answer": "Sand"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which factor most affects concrete permeability?",
-    "options": [
-      "W/C ratio",
-      "Air content",
-      "Aggregate shape",
-      "Temperature",
-      "Cement fineness"
-    ],
-    "answer": "W/C ratio"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which admixture type delays setting time?",
-    "options": [
-      "Water reducer",
-      "Retarder",
-      "Air-entrainer",
-      "Corrosion inhibitor",
-      "Accelerator"
-    ],
-    "answer": "Retarder"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What byproduct of hydration reduces concrete durability?",
-    "options": [
-      "Gypsum",
-      "C-S-H gel",
-      "Calcium hydroxide",
-      "Alumina",
-      "Lime"
-    ],
-    "answer": "Calcium hydroxide"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which factor most affects concrete permeability?",
-    "options": [
-      "W/C ratio",
-      "Air content",
-      "Aggregate shape",
-      "Temperature",
-      "Cement fineness"
-    ],
-    "answer": "W/C ratio"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which admixture type improves freeze-thaw resistance by introducing microscopic air bubbles?",
-    "options": [
-      "Water reducer",
-      "Accelerator",
-      "Air-entrainer",
-      "Retarder",
-      "Plasticizer"
-    ],
-    "answer": "Air-entrainer"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which oxide contributes primarily to the color of cement?",
-    "options": [
-      "Magnesium oxide",
-      "Lime",
-      "Alumina",
-      "Gypsum",
-      "Iron oxide"
-    ],
-    "answer": "Iron oxide"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "The main setting regulator in cement is:",
-    "options": [
-      "Iron oxide",
-      "Gypsum",
-      "Lime",
-      "Sulfates",
-      "Silica"
-    ],
-    "answer": "Gypsum"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Superplasticizers are used to:",
-    "options": [
-      "Slow setting",
-      "Increase flow without adding water",
-      "Increase density",
-      "Reduce shrinkage",
-      "Increase air content"
-    ],
-    "answer": "Increase flow without adding water"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
-    "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
-    ],
-    "answer": "Lime (CaO)"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
-    "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
-    ],
-    "answer": "Lime (CaO)"
+    "answer": "Higher durability and lower permeability"
   },
   {
     "type": "fill_blank",
-    "question": "The key strength-producing compound formed during hydration is ______.",
-    "answer": "Calcium Silicate Hydrate"
+    "question": "The interfacial transition zone (ITZ) is the paste region around ______ particles.",
+    "answer": "aggregate"
   },
   {
     "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
+    "question": "Bleeding water at the surface should be:",
     "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
+      "Ignored during finishing",
+      "Allowed to evaporate before finishing",
+      "Covered with dry cement",
+      "Removed with chemicals",
+      "Troweled in quickly"
     ],
-    "answer": "Lime (CaO)"
+    "answer": "Allowed to evaporate before finishing"
   },
   {
     "type": "multiple_choice",
-    "question": "What pH level causes steel passivation to break down in concrete?",
+    "question": "Surface bleeding is more likely with:",
     "options": [
-      "Below 6",
-      "Below 10.5",
-      "Below 9",
+      "High slag replacement",
+      "Well-graded aggregates",
+      "High water content and poorly graded fines",
+      "Low W/C and proper finishing",
+      "Entrained air and low paste"
+    ],
+    "answer": "High water content and poorly graded fines"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Workability is commonly assessed with the:",
+    "options": [
+      "Vicat needle",
+      "Slump test",
+      "Rebound hammer",
+      "Ultrasonic pulse velocity",
+      "Compressive cube"
+    ],
+    "answer": "Slump test"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Drying shrinkage is primarily due to:",
+    "options": [
+      "Thermal expansion",
+      "Increased air content",
+      "Cement carbonation only",
+      "Aggregate dilation",
+      "Moisture loss from the paste"
+    ],
+    "answer": "Moisture loss from the paste"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Permeability influences resistance to ingress of:",
+    "options": [
+      "Nitrogen only",
+      "Helium only",
+      "Hydrogen only",
+      "Water, CO₂, chlorides, and sulfates",
+      "Oxygen only"
+    ],
+    "answer": "Water, CO₂, chlorides, and sulfates"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Thermal cracking risk increases with:",
+    "options": [
+      "High heat of hydration and restraint",
+      "High slump",
+      "Low cement fineness",
+      "High air content",
+      "Low ambient temperature only"
+    ],
+    "answer": "High heat of hydration and restraint"
+  },
+  {
+    "type": "fill_blank",
+    "question": "In cold weather, set control may require ______ in the admixture toolbox.",
+    "answer": "accelerators"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Air content specification is essential for:",
+    "options": [
+      "Reducing creep only",
+      "Sulfate resistance only",
+      "High-temperature stability",
+      "Carbonation resistance only",
+      "Freeze-thaw durability in exposed concrete"
+    ],
+    "answer": "Freeze-thaw durability in exposed concrete"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "CSA A23.1 exposure class F corresponds to:",
+    "options": [
+      "Freeze-thaw conditions",
+      "Chemical tanks",
+      "Chlorides",
+      "Residential",
+      "Sulfates"
+    ],
+    "answer": "Freeze-thaw conditions"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Selecting SCMs in mix design primarily aims to:",
+    "options": [
+      "Reduce slump targets",
+      "Increase color uniformity",
+      "Improve durability and reduce heat/CO₂",
+      "Raise alkali content",
+      "Eliminate curing needs"
+    ],
+    "answer": "Improve durability and reduce heat/CO₂"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Exposure classes guide selection of:",
+    "options": [
+      "W/C, air, cement/SCM, and cover requirements",
+      "Rebar spacing only",
+      "Formwork type",
+      "Finish type only",
+      "Construction joints only"
+    ],
+    "answer": "W/C, air, cement/SCM, and cover requirements"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Larger maximum aggregate size generally:",
+    "options": [
+      "Increases paste demand",
+      "Raises permeability",
+      "Increases finishing time",
+      "Reduces paste demand for given workability",
+      "Eliminates segregation"
+    ],
+    "answer": "Reduces paste demand for given workability"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A typical 25 MPa mix per m³ includes cement around:",
+    "options": [
+      "400 kg",
+      "320 kg",
+      "240 kg",
+      "180 kg",
+      "120 kg"
+    ],
+    "answer": "240 kg"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For severe chloride exposure, designers often specify:",
+    "options": [
+      "No air entrainment",
+      "Open-graded aggregates",
+      "Less curing",
+      "Higher W/C and reduced cover",
+      "Lower W/C and increased cover"
+    ],
+    "answer": "Lower W/C and increased cover"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Target air content for exterior flatwork in cold climates is often around ______ percent.",
+    "answer": "6"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Superplasticizer use enables:",
+    "options": [
+      "No change in W/C",
+      "Low W/C at high workability",
+      "Increased bleeding at set",
+      "Elimination of consolidation",
+      "High W/C at low workability"
+    ],
+    "answer": "Low W/C at high workability"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Exposure class S addresses:",
+    "options": [
+      "Abrasion",
+      "Sulfate attack environments",
+      "Residential exposure",
+      "Shock loading",
+      "Carbonation only"
+    ],
+    "answer": "Sulfate attack environments"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A key objective in mass concrete mixes is:",
+    "options": [
+      "Maximizing slump loss",
+      "Minimizing aggregate size",
+      "Increasing paste content",
+      "Limiting temperature rise and gradients",
+      "Eliminating SCMs"
+    ],
+    "answer": "Limiting temperature rise and gradients"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Optimizing gradation in mix design helps:",
+    "options": [
+      "Improve packing and reduce paste volume",
+      "Increase alkali loading",
+      "Reduce aggregate stiffness",
+      "Increase bleeding rate",
+      "Raise heat of hydration"
+    ],
+    "answer": "Improve packing and reduce paste volume"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A primary mix design variable for durability is:",
+    "options": [
+      "Maximum W/C ratio",
+      "Air temperature",
+      "Vibrator frequency",
+      "Cement color",
+      "Maximum aggregate size only"
+    ],
+    "answer": "Maximum W/C ratio"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Exposure class C is associated with:",
+    "options": [
+      "Sulfate soils",
+      "Freeze-thaw without deicers",
+      "Interior dry",
+      "Chloride exposure (deicing/marine)",
+      "High temperature service"
+    ],
+    "answer": "Chloride exposure (deicing/marine)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A pH threshold commonly cited for passivity breakdown is:",
+    "options": [
       "Below 12",
-      "Below 8.5"
+      "Below 8.5",
+      "Below 10.5",
+      "Below 11.5",
+      "Below 9"
     ],
     "answer": "Below 9"
   },
   {
     "type": "multiple_choice",
-    "question": "Which SCM is a by-product of ferrosilicon production and improves pore structure?",
+    "question": "External chlorides often come from:",
     "options": [
-      "Slag",
-      "Fly ash",
-      "Limestone dust",
-      "Silica fume",
-      "Kaolin clay"
+      "Cement bags",
+      "Curing compounds",
+      "Gypsum board",
+      "Rebar mill scale only",
+      "Deicing salts and marine exposure"
     ],
-    "answer": "Silica fume"
+    "answer": "Deicing salts and marine exposure"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sealants and membranes primarily:",
+    "options": [
+      "Slow CO₂ and chloride ingress",
+      "Raise heat of hydration",
+      "Increase alkali loading",
+      "Entrap extra air",
+      "Increase W/C"
+    ],
+    "answer": "Slow CO₂ and chloride ingress"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Internal chloride sources include:",
+    "options": [
+      "Well-graded aggregates",
+      "Contaminated water, aggregates, or admixtures",
+      "Surface sealers",
+      "Air entrainment",
+      "Ambient CO₂"
+    ],
+    "answer": "Contaminated water, aggregates, or admixtures"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "One protection method is to use:",
+    "options": [
+      "Epoxy-coated, galvanized, or stainless reinforcement",
+      "Lead rods",
+      "Copper cables",
+      "Uncoated mild steel only",
+      "Aluminum bars"
+    ],
+    "answer": "Epoxy-coated, galvanized, or stainless reinforcement"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Chloride threshold for corrosion initiation is lowered by:",
+    "options": [
+      "High SCM replacement always",
+      "Low oxygen",
+      "High temperature only",
+      "Low humidity",
+      "High moisture and oxygen availability"
+    ],
+    "answer": "High moisture and oxygen availability"
   },
   {
     "type": "fill_blank",
-    "question": "Cement hydration continues for years, but strength is typically tested at ______ days.",
-    "answer": "28"
+    "question": "Dense, crack-free cover concrete reduces ______ ingress.",
+    "answer": "chloride"
   },
   {
     "type": "multiple_choice",
-    "question": "Superplasticizers are used to:",
+    "question": "Re-alkalization of carbonated concrete aims to:",
     "options": [
-      "Slow setting",
-      "Increase flow without adding water",
-      "Increase density",
+      "Increase modulus",
+      "Lower permeability",
       "Reduce shrinkage",
+      "Restore pH and repassivate steel",
       "Increase air content"
     ],
-    "answer": "Increase flow without adding water"
-  },
-  {
-    "type": "fill_blank",
-    "question": "The compound responsible for the quick setting of cement is ______.",
-    "answer": "Alumina"
+    "answer": "Restore pH and repassivate steel"
   },
   {
     "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
+    "question": "Chloride ingress primarily causes:",
     "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
+      "Breakdown of the passive film on steel",
+      "Aggregate dilation",
+      "Surface scaling only",
+      "Air void coalescence",
+      "Sulfate crystallization"
     ],
-    "answer": "Lime (CaO)"
+    "answer": "Breakdown of the passive film on steel"
   },
   {
     "type": "multiple_choice",
-    "question": "Superplasticizers are used to:",
-    "options": [
-      "Slow setting",
-      "Increase flow without adding water",
-      "Increase density",
-      "Reduce shrinkage",
-      "Increase air content"
-    ],
-    "answer": "Increase flow without adding water"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "FRP bars are governed by which CSA standard?",
-    "options": [
-      "CSA A23.1",
-      "CSA S413",
-      "CSA O80",
-      "CSA S806",
-      "CSA G40.21"
-    ],
-    "answer": "CSA S806"
-  },
-  {
-    "type": "multiple_choice",
-    "question": "What byproduct of hydration reduces concrete durability?",
+    "question": "Carbonation reduces pH by consuming:",
     "options": [
       "Gypsum",
       "C-S-H gel",
-      "Calcium hydroxide",
-      "Alumina",
-      "Lime"
+      "Sulfate ions",
+      "Ettringite",
+      "Calcium hydroxide"
     ],
     "answer": "Calcium hydroxide"
   },
   {
     "type": "multiple_choice",
-    "question": "Which FRP type has the highest modulus?",
+    "question": "Calcium nitrate acts primarily as a:",
     "options": [
-      "Nylon",
-      "Steel",
-      "AFRP",
+      "Air-entrainer",
+      "Sulfate reducer",
+      "Shrinkage reducer",
+      "Superplasticizer",
+      "Corrosion inhibitor for reinforcing steel"
+    ],
+    "answer": "Corrosion inhibitor for reinforcing steel"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concrete generally passivates steel due to pore solution pH around:",
+    "options": [
+      "9–10",
+      "12–13",
+      "6–7",
+      "8–9",
+      "10–11"
+    ],
+    "answer": "12–13"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A typical durability design principle is treating cover as:",
+    "options": [
+      "Strength-only element",
+      "Thermal barrier only",
+      "Acoustic layer",
+      "Sacrificial protection layer",
+      "Decorative finish"
+    ],
+    "answer": "Sacrificial protection layer"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Carbonation depth increases with:",
+    "options": [
+      "High cover and low permeability",
+      "High permeability and low cover",
+      "Low cement content",
+      "High SCM dosage only",
+      "High air content"
+    ],
+    "answer": "High permeability and low cover"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Cathodic protection uses:",
+    "options": [
+      "Polymer overlays only",
+      "Extra air entrainment",
+      "High slump finishing",
+      "Sacrificial zinc anodes or impressed current",
+      "Lower aggregate size"
+    ],
+    "answer": "Sacrificial zinc anodes or impressed current"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Steel reinforcement is often protected by maintaining adequate ______ depth.",
+    "answer": "cover"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The main purpose of reinforcement in concrete is to provide:",
+    "options": [
+      "Tensile capacity",
+      "Compressive capacity",
+      "Thermal mass",
+      "Density",
+      "Color"
+    ],
+    "answer": "Tensile capacity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Fiber-reinforced concrete may include fibers of:",
+    "options": [
+      "Copper and lead only",
+      "Wood and paper",
+      "Vinyl strips",
+      "Steel, glass, carbon, or polypropylene",
+      "Pure aluminum strands"
+    ],
+    "answer": "Steel, glass, carbon, or polypropylene"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Concrete cover is needed to:",
+    "options": [
+      "Reduce unit weight",
+      "Increase color uniformity",
+      "Improve slump",
+      "Raise modulus",
+      "Protect steel from corrosion and fire"
+    ],
+    "answer": "Protect steel from corrosion and fire"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In aggressive marine environments, designers may choose:",
+    "options": [
+      "Brass rods",
+      "Lead bars",
+      "Aluminum bars",
+      "Stainless, galvanized, or FRP reinforcement",
+      "Uncoated mild steel"
+    ],
+    "answer": "Stainless, galvanized, or FRP reinforcement"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "FRP bars are advantageous because they are:",
+    "options": [
+      "High melting steel",
+      "Heat-weldable and yielding",
+      "Conductive",
+      "Non-corroding and lightweight",
+      "Magnetic and ductile"
+    ],
+    "answer": "Non-corroding and lightweight"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Fiber addition to concrete primarily aims to:",
+    "options": [
+      "Lower strength at all ages",
+      "Reduce modulus",
+      "Increase slump",
+      "Control cracking and improve toughness",
+      "Increase density"
+    ],
+    "answer": "Control cracking and improve toughness"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A challenge with FRP reinforcement compared to steel is:",
+    "options": [
+      "Lower ductility and different bond behavior",
+      "Higher density",
+      "Conductivity issues only",
+      "Magnetic interference",
+      "Higher corrosion rate"
+    ],
+    "answer": "Lower ductility and different bond behavior"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Among FRPs, which generally has the highest modulus?",
+    "options": [
+      "Polypropylene",
       "CFRP",
-      "GFRP"
+      "GFRP",
+      "Nylon",
+      "AFRP"
     ],
     "answer": "CFRP"
   },
   {
     "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
+    "question": "CSA standard governing FRP use is:",
     "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
+      "CSA G40.21",
+      "CSA O80",
+      "CSA S806",
+      "CSA A23.1",
+      "CSA S413"
     ],
-    "answer": "Lime (CaO)"
+    "answer": "CSA S806"
   },
   {
     "type": "multiple_choice",
-    "question": "What pH level causes steel passivation to break down in concrete?",
+    "question": "Scaling of surfaces is often linked to:",
     "options": [
-      "Below 6",
-      "Below 10.5",
-      "Below 9",
-      "Below 12",
-      "Below 8.5"
+      "High reinforcement ratio",
+      "Low slump",
+      "Use of slag",
+      "Deicers combined with inadequate air and curing",
+      "High cement color"
     ],
-    "answer": "Below 9"
+    "answer": "Deicers combined with inadequate air and curing"
   },
   {
     "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
+    "question": "Permeability strongly controls ingress of:",
     "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
+      "Hydrogen only",
+      "Chlorides, CO₂, and moisture",
+      "Oxygen only",
+      "Nitrogen only",
+      "Inert gases only"
     ],
-    "answer": "Lime (CaO)"
+    "answer": "Chlorides, CO₂, and moisture"
   },
   {
     "type": "multiple_choice",
-    "question": "What byproduct of hydration reduces concrete durability?",
+    "question": "Sulfate attack generally leads to:",
     "options": [
-      "Gypsum",
-      "C-S-H gel",
-      "Calcium hydroxide",
-      "Alumina",
-      "Lime"
+      "Expansion and cracking due to ettringite/thaumasite formation",
+      "Reduced shrinkage",
+      "Improved abrasion resistance",
+      "Lower pH only",
+      "Air-void coalescence"
     ],
-    "answer": "Calcium hydroxide"
+    "answer": "Expansion and cracking due to ettringite/thaumasite formation"
   },
   {
     "type": "multiple_choice",
-    "question": "What byproduct of hydration reduces concrete durability?",
+    "question": "Alkali-aggregate reaction (AAR) symptoms include:",
     "options": [
-      "Gypsum",
-      "C-S-H gel",
-      "Calcium hydroxide",
-      "Alumina",
-      "Lime"
+      "Swelling gel and internal cracking",
+      "Instant strength gain",
+      "Surface hardening only",
+      "Air-void stabilization",
+      "No visible effects"
     ],
-    "answer": "Calcium hydroxide"
+    "answer": "Swelling gel and internal cracking"
   },
   {
     "type": "multiple_choice",
-    "question": "Which compound gives cement its strength and bonding?",
+    "question": "AAR risk is reduced by:",
     "options": [
-      "Gypsum",
-      "Silica",
-      "Lime (CaO)",
-      "Iron oxide",
-      "Alumina"
+      "Reactive aggregates",
+      "Increasing air content",
+      "High humidity curing only",
+      "Non-reactive aggregates and low alkali cement",
+      "Higher alkali cement"
     ],
-    "answer": "Lime (CaO)"
+    "answer": "Non-reactive aggregates and low alkali cement"
   },
   {
     "type": "multiple_choice",
-    "question": "What pH level causes steel passivation to break down in concrete?",
+    "question": "Abrasion damage is minimized by:",
     "options": [
-      "Below 6",
-      "Below 10.5",
-      "Below 9",
-      "Below 12",
-      "Below 8.5"
+      "High bleeding",
+      "Under-curing",
+      "Low W/C, strong paste-aggregate bond, and hard aggregates",
+      "Late finishing on bleed water",
+      "High air content"
     ],
-    "answer": "Below 9"
+    "answer": "Low W/C, strong paste-aggregate bond, and hard aggregates"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Thermal cracking risk in mass concrete can be limited by:",
+    "options": [
+      "Controlling peak temperatures and gradients",
+      "Adding pigments",
+      "Raising W/C",
+      "Eliminating SCMs",
+      "Using very fine cement only"
+    ],
+    "answer": "Controlling peak temperatures and gradients"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Freeze-thaw damage is best mitigated by:",
+    "options": [
+      "High W/C mixes",
+      "Adding pigments",
+      "Increasing cement fineness",
+      "Adequate air entrainment and curing",
+      "Decreasing aggregate size only"
+    ],
+    "answer": "Adequate air entrainment and curing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Chemical attack from sulfates can be reduced by selecting:",
+    "options": [
+      "High-alkali cement",
+      "Sulfate-resistant cement and low permeability",
+      "Higher W/C",
+      "Low cover",
+      "Air-entrainer only"
+    ],
+    "answer": "Sulfate-resistant cement and low permeability"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Lowering connected capillary ______ improves durability against ingress.",
+    "answer": "porosity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A bridge deck in a deicing environment should emphasize:",
+    "options": [
+      "Low W/C, air entrainment, SCMs, and increased cover",
+      "High slump and pigments",
+      "High W/C, no air",
+      "Lower cement content only",
+      "No SCMs, reduced cover"
+    ],
+    "answer": "Low W/C, air entrainment, SCMs, and increased cover"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For sulfate-rich soils, choose:",
+    "options": [
+      "No air entrainment",
+      "Sulfate-resistant cement and low W/C",
+      "Reactive aggregates",
+      "High-alkali cement",
+      "High W/C"
+    ],
+    "answer": "Sulfate-resistant cement and low W/C"
+  },
+  {
+    "type": "fill_blank",
+    "question": "A well-designed air-void system has bubbles spaced roughly ______ apart for freeze-thaw durability.",
+    "answer": "200 μm"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "When selecting a mix for mass pours, a key objective is:",
+    "options": [
+      "Maximize early heat",
+      "Use air-entrainer only",
+      "Eliminate SCMs",
+      "Increase slump loss",
+      "Limit heat of hydration and manage temperature"
+    ],
+    "answer": "Limit heat of hydration and manage temperature"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If concrete shows early plastic shrinkage cracking, the remedy is to:",
+    "options": [
+      "Add more pigment",
+      "Control evaporation, use fogging/wind breaks, and early curing",
+      "Reduce aggregate size",
+      "Delay all curing",
+      "Increase W/C"
+    ],
+    "answer": "Control evaporation, use fogging/wind breaks, and early curing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "To reduce carbonation depth, specify:",
+    "options": [
+      "Less curing",
+      "High W/C mixes",
+      "High air content only",
+      "Increased slump",
+      "Low permeability concrete and adequate cover"
+    ],
+    "answer": "Low permeability concrete and adequate cover"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Selecting aggregate gradation aims to:",
+    "options": [
+      "Increase shrinkage",
+      "Lower strength intentionally",
+      "Raise bleeding",
+      "Improve packing, reduce paste, and enhance performance",
+      "Increase paste and permeability"
+    ],
+    "answer": "Improve packing, reduce paste, and enhance performance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For marine piles, a viable reinforcement strategy is:",
+    "options": [
+      "Eliminate cover",
+      "Use stainless or FRP rebar with dense cover",
+      "Use aluminum bars",
+      "Use mild steel without curing",
+      "Use uncoated steel with low cover"
+    ],
+    "answer": "Use stainless or FRP rebar with dense cover"
+  },
+  {
+    "type": "fill_blank",
+    "question": "Durability design treats cover concrete as a ______ layer for reinforcement.",
+    "answer": "sacrificial"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "To increase durability in chloride exposure, designers should prioritize:",
+    "options": [
+      "Retarder-only mixes",
+      "Pigments, higher slump",
+      "Large aggregates without SCMs",
+      "High W/C, no air, low cover",
+      "Low W/C, SCMs, adequate cover, and curing"
+    ],
+    "answer": "Low W/C, SCMs, adequate cover, and curing"
   }
 ]
