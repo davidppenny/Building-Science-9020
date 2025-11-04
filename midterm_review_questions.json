@@ -67,6 +67,19 @@
   },
   {
     "type": "multiple_choice",
+    "question": "The correct order of the material selection process is:",
+    "options": 
+    [
+      "Constraint, Function, Objective, Free Variables",
+      "Objective, Function, Free Variables, Constraint",
+      "Function, Objective, Constraint, Free Variables",  
+      "Free variable, Function, Objective, Constraint",
+      "Cost limit, Objective, Constraint, Free Variables","
+    ],
+    "answer": "Function, Objective, Constraint, Free Variables"
+  },
+  {
+    "type": "multiple_choice",
     "question": "Constraints in the selection process represent:",
     "options": ["Goals to maximize", "Non-negotiable conditions", "Economic considerations", "Optional features", "Testing procedures"],
     "answer": "Non-negotiable conditions"
