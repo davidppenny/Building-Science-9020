@@ -114,6 +114,12 @@
     "options": ["0.01% per 1% MC", "0.15% per 1% MC", "1.5% per 1% MC", "0.50% per 1% MC", "0.005% per 1% MC"],
     "answer": "0.15% per 1% MC"
   },
+    {
+    "type": "multiple_choice",
+    "question": "Typical tangential movement in wood is approximately:",
+    "options": ["0.01% per 1% MC", "0.15% per 1% MC", "0.30% per 1% MC", "0.50% per 1% MC", "0.005% per 1% MC"],
+    "answer": "0.30% per 1% MC"
+  },
   {
     "type": "multiple_choice",
     "question": "Typical longitudinal movement in wood is approximately:",
