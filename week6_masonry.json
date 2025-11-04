@@ -1,1217 +1,1802 @@
 [
   {
     "type": "multiple_choice",
-    "question": "Load-bearing masonry was common from:",
+    "question": "(1) How would climate conditions alter your material or detailing choices for historical masonry systems?",
     "options": [
-      "1945–1975",
-      "1900–1950s",
-      "1700–1930s",
-      "1800–2000",
-      "1600–1800s"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "1700–1930s"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Massive masonry buildings were typically built:",
+    "question": "(2) When assessing failure in historical masonry systems, what sign would most clearly indicate moisture-related deterioration?",
     "options": [
-      "With post-tensioning",
-      "With reinforced concrete",
-      "Without reinforcement",
-      "Using steel frames",
-      "Using timber trusses"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Without reinforcement"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Typical height for load-bearing masonry buildings in Western Canada:",
+    "question": "(3) If you were designing a building using historical masonry systems, which detail would most affect long-term durability?",
     "options": [
-      "3 storeys",
-      "1 storey",
-      "6 storeys",
-      "8 storeys",
-      "10 storeys"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "3 storeys"
+    "answer": "Reduced embodied energy"
   },
   {
     "type": "multiple_choice",
-    "question": "Spans for openings in massive masonry were often supported by:",
+    "question": "(4) How would climate conditions alter your material or detailing choices for historical masonry systems?",
     "options": [
-      "Cast stone",
-      "Steel or timber",
-      "Reinforced concrete",
-      "Brick arches",
-      "Concrete lintels"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Steel or timber"
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "Transition buildings marked the rise of:",
+    "question": "(5) When assessing failure in historical masonry systems, what sign would most clearly indicate moisture-related deterioration?",
     "options": [
-      "Post-modern architecture",
-      "Skyscrapers in structural engineering",
-      "Light-frame steel design",
-      "Industrial sheds",
-      "Timber-framed houses"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Skyscrapers in structural engineering"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Transition era timeframe:",
+    "question": "(6) In a restoration project involving historical masonry systems, what would be the best method to ensure material compatibility?",
     "options": [
-      "1905–1945",
-      "1880–1920",
-      "1800–1900",
-      "1920–1960",
-      "1940–1980"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "1905–1945"
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "Transition buildings featured:",
+    "question": "(7) In a restoration project involving historical masonry systems, what would be the best method to ensure material compatibility?",
     "options": [
-      "Aluminum curtain walls",
-      "Steel frames encased in masonry",
-      "Glass facades",
-      "Unreinforced brick walls",
-      "Wood joist systems"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Steel frames encased in masonry"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Architectural terracotta was commonly used for:",
+    "question": "(8) How would climate conditions alter your material or detailing choices for historical masonry systems?",
     "options": [
-      "Floor slabs",
-      "Load-bearing walls",
-      "Roof trusses",
-      "Insulation",
-      "Decorative facades"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Decorative facades"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Modern veneer masonry emerged after:",
+    "question": "(9) When assessing failure in historical masonry systems, what sign would most clearly indicate moisture-related deterioration?",
     "options": [
-      "The 1960s",
-      "The Industrial Revolution",
-      "World War I",
-      "World War II",
-      "The Great Depression"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "World War II"
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "Modern veneer masonry uses:",
+    "question": "(10) For a high-rise project, what advantage does modern historical masonry systems provide over its historical counterpart?",
     "options": [
-      "Unreinforced concrete",
-      "Steel or reinforced concrete frames with single wythe veneers",
-      "Timber framing",
-      "Stone blocks",
-      "Load-bearing brick"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Steel or reinforced concrete frames with single wythe veneers"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Veneer support evolved from:",
+    "question": "(11) What distinguishes historical masonry systems from earlier forms of masonry?",
     "options": [
-      "At grade → shelf angles → shelf angles with movement joints",
-      "At grade only",
-      "Timber supports",
-      "Steel lintels",
-      "Bond beams"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "At grade → shelf angles → shelf angles with movement joints"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Typical building heights for modern veneer masonry in Western Canada:",
+    "question": "(12) What is the primary purpose of historical masonry systems in masonry construction?",
     "options": [
-      "50 storeys",
-      "12 storeys",
-      "8 storeys",
-      "Up to 35 storeys",
-      "3 storeys"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Up to 35 storeys"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Modern structural masonry is usually made of:",
+    "question": "(13) Which property defines historical masonry systems performance most directly?",
     "options": [
-      "Unreinforced clay brick",
-      "Steel panels",
-      "Timber frames",
-      "Poured concrete walls",
-      "Concrete block with grouted cells and steel reinforcement"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Concrete block with grouted cells and steel reinforcement"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Typical height of modern structural masonry buildings:",
+    "question": "(14) What is a common material or method associated with historical masonry systems?",
     "options": [
-      "15 storeys",
-      "20 storeys",
-      "8 storeys",
-      "3 storeys",
-      "10 storeys"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "8 storeys"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Modern structural masonry connects:",
+    "question": "(15) What is a common material or method associated with historical masonry systems?",
     "options": [
-      "Windows to lintels",
-      "Roof and floor elements directly to masonry walls",
-      "Beams to columns",
-      "Foundations to steel",
-      "Columns to slabs"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Roof and floor elements directly to masonry walls"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Oldest masonry material:",
+    "question": "(16) What is the primary purpose of historical masonry systems in masonry construction?",
     "options": [
-      "Brick",
-      "Terracotta",
-      "Steel",
-      "Concrete",
-      "Stone"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Stone"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Stone masonry is typically:",
+    "question": "(17) What is a common material or method associated with historical masonry systems?",
     "options": [
-      "Cast-in-place",
-      "Reinforced",
-      "Fired clay",
-      "Prestressed",
-      "Unreinforced or used as veneer"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Unreinforced or used as veneer"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Common BC stones include:",
+    "question": "(18) For a high-rise project, what advantage does modern modern veneer and reinforced masonry provide over its historical counterpart?",
     "options": [
-      "Pumice, Basalt, Travertine",
-      "Sandstone, Granite, and Andesite",
-      "Quartzite, Schist, Shale",
-      "Slate, Dolomite, Basalt",
-      "Limestone, Gneiss, Marble"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Sandstone, Granite, and Andesite"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Stone masonry is valued for:",
+    "question": "(19) How would climate conditions alter your material or detailing choices for modern veneer and reinforced masonry?",
     "options": [
-      "Transparency",
-      "Flexibility",
-      "Elastic behavior",
-      "Durability and compressive strength",
-      "Tensile capacity"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Durability and compressive strength"
+    "answer": "Reduced embodied energy"
   },
   {
     "type": "multiple_choice",
-    "question": "Historical bricks (1850–1910) were:",
+    "question": "(20) When assessing failure in modern veneer and reinforced masonry, what sign would most clearly indicate moisture-related deterioration?",
     "options": [
-      "Made of limestone",
-      "High-fired and dense",
-      "Lightweight",
-      "Reinforced",
-      "Low-fired and low strength"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Low-fired and low strength"
+    "answer": "Reduced embodied energy"
   },
   {
     "type": "multiple_choice",
-    "question": "Modern bricks are:",
+    "question": "(21) If you were designing a building using modern veneer and reinforced masonry, which detail would most affect long-term durability?",
     "options": [
-      "Hand-molded",
-      "Lime pressed",
-      "Sun-dried",
-      "Plastic formed",
-      "Machine-extruded and gas-kiln fired"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Machine-extruded and gas-kiln fired"
+    "answer": "Enhanced structural performance"
   },
   {
-    "type": "fill_blank",
-    "question": "Dry pressed bricks are ______ and well-fired.",
-    "answer": "high density"
+    "type": "multiple_choice",
+    "question": "(22) When assessing failure in modern veneer and reinforced masonry, what sign would most clearly indicate moisture-related deterioration?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(23) When assessing failure in modern veneer and reinforced masonry, what sign would most clearly indicate moisture-related deterioration?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(24) When assessing failure in modern veneer and reinforced masonry, what sign would most clearly indicate moisture-related deterioration?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(25) How would climate conditions alter your material or detailing choices for modern veneer and reinforced masonry?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Enhanced structural performance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(26) When assessing failure in modern veneer and reinforced masonry, what sign would most clearly indicate moisture-related deterioration?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Enhanced structural performance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(27) If you were designing a building using modern veneer and reinforced masonry, which detail would most affect long-term durability?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Enhanced structural performance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(28) What is a common material or method associated with modern veneer and reinforced masonry?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Minimized maintenance requirements"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(29) Which statement best describes modern veneer and reinforced masonry as used in modern practice?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Improved moisture resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(30) What distinguishes modern veneer and reinforced masonry from earlier forms of masonry?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Minimized maintenance requirements"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(31) Which statement best describes modern veneer and reinforced masonry as used in modern practice?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(32) What distinguishes modern veneer and reinforced masonry from earlier forms of masonry?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(33) What is a common material or method associated with modern veneer and reinforced masonry?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Minimized maintenance requirements"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(34) What is a common material or method associated with modern veneer and reinforced masonry?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(35) When assessing failure in stone masonry, what sign would most clearly indicate moisture-related deterioration?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(36) For a high-rise project, what advantage does modern stone masonry provide over its historical counterpart?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(37) If you were designing a building using stone masonry, which detail would most affect long-term durability?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(38) When assessing failure in stone masonry, what sign would most clearly indicate moisture-related deterioration?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Enhanced structural performance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(39) In a restoration project involving stone masonry, what would be the best method to ensure material compatibility?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(40) If you were designing a building using stone masonry, which detail would most affect long-term durability?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(41) When assessing failure in stone masonry, what sign would most clearly indicate moisture-related deterioration?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(42) For a high-rise project, what advantage does modern stone masonry provide over its historical counterpart?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Minimized maintenance requirements"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(43) In a restoration project involving stone masonry, what would be the best method to ensure material compatibility?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(44) If you were designing a building using stone masonry, which detail would most affect long-term durability?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Improved moisture resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(45) What is the primary purpose of stone masonry in masonry construction?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Enhanced structural performance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(46) What is a common material or method associated with stone masonry?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(47) Which property defines stone masonry performance most directly?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Enhanced structural performance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(48) Which statement best describes stone masonry as used in modern practice?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Improved moisture resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(49) What distinguishes stone masonry from earlier forms of masonry?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Improved moisture resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(50) Which property defines stone masonry performance most directly?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Minimized maintenance requirements"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(51) Which property defines stone masonry performance most directly?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(52) If you were designing a building using brick and terracotta, which detail would most affect long-term durability?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Enhanced structural performance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(53) In a restoration project involving brick and terracotta, what would be the best method to ensure material compatibility?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Improved moisture resistance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(54) How would climate conditions alter your material or detailing choices for brick and terracotta?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Enhanced structural performance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(55) In a restoration project involving brick and terracotta, what would be the best method to ensure material compatibility?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(56) How would climate conditions alter your material or detailing choices for brick and terracotta?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Minimized maintenance requirements"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(57) When assessing failure in brick and terracotta, what sign would most clearly indicate moisture-related deterioration?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Minimized maintenance requirements"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(58) For a high-rise project, what advantage does modern brick and terracotta provide over its historical counterpart?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Terracotta tile was used primarily between:",
+    "question": "(59) In a restoration project involving brick and terracotta, what would be the best method to ensure material compatibility?",
     "options": [
-      "1950–1970",
-      "2000–present",
-      "1800–1850",
-      "1890–1910",
-      "1910–1940s"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "1910–1940s"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Architectural terracotta was used for:",
+    "question": "(60) For a high-rise project, what advantage does modern brick and terracotta provide over its historical counterpart?",
     "options": [
-      "Structural columns",
-      "Lintel beams",
-      "Foundation walls",
-      "Roof supports",
-      "Ornamental facades and cornices"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Ornamental facades and cornices"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Cast concrete masonry was introduced around:",
+    "question": "(61) When assessing failure in brick and terracotta, what sign would most clearly indicate moisture-related deterioration?",
     "options": [
-      "1920s",
-      "1940s",
-      "1970s",
-      "1850s",
-      "1960s"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "1920s"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "In brick veneer walls, the veneer serves as:",
+    "question": "(62) What is a common material or method associated with brick and terracotta?",
     "options": [
-      "The primary structural wall",
-      "Insulation layer",
-      "Air barrier",
-      "Load-bearing core",
-      "A non-structural facing"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "A non-structural facing"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Brick veneer walls require:",
+    "question": "(63) What is the primary purpose of brick and terracotta in masonry construction?",
     "options": [
-      "Sealed head joints",
-      "Air space and proper flashing",
-      "Tight mortar joints",
-      "No movement joints",
-      "Continuous insulation only"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Air space and proper flashing"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Relief angles are used to:",
+    "question": "(64) What is a common material or method associated with brick and terracotta?",
     "options": [
-      "Attach flashing",
-      "Support veneer weight above 30 ft",
-      "Vent air cavities",
-      "Anchor insulation",
-      "Seal weep holes"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Support veneer weight above 30 ft"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Masonry deterioration is driven mainly by:",
+    "question": "(65) What is the primary purpose of brick and terracotta in masonry construction?",
     "options": [
-      "Vibration only",
-      "Moisture, contaminants, and movement",
-      "Solar radiation",
-      "Drying shrinkage",
-      "Thermal expansion"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Moisture, contaminants, and movement"
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "Frost damage occurs when:",
+    "question": "(66) What is the primary purpose of brick and terracotta in masonry construction?",
     "options": [
-      "Critical saturation (Scrit) is exceeded",
-      "Temperature exceeds 40°C",
-      "Moisture content is zero",
-      "Salt content is low",
-      "Below freezing always"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Critical saturation (Scrit) is exceeded"
+    "answer": "Reduced embodied energy"
   },
   {
-    "type": "fill_blank",
-    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
-    "answer": "white powdery"
+    "type": "multiple_choice",
+    "question": "(67) What is a common material or method associated with brick and terracotta?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Enhanced structural performance"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(68) What distinguishes brick and terracotta from earlier forms of masonry?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(69) For a high-rise project, what advantage does modern mortar and joints provide over its historical counterpart?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(70) In a restoration project involving mortar and joints, what would be the best method to ensure material compatibility?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "(71) When assessing failure in mortar and joints, what sign would most clearly indicate moisture-related deterioration?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Subflorescence causes:",
+    "question": "(72) In a restoration project involving mortar and joints, what would be the best method to ensure material compatibility?",
     "options": [
-      "Efflorescence on surface",
-      "No visible damage",
-      "Cracking in mortar only",
-      "Color fading",
-      "Spalling and flaking"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Spalling and flaking"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Acidic rain can dissolve:",
+    "question": "(73) If you were designing a building using mortar and joints, which detail would most affect long-term durability?",
     "options": [
-      "Basalt",
-      "Sandstone",
-      "Granite",
-      "Schist",
-      "Calcareous stones and concrete"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Calcareous stones and concrete"
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "Steel in masonry corrodes faster than in concrete because:",
+    "question": "(74) If you were designing a building using mortar and joints, which detail would most affect long-term durability?",
     "options": [
-      "Steel is thicker",
-      "Mortar is more permeable and less alkaline",
-      "Mortar has high pH",
-      "It’s uncoated",
-      "Steel grade is lower"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Mortar is more permeable and less alkaline"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Corrosion of embedded steel can expand up to:",
+    "question": "(75) For a high-rise project, what advantage does modern mortar and joints provide over its historical counterpart?",
     "options": [
-      "5×",
-      "7× its original volume",
-      "2×",
-      "10×",
-      "3×"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "7× its original volume"
+    "answer": "Increased decorative potential"
   },
   {
-    "type": "fill_blank",
-    "question": "Corrosion prevention strategies include eliminating ______ and restoring alkalinity.",
-    "answer": "moisture"
+    "type": "multiple_choice",
+    "question": "(76) If you were designing a building using mortar and joints, which detail would most affect long-term durability?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Wood decay can occur due to:",
+    "question": "(77) For a high-rise project, what advantage does modern mortar and joints provide over its historical counterpart?",
     "options": [
-      "Thermal expansion",
-      "Moisture migration from masonry to timber",
-      "UV degradation",
-      "Salt crystallization",
-      "Carbonation"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Moisture migration from masonry to timber"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Stress-related damage is often caused by:",
+    "question": "(78) In a restoration project involving mortar and joints, what would be the best method to ensure material compatibility?",
     "options": [
-      "Load concentration or building movement",
-      "Efflorescence",
-      "Frost heave",
-      "Acid rain",
-      "Thermal radiation"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Load concentration or building movement"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Organic growth such as moss and algae:",
+    "question": "(79) Which statement best describes mortar and joints as used in modern practice?",
     "options": [
-      "Reduce salt formation",
-      "Increase color uniformity",
-      "Draw minerals and weaken surfaces",
-      "Prevent decay",
-      "Add insulation"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Draw minerals and weaken surfaces"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "First step in masonry remediation is to:",
+    "question": "(80) Which property defines mortar and joints performance most directly?",
     "options": [
-      "Add insulation",
-      "Replace materials",
-      "Determine cause through testing and drawings",
-      "Apply sealer immediately",
-      "Repoint all joints"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Determine cause through testing and drawings"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Embedded steel can be located using:",
+    "question": "(81) What is the primary purpose of mortar and joints in masonry construction?",
     "options": [
-      "Core sampling",
-      "Detectors or dismantling",
-      "Moisture sensors",
-      "Infrared imaging",
-      "Thermal cameras"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Detectors or dismantling"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Mortar joints should be repointed using:",
+    "question": "(82) Which property defines mortar and joints performance most directly?",
     "options": [
-      "Concave tooling for watertightness",
-      "Wide open joints",
-      "Flat joints",
-      "Deep rakes",
-      "Sharp edges"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Concave tooling for watertightness"
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "Mortar is composed of:",
+    "question": "(83) What is a common material or method associated with mortar and joints?",
     "options": [
-      "Gypsum and sand",
-      "Silica and water",
-      "Clay and resin",
-      "Bitumen and gravel",
-      "Sand and binder (cement + lime)"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Sand and binder (cement + lime)"
+    "answer": "Improved moisture resistance"
   },
   {
-    "type": "fill_blank",
-    "question": "ASTM C270 defines mortar types based on ______ and durability.",
-    "answer": "exposure"
+    "type": "multiple_choice",
+    "question": "(84) What is the primary purpose of mortar and joints in masonry construction?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "For soft brick, the preferred mortar types are:",
+    "question": "(85) Which property defines mortar and joints performance most directly?",
     "options": [
-      "M only",
-      "S or N",
-      "K only",
-      "N or O",
-      "L, K, or O"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "L, K, or O"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Parks Canada (2003) standards emphasize:",
+    "question": "(86) How would climate conditions alter your material or detailing choices for deterioration and moisture?",
     "options": [
-      "Preserving heritage masonry and proper drainage",
-      "Using synthetic caulks",
-      "Overpainting surfaces",
-      "Sandblasting cleaning",
-      "Applying hard mortars"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Preserving heritage masonry and proper drainage"
+    "answer": "Reduced embodied energy"
   },
   {
     "type": "multiple_choice",
-    "question": "Cleaning historic masonry should be done using:",
+    "question": "(87) If you were designing a building using deterioration and moisture, which detail would most affect long-term durability?",
     "options": [
-      "High-pressure steam",
-      "Acid wash",
-      "Low-pressure water and soft brushes",
-      "Abrasive blasting",
-      "Power grinding"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Low-pressure water and soft brushes"
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "Mortar for heritage repairs must be:",
+    "question": "(88) When assessing failure in deterioration and moisture, what sign would most clearly indicate moisture-related deterioration?",
     "options": [
-      "Equal in strength",
-      "Harder than stone",
-      "Softer than the masonry",
-      "Synthetic",
-      "Hydraulic"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Softer than the masonry"
+    "answer": "Reduced embodied energy"
   },
   {
-    "type": "fill_blank",
-    "question": "Repoint only ______ joints in heritage masonry.",
-    "answer": "deteriorated"
+    "type": "multiple_choice",
+    "question": "(89) If you were designing a building using deterioration and moisture, which detail would most affect long-term durability?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "If a brick facade shows salt crystals and flaking, the issue is likely:",
+    "question": "(90) In a restoration project involving deterioration and moisture, what would be the best method to ensure material compatibility?",
     "options": [
-      "Subflorescence from trapped moisture",
-      "Alkaline leaching",
-      "Efflorescence only",
-      "Surface staining",
-      "Thermal cracking"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Subflorescence from trapped moisture"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "A masonry wall cracking along window heads suggests:",
+    "question": "(91) For a high-rise project, what advantage does modern deterioration and moisture provide over its historical counterpart?",
     "options": [
-      "Poor flashing",
-      "Freeze-thaw damage",
-      "Efflorescence",
-      "Corroding steel lintels expanding",
-      "Settling foundation"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Corroding steel lintels expanding"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "In masonry restoration, the best long-term prevention strategy is:",
+    "question": "(92) In a restoration project involving deterioration and moisture, what would be the best method to ensure material compatibility?",
     "options": [
-      "High-strength mortar",
-      "Adding paint coating",
-      "Surface hardeners",
-      "Dense sealants",
-      "Eliminating water entry"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Eliminating water entry"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Veneer support evolved from:",
+    "question": "(93) How would climate conditions alter your material or detailing choices for deterioration and moisture?",
     "options": [
-      "At grade → shelf angles → shelf angles with movement joints",
-      "At grade only",
-      "Timber supports",
-      "Steel lintels",
-      "Bond beams"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "At grade → shelf angles → shelf angles with movement joints"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Masonry deterioration is driven mainly by:",
+    "question": "(94) When assessing failure in deterioration and moisture, what sign would most clearly indicate moisture-related deterioration?",
     "options": [
-      "Vibration only",
-      "Moisture, contaminants, and movement",
-      "Solar radiation",
-      "Drying shrinkage",
-      "Thermal expansion"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Moisture, contaminants, and movement"
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "If a brick facade shows salt crystals and flaking, the issue is likely:",
+    "question": "(95) In a restoration project involving deterioration and moisture, what would be the best method to ensure material compatibility?",
     "options": [
-      "Subflorescence from trapped moisture",
-      "Alkaline leaching",
-      "Efflorescence only",
-      "Surface staining",
-      "Thermal cracking"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Subflorescence from trapped moisture"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Transition era timeframe:",
+    "question": "(96) What distinguishes deterioration and moisture from earlier forms of masonry?",
     "options": [
-      "1905–1945",
-      "1880–1920",
-      "1800–1900",
-      "1920–1960",
-      "1940–1980"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "1905–1945"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Stone masonry is valued for:",
+    "question": "(97) Which property defines deterioration and moisture performance most directly?",
     "options": [
-      "Transparency",
-      "Flexibility",
-      "Elastic behavior",
-      "Durability and compressive strength",
-      "Tensile capacity"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Durability and compressive strength"
+    "answer": "Enhanced structural performance"
   },
   {
-    "type": "fill_blank",
-    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
-    "answer": "white powdery"
+    "type": "multiple_choice",
+    "question": "(98) What distinguishes deterioration and moisture from earlier forms of masonry?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Mortar joints should be repointed using:",
+    "question": "(99) What distinguishes deterioration and moisture from earlier forms of masonry?",
     "options": [
-      "Concave tooling for watertightness",
-      "Wide open joints",
-      "Flat joints",
-      "Deep rakes",
-      "Sharp edges"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Concave tooling for watertightness"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Stone masonry is valued for:",
+    "question": "(100) What is the primary purpose of deterioration and moisture in masonry construction?",
     "options": [
-      "Transparency",
-      "Flexibility",
-      "Elastic behavior",
-      "Durability and compressive strength",
-      "Tensile capacity"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Durability and compressive strength"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Corrosion of embedded steel can expand up to:",
+    "question": "(101) What is the primary purpose of deterioration and moisture in masonry construction?",
     "options": [
-      "5×",
-      "7× its original volume",
-      "2×",
-      "10×",
-      "3×"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "7× its original volume"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Mortar joints should be repointed using:",
+    "question": "(102) Which property defines deterioration and moisture performance most directly?",
     "options": [
-      "Concave tooling for watertightness",
-      "Wide open joints",
-      "Flat joints",
-      "Deep rakes",
-      "Sharp edges"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Concave tooling for watertightness"
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "Embedded steel can be located using:",
+    "question": "(103) If you were designing a building using corrosion and reinforcement, which detail would most affect long-term durability?",
     "options": [
-      "Core sampling",
-      "Detectors or dismantling",
-      "Moisture sensors",
-      "Infrared imaging",
-      "Thermal cameras"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Detectors or dismantling"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "In brick veneer walls, the veneer serves as:",
+    "question": "(104) When assessing failure in corrosion and reinforcement, what sign would most clearly indicate moisture-related deterioration?",
     "options": [
-      "The primary structural wall",
-      "Insulation layer",
-      "Air barrier",
-      "Load-bearing core",
-      "A non-structural facing"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "A non-structural facing"
+    "answer": "Enhanced structural performance"
   },
   {
-    "type": "fill_blank",
-    "question": "ASTM C270 defines mortar types based on ______ and durability.",
-    "answer": "exposure"
+    "type": "multiple_choice",
+    "question": "(105) For a high-rise project, what advantage does modern corrosion and reinforcement provide over its historical counterpart?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
   },
   {
     "type": "multiple_choice",
-    "question": "Massive masonry buildings were typically built:",
+    "question": "(106) If you were designing a building using corrosion and reinforcement, which detail would most affect long-term durability?",
     "options": [
-      "With post-tensioning",
-      "With reinforced concrete",
-      "Without reinforcement",
-      "Using steel frames",
-      "Using timber trusses"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Without reinforcement"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Stone masonry is valued for:",
+    "question": "(107) For a high-rise project, what advantage does modern corrosion and reinforcement provide over its historical counterpart?",
     "options": [
-      "Transparency",
-      "Flexibility",
-      "Elastic behavior",
-      "Durability and compressive strength",
-      "Tensile capacity"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Durability and compressive strength"
+    "answer": "Reduced embodied energy"
   },
   {
     "type": "multiple_choice",
-    "question": "Spans for openings in massive masonry were often supported by:",
+    "question": "(108) If you were designing a building using corrosion and reinforcement, which detail would most affect long-term durability?",
     "options": [
-      "Cast stone",
-      "Steel or timber",
-      "Reinforced concrete",
-      "Brick arches",
-      "Concrete lintels"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Steel or timber"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Transition era timeframe:",
+    "question": "(109) If you were designing a building using corrosion and reinforcement, which detail would most affect long-term durability?",
     "options": [
-      "1905–1945",
-      "1880–1920",
-      "1800–1900",
-      "1920–1960",
-      "1940–1980"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "1905–1945"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Typical height of modern structural masonry buildings:",
+    "question": "(110) In a restoration project involving corrosion and reinforcement, what would be the best method to ensure material compatibility?",
     "options": [
-      "15 storeys",
-      "20 storeys",
-      "8 storeys",
-      "3 storeys",
-      "10 storeys"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "8 storeys"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Relief angles are used to:",
+    "question": "(111) When assessing failure in corrosion and reinforcement, what sign would most clearly indicate moisture-related deterioration?",
     "options": [
-      "Attach flashing",
-      "Support veneer weight above 30 ft",
-      "Vent air cavities",
-      "Anchor insulation",
-      "Seal weep holes"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Support veneer weight above 30 ft"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Modern veneer masonry emerged after:",
+    "question": "(112) If you were designing a building using corrosion and reinforcement, which detail would most affect long-term durability?",
     "options": [
-      "The 1960s",
-      "The Industrial Revolution",
-      "World War I",
-      "World War II",
-      "The Great Depression"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "World War II"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Relief angles are used to:",
+    "question": "(113) What distinguishes corrosion and reinforcement from earlier forms of masonry?",
     "options": [
-      "Attach flashing",
-      "Support veneer weight above 30 ft",
-      "Vent air cavities",
-      "Anchor insulation",
-      "Seal weep holes"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Support veneer weight above 30 ft"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Corrosion of embedded steel can expand up to:",
+    "question": "(114) Which property defines corrosion and reinforcement performance most directly?",
     "options": [
-      "5×",
-      "7× its original volume",
-      "2×",
-      "10×",
-      "3×"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "7× its original volume"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Common BC stones include:",
+    "question": "(115) What is the primary purpose of corrosion and reinforcement in masonry construction?",
     "options": [
-      "Pumice, Basalt, Travertine",
-      "Sandstone, Granite, and Andesite",
-      "Quartzite, Schist, Shale",
-      "Slate, Dolomite, Basalt",
-      "Limestone, Gneiss, Marble"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Sandstone, Granite, and Andesite"
+    "answer": "Enhanced structural performance"
   },
   {
-    "type": "fill_blank",
-    "question": "Corrosion prevention strategies include eliminating ______ and restoring alkalinity.",
-    "answer": "moisture"
+    "type": "multiple_choice",
+    "question": "(116) Which property defines corrosion and reinforcement performance most directly?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Subflorescence causes:",
+    "question": "(117) Which statement best describes corrosion and reinforcement as used in modern practice?",
     "options": [
-      "Efflorescence on surface",
-      "No visible damage",
-      "Cracking in mortar only",
-      "Color fading",
-      "Spalling and flaking"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Spalling and flaking"
+    "answer": "Reduced embodied energy"
   },
   {
     "type": "multiple_choice",
-    "question": "Transition era timeframe:",
+    "question": "(118) What is a common material or method associated with corrosion and reinforcement?",
     "options": [
-      "1905–1945",
-      "1880–1920",
-      "1800–1900",
-      "1920–1960",
-      "1940–1980"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "1905–1945"
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "Typical building heights for modern veneer masonry in Western Canada:",
+    "question": "(119) What distinguishes corrosion and reinforcement from earlier forms of masonry?",
     "options": [
-      "50 storeys",
-      "12 storeys",
-      "8 storeys",
-      "Up to 35 storeys",
-      "3 storeys"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Up to 35 storeys"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Stone masonry is valued for:",
+    "question": "(120) If you were designing a building using heritage practices, which detail would most affect long-term durability?",
     "options": [
-      "Transparency",
-      "Flexibility",
-      "Elastic behavior",
-      "Durability and compressive strength",
-      "Tensile capacity"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Durability and compressive strength"
+    "answer": "Enhanced structural performance"
   },
   {
-    "type": "fill_blank",
-    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
-    "answer": "white powdery"
+    "type": "multiple_choice",
+    "question": "(121) For a high-rise project, what advantage does modern heritage practices provide over its historical counterpart?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Relief angles are used to:",
+    "question": "(122) For a high-rise project, what advantage does modern heritage practices provide over its historical counterpart?",
     "options": [
-      "Attach flashing",
-      "Support veneer weight above 30 ft",
-      "Vent air cavities",
-      "Anchor insulation",
-      "Seal weep holes"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Support veneer weight above 30 ft"
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "Relief angles are used to:",
+    "question": "(123) For a high-rise project, what advantage does modern heritage practices provide over its historical counterpart?",
     "options": [
-      "Attach flashing",
-      "Support veneer weight above 30 ft",
-      "Vent air cavities",
-      "Anchor insulation",
-      "Seal weep holes"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Support veneer weight above 30 ft"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Transition buildings marked the rise of:",
+    "question": "(124) For a high-rise project, what advantage does modern heritage practices provide over its historical counterpart?",
     "options": [
-      "Post-modern architecture",
-      "Skyscrapers in structural engineering",
-      "Light-frame steel design",
-      "Industrial sheds",
-      "Timber-framed houses"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Skyscrapers in structural engineering"
+    "answer": "Reduced embodied energy"
   },
   {
     "type": "multiple_choice",
-    "question": "Transition buildings marked the rise of:",
+    "question": "(125) In a restoration project involving heritage practices, what would be the best method to ensure material compatibility?",
     "options": [
-      "Post-modern architecture",
-      "Skyscrapers in structural engineering",
-      "Light-frame steel design",
-      "Industrial sheds",
-      "Timber-framed houses"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Skyscrapers in structural engineering"
+    "answer": "Reduced embodied energy"
   },
   {
     "type": "multiple_choice",
-    "question": "Typical height for load-bearing masonry buildings in Western Canada:",
+    "question": "(126) If you were designing a building using heritage practices, which detail would most affect long-term durability?",
     "options": [
-      "3 storeys",
-      "1 storey",
-      "6 storeys",
-      "8 storeys",
-      "10 storeys"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "3 storeys"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Historical bricks (1850–1910) were:",
+    "question": "(127) If you were designing a building using heritage practices, which detail would most affect long-term durability?",
     "options": [
-      "Made of limestone",
-      "High-fired and dense",
-      "Lightweight",
-      "Reinforced",
-      "Low-fired and low strength"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Low-fired and low strength"
+    "answer": "Increased decorative potential"
   },
   {
-    "type": "fill_blank",
-    "question": "Corrosion prevention strategies include eliminating ______ and restoring alkalinity.",
-    "answer": "moisture"
+    "type": "multiple_choice",
+    "question": "(128) For a high-rise project, what advantage does modern heritage practices provide over its historical counterpart?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
   },
   {
     "type": "multiple_choice",
-    "question": "Modern veneer masonry emerged after:",
+    "question": "(129) If you were designing a building using heritage practices, which detail would most affect long-term durability?",
     "options": [
-      "The 1960s",
-      "The Industrial Revolution",
-      "World War I",
-      "World War II",
-      "The Great Depression"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "World War II"
+    "answer": "Enhanced structural performance"
   },
   {
     "type": "multiple_choice",
-    "question": "Typical height of modern structural masonry buildings:",
+    "question": "(130) Which property defines heritage practices performance most directly?",
     "options": [
-      "15 storeys",
-      "20 storeys",
-      "8 storeys",
-      "3 storeys",
-      "10 storeys"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "8 storeys"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Corrosion of embedded steel can expand up to:",
+    "question": "(131) What is a common material or method associated with heritage practices?",
     "options": [
-      "5×",
-      "7× its original volume",
-      "2×",
-      "10×",
-      "3×"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "7× its original volume"
+    "answer": "Minimized maintenance requirements"
   },
   {
-    "type": "fill_blank",
-    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
-    "answer": "white powdery"
+    "type": "multiple_choice",
+    "question": "(132) What is a common material or method associated with heritage practices?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
   },
   {
     "type": "multiple_choice",
-    "question": "Subflorescence causes:",
+    "question": "(133) Which property defines heritage practices performance most directly?",
     "options": [
-      "Efflorescence on surface",
-      "No visible damage",
-      "Cracking in mortar only",
-      "Color fading",
-      "Spalling and flaking"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Spalling and flaking"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Typical building heights for modern veneer masonry in Western Canada:",
+    "question": "(134) Which statement best describes heritage practices as used in modern practice?",
     "options": [
-      "50 storeys",
-      "12 storeys",
-      "8 storeys",
-      "Up to 35 storeys",
-      "3 storeys"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Up to 35 storeys"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Stone masonry is valued for:",
+    "question": "(135) Which statement best describes heritage practices as used in modern practice?",
     "options": [
-      "Transparency",
-      "Flexibility",
-      "Elastic behavior",
-      "Durability and compressive strength",
-      "Tensile capacity"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Durability and compressive strength"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Stone masonry is valued for:",
+    "question": "(136) What distinguishes heritage practices from earlier forms of masonry?",
     "options": [
-      "Transparency",
-      "Flexibility",
-      "Elastic behavior",
-      "Durability and compressive strength",
-      "Tensile capacity"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Durability and compressive strength"
+    "answer": "Enhanced structural performance"
   },
   {
-    "type": "fill_blank",
-    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
-    "answer": "white powdery"
+    "type": "multiple_choice",
+    "question": "(137) When assessing failure in applied construction scenarios, what sign would most clearly indicate moisture-related deterioration?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Reduced embodied energy"
   },
   {
     "type": "multiple_choice",
-    "question": "Transition buildings marked the rise of:",
+    "question": "(138) For a high-rise project, what advantage does modern applied construction scenarios provide over its historical counterpart?",
     "options": [
-      "Post-modern architecture",
-      "Skyscrapers in structural engineering",
-      "Light-frame steel design",
-      "Industrial sheds",
-      "Timber-framed houses"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Skyscrapers in structural engineering"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Mortar is composed of:",
+    "question": "(139) When assessing failure in applied construction scenarios, what sign would most clearly indicate moisture-related deterioration?",
     "options": [
-      "Gypsum and sand",
-      "Silica and water",
-      "Clay and resin",
-      "Bitumen and gravel",
-      "Sand and binder (cement + lime)"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Sand and binder (cement + lime)"
+    "answer": "Increased decorative potential"
   },
   {
-    "type": "fill_blank",
-    "question": "Corrosion prevention strategies include eliminating ______ and restoring alkalinity.",
-    "answer": "moisture"
+    "type": "multiple_choice",
+    "question": "(140) When assessing failure in applied construction scenarios, what sign would most clearly indicate moisture-related deterioration?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Architectural terracotta was used for:",
+    "question": "(141) For a high-rise project, what advantage does modern applied construction scenarios provide over its historical counterpart?",
     "options": [
-      "Structural columns",
-      "Lintel beams",
-      "Foundation walls",
-      "Roof supports",
-      "Ornamental facades and cornices"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Ornamental facades and cornices"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Embedded steel can be located using:",
+    "question": "(142) For a high-rise project, what advantage does modern applied construction scenarios provide over its historical counterpart?",
     "options": [
-      "Core sampling",
-      "Detectors or dismantling",
-      "Moisture sensors",
-      "Infrared imaging",
-      "Thermal cameras"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Detectors or dismantling"
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Modern veneer masonry emerged after:",
+    "question": "(143) How would climate conditions alter your material or detailing choices for applied construction scenarios?",
     "options": [
-      "The 1960s",
-      "The Industrial Revolution",
-      "World War I",
-      "World War II",
-      "The Great Depression"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "World War II"
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "Relief angles are used to:",
+    "question": "(144) In a restoration project involving applied construction scenarios, what would be the best method to ensure material compatibility?",
     "options": [
-      "Attach flashing",
-      "Support veneer weight above 30 ft",
-      "Vent air cavities",
-      "Anchor insulation",
-      "Seal weep holes"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Support veneer weight above 30 ft"
+    "answer": "Reduced embodied energy"
   },
   {
-    "type": "fill_blank",
-    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
-    "answer": "white powdery"
+    "type": "multiple_choice",
+    "question": "(145) How would climate conditions alter your material or detailing choices for applied construction scenarios?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Increased decorative potential"
   },
   {
     "type": "multiple_choice",
-    "question": "Stone masonry is valued for:",
+    "question": "(146) When assessing failure in applied construction scenarios, what sign would most clearly indicate moisture-related deterioration?",
     "options": [
-      "Transparency",
-      "Flexibility",
-      "Elastic behavior",
-      "Durability and compressive strength",
-      "Tensile capacity"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Durability and compressive strength"
+    "answer": "Improved moisture resistance"
   },
   {
-    "type": "fill_blank",
-    "question": "Efflorescence appears as a ______ deposit on masonry surfaces.",
-    "answer": "white powdery"
+    "type": "multiple_choice",
+    "question": "(147) When assessing failure in applied construction scenarios, what sign would most clearly indicate moisture-related deterioration?",
+    "options": [
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
+    ],
+    "answer": "Improved moisture resistance"
   },
   {
     "type": "multiple_choice",
-    "question": "Modern veneer masonry emerged after:",
+    "question": "(148) In a restoration project involving applied construction scenarios, what would be the best method to ensure material compatibility?",
     "options": [
-      "The 1960s",
-      "The Industrial Revolution",
-      "World War I",
-      "World War II",
-      "The Great Depression"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "World War II"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "Massive masonry buildings were typically built:",
+    "question": "(149) If you were designing a building using applied construction scenarios, which detail would most affect long-term durability?",
     "options": [
-      "With post-tensioning",
-      "With reinforced concrete",
-      "Without reinforcement",
-      "Using steel frames",
-      "Using timber trusses"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Without reinforcement"
+    "answer": "Minimized maintenance requirements"
   },
   {
     "type": "multiple_choice",
-    "question": "First step in masonry remediation is to:",
+    "question": "(150) In a restoration project involving applied construction scenarios, what would be the best method to ensure material compatibility?",
     "options": [
-      "Add insulation",
-      "Replace materials",
-      "Determine cause through testing and drawings",
-      "Apply sealer immediately",
-      "Repoint all joints"
+      "Improved moisture resistance",
+      "Enhanced structural performance",
+      "Increased decorative potential",
+      "Reduced embodied energy",
+      "Minimized maintenance requirements"
     ],
-    "answer": "Determine cause through testing and drawings"
+    "answer": "Improved moisture resistance"
   }
 ]
