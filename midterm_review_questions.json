@@ -1,0 +1,248 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "In an electrolytic cell, oxidation occurs at the:",
+    "options": ["Cathode", "Anode", "Electrolyte", "External circuit", "Separator"],
+    "answer": "Anode"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "During oxidation, a material:",
+    "options": ["Gains electrons", "Becomes more negatively charged", "Loses electrons", "Attracts cations", "Undergoes reduction"],
+    "answer": "Loses electrons"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The anode in a corrosion cell tends to:",
+    "options": ["Gain electrons", "Become negatively charged", "Attract cations", "Lose material through corrosion", "Act as a protective barrier"],
+    "answer": "Lose material through corrosion"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Sacrificial anodes are typically made of:",
+    "options": ["Copper or Aluminum", "Zinc or Magnesium", "Iron or Nickel", "Lead or Tin", "Chromium or Manganese"],
+    "answer": "Zinc or Magnesium"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Reduction occurs at the:",
+    "options": ["Anode", "Cathode", "Electrolyte", "Current collector", "Membrane"],
+    "answer": "Cathode"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "During reduction, a material:",
+    "options": ["Loses electrons", "Becomes more positively charged", "Releases ions", "Gains electrons", "Becomes oxidized"],
+    "answer": "Gains electrons"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A useful mnemonic for remembering electrode reactions is:",
+    "options": ["Red An, Ox Cat", "Ox Red Cat", "An Ox, Red Cat", "Cat Red, An Ox", "An Cat, Ox Red"],
+    "answer": "An Ox, Red Cat"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The primary reason for using sacrificial anodes is to:",
+    "options": ["Increase conductivity", "Provide a stronger electric field", "Protect structural metal from corrosion", "Reduce weight", "Enhance aesthetic appearance"],
+    "answer": "Protect structural metal from corrosion"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Chloride attack and carbonation are both causes of:",
+    "options": ["Thermal cracking", "Steel corrosion in concrete", "Carbon fiber degradation", "Concrete discoloration", "Sulphate attack"],
+    "answer": "Steel corrosion in concrete"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT a reason for following prescriptive design provisions?",
+    "options": ["Easier design approval", "Simplifies review for authorities", "Ensures quick compliance", "Encourages novel design solutions", "Faster application process"],
+    "answer": "Encourages novel design solutions"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The first step in the material selection process is to identify the:",
+    "options": ["Constraint", "Objective", "Function", "Free variable", "Cost limit"],
+    "answer": "Function"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Constraints in the selection process represent:",
+    "options": ["Goals to maximize", "Non-negotiable conditions", "Economic considerations", "Optional features", "Testing procedures"],
+    "answer": "Non-negotiable conditions"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The design objective is typically something to be:",
+    "options": ["Eliminated", "Quantified", "Maximized or minimized", "Standardized", "Ignored"],
+    "answer": "Maximized or minimized"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Free variables in design are:",
+    "options": ["Parameters that cannot change", "Standards set by codes", "Parameters the designer can adjust", "Material constraints", "External conditions"],
+    "answer": "Parameters the designer can adjust"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood is dimensionally stable when:",
+    "options": ["MCFC > EMC", "EMC = 0", "EMC > MCFC", "MCFC = 100%", "EMC < 5%"],
+    "answer": "EMC > MCFC"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Wood swells most in which direction?",
+    "options": ["Radial", "Tangential", "Longitudinal", "Diagonal", "Transverse"],
+    "answer": "Tangential"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical radial movement in wood is approximately:",
+    "options": ["0.01% per 1% MC", "0.15% per 1% MC", "1.5% per 1% MC", "0.50% per 1% MC", "0.005% per 1% MC"],
+    "answer": "0.15% per 1% MC"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Typical longitudinal movement in wood is approximately:",
+    "options": ["0.01% per 1% MC", "0.10% per 1% MC", "0.15% per 1% MC", "0.50% per 1% MC", "1.0% per 1% MC"],
+    "answer": "0.01% per 1% MC"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Plain-sawn wood is characterized by:",
+    "options": ["Greater stability", "Faster production and affordability", "High moisture resistance", "Less available patterns", "Reduced grain variation"],
+    "answer": "Faster production and affordability"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Quarter-sawn wood is preferred for:",
+    "options": ["Lower cost", "Greater dimensional stability", "Ease of machining", "More unique patterns", "Faster cutting rates"],
+    "answer": "Greater dimensional stability"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The main advantage of quarter-sawn lumber is that it:",
+    "options": ["Is cheaper to produce", "Is more moisture resistant", "Is less stable", "Has random grain", "Dries faster"],
+    "answer": "Is more moisture resistant"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In CSA O80.1, Use Category 3.1 applies to:",
+    "options": ["Interior flooring", "Exterior above ground, coated", "Below-ground applications", "Structural concrete forms", "Marine piling"],
+    "answer": "Exterior above ground, coated"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "UC3.2 in CSA O80.1 corresponds to:",
+    "options": ["Exterior coated millwork", "Exterior above ground, uncoated", "Interior dry conditions", "Below-grade wood foundations", "Protected framing members"],
+    "answer": "Exterior above ground, uncoated"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "UC3.1 environments are typically:",
+    "options": ["Continuously wet", "Protected and free-draining", "Completely buried", "Dry interior", "Marine-exposed"],
+    "answer": "Protected and free-draining"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "An example of a UC3.2 product is:",
+    "options": ["Deck boards", "Coated trim", "Cabinet framing", "Interior flooring", "Subfloor sheathing"],
+    "answer": "Deck boards"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Toughness is a measure of a material’s ability to:",
+    "options": ["Resist plastic deformation", "Absorb energy and deform without fracturing", "Withstand heat transfer", "Conduct electricity", "Resist corrosion"],
+    "answer": "Absorb energy and deform without fracturing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Fracture toughness measures a material’s ability to:",
+    "options": ["Absorb moisture", "Resist crack propagation", "Deform elastically", "Conduct heat", "Shrink under stress"],
+    "answer": "Resist crack propagation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Young’s Modulus (E) represents:",
+    "options": ["Hardness", "Stiffness", "Elastic limit", "Toughness", "Yield strength"],
+    "answer": "Stiffness"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Stress is defined as:",
+    "options": ["Force per unit area", "Extension per unit length", "Deformation per force", "Energy absorbed per unit volume", "Load per unit volume"],
+    "answer": "Force per unit area"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Strain is defined as:",
+    "options": ["Force per unit area", "Extension per unit length", "Resistance to deformation", "Stress over time", "Load per unit area"],
+    "answer": "Extension per unit length"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Yield strength marks the transition between:",
+    "options": ["Elastic and plastic behavior", "Tensile and compressive zones", "Brittle and ductile failure", "Thermal and mechanical effects", "Creep and fatigue regions"],
+    "answer": "Elastic and plastic behavior"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Tensile strength is the:",
+    "options": ["Stress at fracture", "Stress at yield", "Maximum stress before fracture", "Stress at proportional limit", "Stress at crack initiation"],
+    "answer": "Maximum stress before fracture"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Work hardening causes the strength of a metal to:",
+    "options": ["Decrease", "Remain constant", "Increase in the plastic region", "Drop suddenly at yield", "Vary randomly"],
+    "answer": "Increase in the plastic region"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Fracture toughness (Kc) has units of:",
+    "options": ["J/m²", "MPa(m)^0.5", "N/m", "Pa", "kJ/kg"],
+    "answer": "MPa(m)^0.5"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "If K < Kc, the crack in a material will:",
+    "options": ["Propagate rapidly", "Remain stable", "Close completely", "Cause brittle fracture", "Heat up"],
+    "answer": "Remain stable"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "When K = Kc, the crack will:",
+    "options": ["Remain dormant", "Grow slowly", "Propagate at high speed", "Cause plastic deformation only", "Seal under pressure"],
+    "answer": "Propagate at high speed"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For an edge crack, the formula uses:",
+    "options": ["Half the total crack length", "The full crack length", "Crack area", "Average crack depth", "Crack volume"],
+    "answer": "The full crack length"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "For a center crack, the formula uses:",
+    "options": ["Full crack length", "Half the total crack length", "Twice the crack length", "Average crack radius", "Crack circumference"],
+    "answer": "Half the total crack length"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The shading coefficient (SC) is used to calculate:",
+    "options": ["Heat loss coefficient", "Solar heat gain for glazing", "Thermal conductivity", "U-value", "Radiative emittance"],
+    "answer": "Solar heat gain for glazing"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Emittance measures a surface’s ability to:",
+    "options": ["Absorb light", "Emit thermal radiation", "Reflect sound", "Store heat", "Refract waves"],
+    "answer": "Emit thermal radiation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Absorptance is the fraction of incident radiation that is:",
+    "options": ["Reflected", "Transmitted", "Absorbed", "Refracted", "Scattered"],
+    "answer": "Absorbed"
+  }
+]
