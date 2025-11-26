@@ -1,0 +1,500 @@
+[
+    {
+      "type": "multiple_choice",
+      "question": "What roof slope is typically classified as steep-slope?",
+      "options": ["1:12", "2:12", "3:12", "4:12 or greater", "5:12 or greater"],
+      "answer": "4:12 or greater"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Steep-slope roof systems primarily manage water through:",
+      "options": [
+        "Fully adhered membranes",
+        "Overlapping components for water shedding",
+        "Closed-cell insulation layers",
+        "Cut-and-cover drainage mats",
+        "Internal gutter channels"
+      ],
+      "answer": "Overlapping components for water shedding"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Low-slope roofs require continuous waterproofing because:",
+      "options": [
+        "They shed water quickly",
+        "They rely on capillary action",
+        "They cannot shed water via gravity alone",
+        "They are always vented",
+        "They do not incorporate insulation"
+      ],
+      "answer": "They cannot shed water via gravity alone"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which roof type places the membrane above insulation and leaves it exposed?",
+      "options": [
+        "Protected membrane roof",
+        "Joist-insulated vented roof",
+        "Exposed membrane conventional flat roof",
+        "Unvented spray foam roof",
+        "Inverted roof assembly"
+      ],
+      "answer": "Exposed membrane conventional flat roof"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Split-insulated exposed membrane roof assemblies use:",
+      "options": [
+        "Only rigid insulation",
+        "Only spray foam insulation",
+        "Rigid insulation above deck and batt insulation in joists",
+        "EPS insulation above membrane",
+        "No insulation at all"
+      ],
+      "answer": "Rigid insulation above deck and batt insulation in joists"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which flat roof type improves moisture removal using a vented air space?",
+      "options": [
+        "Joist-insulated vented flat roof",
+        "Exposed membrane roof",
+        "Split-insulated roof",
+        "Protected membrane roof",
+        "Spray-foam unvented roof"
+      ],
+      "answer": "Joist-insulated vented flat roof"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Unvented spray foam roofs create an assembly that is:",
+      "options": [
+        "Air-permeable",
+        "Highly ventilated",
+        "Completely dependent on batt insulation",
+        "Air-impermeable with improved continuity",
+        "Exposed to UV radiation"
+      ],
+      "answer": "Air-impermeable with improved continuity"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In a protected membrane roof (PMR), insulation is typically placed:",
+      "options": [
+        "Below the structural deck",
+        "Between battens",
+        "Above the membrane",
+        "Between the membrane and cover board",
+        "Inside joist bays only"
+      ],
+      "answer": "Above the membrane"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which insulation material is commonly used above the membrane in a PMR?",
+      "options": ["EPS", "Fiberglass", "XPS", "Mineral wool", "Cellulose"],
+      "answer": "XPS"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Tar is no longer widely used for roofing because it:",
+      "options": [
+        "Is too flexible",
+        "Is derived from crude oil",
+        "Is brittle and prone to cracking",
+        "Is incompatible with insulation",
+        "Cannot bond to concrete"
+      ],
+      "answer": "Is brittle and prone to cracking"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Bitumen is best described as:",
+      "options": [
+        "A coal derivative",
+        "Liquid asphalt",
+        "A binder derived from crude oil or natural deposits",
+        "A polymer modifier",
+        "A roofing aggregate"
+      ],
+      "answer": "A binder derived from crude oil or natural deposits"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Built-up roofs (BUR) typically use:",
+      "options": [
+        "Single-ply sheets only",
+        "Hot bitumen and felt plies",
+        "Torch-applied APP membranes",
+        "Spray-applied polyurethane",
+        "Liquid-applied acrylics"
+      ],
+      "answer": "Hot bitumen and felt plies"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A key drawback of BUR systems is:",
+      "options": [
+        "Inability to include gravel surfacing",
+        "High installation hazard from hot kettles and flames",
+        "Poor UV resistance",
+        "Limited warranty options",
+        "Incompatibility with concrete decks"
+      ],
+      "answer": "High installation hazard from hot kettles and flames"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Modified bitumen membranes are improved by adding:",
+      "options": ["Fibers", "Polymers", "Metal foils", "Glass beads", "Sand aggregates"],
+      "answer": "Polymers"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "SBS-modified bitumen is known for:",
+      "options": [
+        "High rigidity",
+        "Low elongation",
+        "Flexibility and good low-temperature performance",
+        "Low-temperature brittleness",
+        "UV resistance only"
+      ],
+      "answer": "Flexibility and good low-temperature performance"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "APP-modified bitumen membranes are:",
+      "options": [
+        "Elastomeric",
+        "Rubber-based",
+        "Plasticized with polypropylene",
+        "Only installed with adhesives",
+        "Unsuitable for UV exposure"
+      ],
+      "answer": "Plasticized with polypropylene"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Glass reinforcement mats in roofing are characterized by:",
+      "options": [
+        "High elongation",
+        "High stability and low elongation",
+        "High tear resistance",
+        "Rubberized flexibility",
+        "Soft, fabric-like texture"
+      ],
+      "answer": "High stability and low elongation"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Non-woven polyester mats provide:",
+      "options": [
+        "Low puncture resistance",
+        "High elongation with good tear resistance",
+        "No reinforcement value",
+        "Poor dimensional stability",
+        "Minimal compatibility with bitumen"
+      ],
+      "answer": "High elongation with good tear resistance"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Single-ply membranes are typically:",
+      "options": [
+        "Up to 20 mil thick",
+        "Up to 50 mil thick",
+        "Up to 90 mil thick",
+        "More than 150 mil thick",
+        "Only used for steep-slope roofs"
+      ],
+      "answer": "Up to 90 mil thick"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "TPO membranes are weldable using:",
+      "options": [
+        "Solvent primers",
+        "Adhesive tapes",
+        "Heat welding",
+        "Cold bonding",
+        "Chemical splicing"
+      ],
+      "answer": "Heat welding"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "PVC membranes contain:",
+      "options": ["Elastomeric oils", "Plasticizers", "Fiberglass binders", "Bitumen", "Polyurethane foams"],
+      "answer": "Plasticizers"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "EPDM roofing membranes are classified as:",
+      "options": [
+        "Thermoplastics",
+        "Thermosets",
+        "Asphalt-based systems",
+        "Hybrid bitumen composites",
+        "Acrylic-based materials"
+      ],
+      "answer": "Thermosets"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "EPDM membrane seams are typically joined using:",
+      "options": [
+        "Heat welding",
+        "Hot bitumen mopping",
+        "Tapes or adhesives",
+        "Torch fusion",
+        "Mechanical rivets"
+      ],
+      "answer": "Tapes or adhesives"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A mechanically attached single-ply system uses:",
+      "options": [
+        "Loose-laid sheets and ballast",
+        "Heat-fused plates",
+        "Fasteners penetrating the deck",
+        "Troweled adhesives",
+        "Vacuum suction devices"
+      ],
+      "answer": "Fasteners penetrating the deck"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A drawback of mechanically attached systems is:",
+      "options": [
+        "Low wind uplift resistance",
+        "Need for ballast",
+        "Increased thermal bridging",
+        "Limited deck compatibility",
+        "No available warranties"
+      ],
+      "answer": "Increased thermal bridging"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Ballasted roofs require:",
+      "options": [
+        "No structural review",
+        "High structural capacity due to added weight",
+        "Heat-welded seams",
+        "Full adhesion to substrate",
+        "Rigid foam fasteners"
+      ],
+      "answer": "High structural capacity due to added weight"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Common ballast materials include:",
+      "options": [
+        "Fiberglass batts",
+        "Clay tiles",
+        "Stone or concrete pavers",
+        "Metal sheets",
+        "Polystyrene blocks"
+      ],
+      "answer": "Stone or concrete pavers"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Liquid-applied membranes are often based on:",
+      "options": ["Bitumen", "Polyurethane or methacrylate", "Nylon polymers", "Clay binders", "Silicone foam"],
+      "answer": "Polyurethane or methacrylate"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Liquid-applied membranes generally provide:",
+      "options": [
+        "Thermal insulation",
+        "Seamless waterproofing",
+        "Ventilation through pores",
+        "UV-reflective coloration",
+        "Fire suppression"
+      ],
+      "answer": "Seamless waterproofing"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Rubberized asphalt liquid-applied membranes exhibit:",
+      "options": [
+        "High brittleness",
+        "Low adhesion",
+        "Self-healing properties",
+        "Only warm-weather application",
+        "Requirement for staples"
+      ],
+      "answer": "Self-healing properties"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "For liquid-applied roofing, concrete substrates must be:",
+      "options": [
+        "Wet and cold",
+        "Uncured and rough",
+        "Clean, dry, and well-cured",
+        "Covered with frost",
+        "Coated in bond breakers"
+      ],
+      "answer": "Clean, dry, and well-cured"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Bentonite membranes are primarily used for:",
+      "options": [
+        "Steep-slope flashing",
+        "Above-grade curtain walls",
+        "Below-grade waterproofing",
+        "Sloped drainage mats",
+        "Roof underlayments"
+      ],
+      "answer": "Below-grade waterproofing"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Bentonite membranes swell when:",
+      "options": [
+        "Heated",
+        "Exposed to UV",
+        "Hydrated",
+        "Compressed",
+        "Frozen"
+      ],
+      "answer": "Hydrated"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Bentonite sheets are often laminated to:",
+      "options": ["PVC sheets", "TPO membranes", "HDPE sheets", "Foil scrims", "Gypsum boards"],
+      "answer": "HDPE sheets"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Bentonite membranes provide excellent resistance to:",
+      "options": [
+        "Fire",
+        "UV exposure",
+        "Methane and soil gases",
+        "Thermal bridging",
+        "Ponding water exposure"
+      ],
+      "answer": "Methane and soil gases"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Roof membranes must be conditioned by unrolling them for at least:",
+      "options": ["2 minutes", "5 minutes", "15 minutes", "30 minutes", "45 minutes"],
+      "answer": "15 minutes"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In cold weather below 10°C, plastic films on base sheets must be:",
+      "options": [
+        "Left in place",
+        "Frozen solid",
+        "Burned off in a zig-zag pattern",
+        "Washed with solvent",
+        "Cut with a hot knife"
+      ],
+      "answer": "Burned off in a zig-zag pattern"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Perimeter fastening patterns require higher fastener density because:",
+      "options": [
+        "They are easier to access",
+        "They have lower R-values",
+        "Wind uplift forces are greater at edges",
+        "Membranes are thicker at edges",
+        "Decks are stronger at boundaries"
+      ],
+      "answer": "Wind uplift forces are greater at edges"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "TPO installations feature seams that are:",
+      "options": [
+        "Adhered with tapes",
+        "Heat welded",
+        "Joined with mastic",
+        "Crimped mechanically",
+        "Pressed with rollers only"
+      ],
+      "answer": "Heat welded"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A protected membrane roof increases membrane lifespan by:",
+      "options": [
+        "Reducing membrane thickness",
+        "Exposing it to UV for conditioning",
+        "Shielding it from UV and temperature fluctuations",
+        "Allowing it to pond water",
+        "Using thinner insulation layers"
+      ],
+      "answer": "Shielding it from UV and temperature fluctuations"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which single-ply category includes membranes that soften when heated?",
+      "options": ["EPDM", "TPO and PVC", "BUR", "SBS-modified bitumen", "APP-modified bitumen"],
+      "answer": "TPO and PVC"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The primary advantage of large-roll EPDM membranes is:",
+      "options": [
+        "Lower cost per square foot",
+        "Reduced number of seams",
+        "Easier heat welding",
+        "Improved ballast retention",
+        "Enhanced UV reflectivity"
+      ],
+      "answer": "Reduced number of seams"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which single-ply membrane type typically offers 25+ years of service history?",
+      "options": ["TPO", "PVC", "APP", "SBS", "BUR"],
+      "answer": "PVC"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Modified bitumen sheets may be applied using:",
+      "options": ["Solvent welding", "Torching, hot-mop, cold adhesives, or self-adhered", "Ballasting only", "Mechanical riveting", "Vacuum sealing"],
+      "answer": "Torching, hot-mop, cold adhesives, or self-adhered"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A major advantage of ballasted systems is:",
+      "options": [
+        "Minimal structural load",
+        "Extremely high R-value",
+        "Fast installation with UV protection",
+        "Only needing one layer of insulation",
+        "Ability to withstand fire exposure"
+      ],
+      "answer": "Fast installation with UV protection"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Liquid-applied membranes typically require a base coat thickness of:",
+      "options": ["5–10 mil", "20–30 mil", "45–60 mil", "80–100 mil", "100–120 mil"],
+      "answer": "45–60 mil"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Spray foam insulated unvented roofs improve performance primarily through:",
+      "options": [
+        "High permeability",
+        "Discontinuous insulation",
+        "Air-impermeable insulation continuity",
+        "Increased ventilation",
+        "Reduced insulation thickness"
+      ],
+      "answer": "Air-impermeable insulation continuity"
+    }
+  ]
