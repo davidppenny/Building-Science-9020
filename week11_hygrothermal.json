@@ -1,0 +1,566 @@
+[
+    {
+      "type": "multiple_choice",
+      "question": "Water molecules are polar because:",
+      "options": [
+        "The molecule is perfectly symmetrical",
+        "Hydrogen carries a negative charge and oxygen is positive",
+        "The oxygen end is more negative and the hydrogen end is more positive",
+        "Electrons are evenly distributed across the molecule",
+        "Its structure is linear"
+      ],
+      "answer": "The oxygen end is more negative and the hydrogen end is more positive"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which property of water is directly related to its molecular polarity?",
+      "options": [
+        "Low boiling point",
+        "Lowest thermal conductivity of all liquids",
+        "Strong solvent capabilities for ionic salts",
+        "Inability to adsorb to surfaces",
+        "Minimal surface tension"
+      ],
+      "answer": "Strong solvent capabilities for ionic salts"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Surface tension in water occurs primarily because:",
+      "options": [
+        "Water molecules repel each other",
+        "Water has no polarity",
+        "Water molecules stick to each other more than to air",
+        "Hydrogen bonds are weak and temporary",
+        "Water is a non-wetting liquid"
+      ],
+      "answer": "Water molecules stick to each other more than to air"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which moisture-related performance problem is NOT directly caused by moisture in porous materials?",
+      "options": [
+        "Fungal growth",
+        "Freeze-thaw damage",
+        "Corrosion of metals",
+        "Increased thermal conductivity of insulation",
+        "Coating failures"
+      ],
+      "answer": "Increased thermal conductivity of insulation"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Moisture problems require four conditions. Eliminating which one will prevent moisture issues entirely?",
+      "options": [
+        "Temperature variation",
+        "Moisture availability",
+        "Material porosity",
+        "Presence of insulation",
+        "Indoor air movement"
+      ],
+      "answer": "Moisture availability"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Humidity ratio is defined as:",
+      "options": [
+        "The ratio of wet-bulb to dry-bulb temperature",
+        "Mass of water vapour per mass of dry air",
+        "Percentage of air that is humidified",
+        "Mass of air per mass of water vapour",
+        "Ratio of vapour pressure to dewpoint"
+      ],
+      "answer": "Mass of water vapour per mass of dry air"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Relative humidity represents:",
+      "options": [
+        "The mass of liquid water per wall area",
+        "Total humidity regardless of temperature",
+        "The percentage of current vapour pressure relative to saturation at the same temperature",
+        "The moisture content of a material",
+        "How much water a material can adsorb"
+      ],
+      "answer": "The percentage of current vapour pressure relative to saturation at the same temperature"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Vapour pressure increases when:",
+      "options": [
+        "Temperature decreases",
+        "The number of water vapour molecules decreases",
+        "Temperature increases and molecules collide more frequently",
+        "Air becomes fully saturated",
+        "Wind speed increases"
+      ],
+      "answer": "Temperature increases and molecules collide more frequently"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Saturated vapour pressure refers to:",
+      "options": [
+        "The lowest vapour pressure air can hold",
+        "The maximum vapour pressure air can hold at a given temperature",
+        "The vapour pressure during freezing",
+        "The vapour pressure after complete drying",
+        "A constant value regardless of temperature"
+      ],
+      "answer": "The maximum vapour pressure air can hold at a given temperature"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The psychrometric chart is used to understand:",
+      "options": [
+        "Material porosity distribution",
+        "Air temperature, humidity, and moisture capacity",
+        "Surface diffusion resistance",
+        "Capillary rise height",
+        "Liquid transport coefficients"
+      ],
+      "answer": "Air temperature, humidity, and moisture capacity"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Surface diffusion differs from vapour diffusion because surface diffusion:",
+      "options": [
+        "Occurs through air gaps only",
+        "Occurs along material surfaces via adsorbed water",
+        "Is driven by liquid pressure heads",
+        "Requires full saturation of pores",
+        "Is faster than vapour diffusion at low humidity"
+      ],
+      "answer": "Occurs along material surfaces via adsorbed water"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which moisture state corresponds to water that is 'wet to the touch but not draining'?",
+      "options": [
+        "Adsorbed moisture region",
+        "Capillary moisture region",
+        "Oversaturated region",
+        "Sorption plateau",
+        "Desiccated region"
+      ],
+      "answer": "Capillary moisture region"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Adsorption isotherms depend primarily on:",
+      "options": [
+        "Surface temperature only",
+        "Material pore size distribution and connectivity",
+        "Colour of the material",
+        "Material thickness",
+        "Surface coatings only"
+      ],
+      "answer": "Material pore size distribution and connectivity"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Capillary rise height is governed by which factors?",
+      "options": [
+        "Gravity alone",
+        "Pore radius, surface tension, liquid density, and contact angle",
+        "Material strength and stiffness",
+        "Temperature alone",
+        "Air pressure fluctuations only"
+      ],
+      "answer": "Pore radius, surface tension, liquid density, and contact angle"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In very dry conditions, the dominant moisture transport mechanism is:",
+      "options": [
+        "Liquid capillary flow",
+        "Surface diffusion",
+        "Vapour diffusion",
+        "Drainage",
+        "Condensation"
+      ],
+      "answer": "Vapour diffusion"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "As humidity rises, liquid water transport tends to:",
+      "options": [
+        "Stop completely",
+        "Move opposite to vapour diffusion",
+        "Match vapour diffusion direction",
+        "Occur only at temperatures above 30°C",
+        "Depend only on material thickness"
+      ],
+      "answer": "Move opposite to vapour diffusion"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Darcy’s Law describes liquid flow through porous media based on:",
+      "options": [
+        "Temperature gradient",
+        "Solar radiation effects",
+        "Pressure head, permeability, area, and flow path length",
+        "Relative humidity gradient",
+        "Surface roughness only"
+      ],
+      "answer": "Pressure head, permeability, area, and flow path length"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In the dry cup permeance test, the cup interior typically contains:",
+      "options": [
+        "Liquid water",
+        "A saturated salt solution",
+        "Desiccant to create low humidity",
+        "Heated air to increase vapour drive",
+        "Insulation to reduce losses"
+      ],
+      "answer": "Desiccant to create low humidity"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The wet cup permeance test creates a vapour drive by:",
+      "options": [
+        "Heating the top of the specimen",
+        "Cooling the bottom of the specimen",
+        "Using liquid water inside the cup",
+        "Pressurizing the test chamber",
+        "Dehydrating the material"
+      ],
+      "answer": "Using liquid water inside the cup"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Inverted cup testing differs from dry/wet cup testing because:",
+      "options": [
+        "The vapour drive direction is reversed",
+        "It uses heated airflow",
+        "It utilizes only desiccants",
+        "It measures only liquid permeability",
+        "It eliminates temperature gradients"
+      ],
+      "answer": "The vapour drive direction is reversed"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which material is both a vapour barrier AND a water barrier?",
+      "options": [
+        "Tyvek",
+        "Building paper",
+        "Gypsum sheathing",
+        "Blueskin SA",
+        "Fiberglass batt insulation"
+      ],
+      "answer": "Blueskin SA"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which material is permeable (NOT a vapour retarder)?",
+      "options": [
+        "Polyethylene",
+        "Extruded polystyrene",
+        "Aluminum foil",
+        "House wrap",
+        "Oil-based paint"
+      ],
+      "answer": "House wrap"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A Class 1 vapour retarder has a permeance of:",
+      "options": [
+        "Greater than 10 perms",
+        "1–10 perms",
+        "0.1–1 perms",
+        "Less than or equal to 0.1 perms",
+        "Exactly 5 perms"
+      ],
+      "answer": "Less than or equal to 0.1 perms"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Class 3 vapour retarders have permeance values between:",
+      "options": [
+        "0–0.1 perms",
+        "0.1–1 perms",
+        "1–10 perms",
+        "10–50 perms",
+        ">50 perms"
+      ],
+      "answer": "1–10 perms"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which insulation product is designed to vary its permeance with humidity?",
+      "options": [
+        "Aluminum foil-faced polyiso",
+        "XPS board",
+        "CertainTeed MemBrain",
+        "Expanded polystyrene",
+        "Mineral wool"
+      ],
+      "answer": "CertainTeed MemBrain"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Water adsorbs onto surfaces primarily because:",
+      "options": [
+        "Gravity pulls molecules downward",
+        "Hydrogen bonds form between water and surface OH⁻ groups",
+        "Materials have magnetic attraction",
+        "Air pressure compresses water into pores",
+        "Warm surfaces repel moisture"
+      ],
+      "answer": "Hydrogen bonds form between water and surface OH⁻ groups"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "As RH increases, adsorbed water layers on surfaces:",
+      "options": [
+        "Become thinner",
+        "Remain constant thickness",
+        "Increase in thickness",
+        "Disappear completely",
+        "Reverse into vapour immediately"
+      ],
+      "answer": "Increase in thickness"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which moisture mechanism dominates when pores are fully saturated?",
+      "options": [
+        "Air convection",
+        "Diffusion only",
+        "Capillary flow",
+        "Surface diffusion",
+        "Adsorption"
+      ],
+      "answer": "Capillary flow"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Liquid absorption testing involves:",
+      "options": [
+        "Submerging a specimen entirely",
+        "Applying pressure to force water in",
+        "Placing a specimen in a tray and measuring water uptake over time",
+        "Drying a specimen with heat",
+        "Applying vapour pressure gradients"
+      ],
+      "answer": "Placing a specimen in a tray and measuring water uptake over time"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In building enclosures, moisture storage occurs primarily in:",
+      "options": [
+        "Large air cavities only",
+        "Capillary pores and sorption layers",
+        "Insulation fibres only",
+        "Metal components",
+        "Exterior cladding"
+      ],
+      "answer": "Capillary pores and sorption layers"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Condensation occurs when:",
+      "options": [
+        "Air pressure equals vapour pressure",
+        "Temperature rises above dewpoint",
+        "Saturated vapour pressure is exceeded",
+        "RH drops suddenly",
+        "Surface diffusion stops"
+      ],
+      "answer": "Saturated vapour pressure is exceeded"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The 'moisture balance' model includes which key processes?",
+      "options": [
+        "Cryogenic cycling and adsorption",
+        "Condensation, drainage/evaporation, and storage",
+        "Ultraviolet breakdown only",
+        "Material creep and shrinkage",
+        "Freeze-thaw and mechanical abrasion"
+      ],
+      "answer": "Condensation, drainage/evaporation, and storage"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which moisture source is considered 'surface diffusion'?",
+      "options": [
+        "Liquid running down a wall",
+        "Moisture adsorbed and migrating along surfaces",
+        "Water evaporating from a pool",
+        "Air entering through cracks",
+        "Water freezing in pores"
+      ],
+      "answer": "Moisture adsorbed and migrating along surfaces"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Liquid flow in porous materials is possible because:",
+      "options": [
+        "Water molecules repel surfaces",
+        "Surface tension creates a meniscus that pulls water into pores",
+        "Air pressure always pushes water downward",
+        "Materials are fully waterproof",
+        "The material is hydrophobic"
+      ],
+      "answer": "Surface tension creates a meniscus that pulls water into pores"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Hydrophobic materials exhibit:",
+      "options": [
+        "High wettability",
+        "High adsorption rates",
+        "Greater attraction of water to the surface than to itself",
+        "Water attracting more strongly to itself than the surface",
+        "Rapid capillary absorption"
+      ],
+      "answer": "Water attracting more strongly to itself than the surface"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which material is a strong vapour barrier but NOT a water barrier?",
+      "options": [
+        "Tyvek",
+        "Extruded polystyrene",
+        "Oil-based paint",
+        "Polyethylene",
+        "Blueskin SA"
+      ],
+      "answer": "Polyethylene"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In building science, 'semi-permeable' typically refers to materials with:",
+      "options": [
+        "Permeance below 0.1 perms",
+        "Permeance of 0.1–1 perms",
+        "Permeance of 1–10 perms",
+        "Permeance above 10 perms",
+        "No measurable permeance"
+      ],
+      "answer": "Permeance of 1–10 perms"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Air transport of moisture differs from vapour diffusion because:",
+      "options": [
+        "Air transport moves far less moisture",
+        "Air transport requires no air movement",
+        "Air transport can move orders of magnitude more moisture",
+        "Vapour diffusion is always faster",
+        "Vapour diffusion requires cracks and openings"
+      ],
+      "answer": "Air transport can move orders of magnitude more moisture"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "One strategy to prevent moisture problems in buildings is:",
+      "options": [
+        "Allowing unlimited air leakage",
+        "Increasing material porosity",
+        "Eliminating a moisture source, path, or driving force",
+        "Adding more hydrophilic materials",
+        "Avoiding all forms of insulation"
+      ],
+      "answer": "Eliminating a moisture source, path, or driving force"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A porous material becomes 'oversaturated' when:",
+      "options": [
+        "Adsorbed layers reach equilibrium",
+        "Capillary pores fill and gravity-driven drainage begins",
+        "RH drops below 50%",
+        "Surface diffusion stops",
+        "Vapour pressure is zero"
+      ],
+      "answer": "Capillary pores fill and gravity-driven drainage begins"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A key driver of vapour diffusion through materials is:",
+      "options": [
+        "Moisture content only",
+        "Vapour pressure gradient",
+        "Material thickness only",
+        "Capillary radius",
+        "Wind load"
+      ],
+      "answer": "Vapour pressure gradient"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Materials with extremely small pores tend to:",
+      "options": [
+        "Reject adsorption",
+        "Show higher adsorption rates and thicker adsorbed layers",
+        "Prevent capillary flow entirely",
+        "Behave as perfect vapour barriers",
+        "Dry extremely quickly"
+      ],
+      "answer": "Show higher adsorption rates and thicker adsorbed layers"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Moisture stored in capillary pores is called:",
+      "options": [
+        "Adsorbed water",
+        "Bound or capillary water",
+        "Vapour only",
+        "Chemically combined water",
+        "None—capillary pores hold no moisture"
+      ],
+      "answer": "Bound or capillary water"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In drying conditions, moisture is primarily removed through:",
+      "options": [
+        "Condensation",
+        "Capillary suction",
+        "Evaporation and diffusion",
+        "Hydraulic pressure",
+        "Adsorption"
+      ],
+      "answer": "Evaporation and diffusion"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The largest temperature-dependent moisture property is:",
+      "options": [
+        "Vapour diffusion coefficient",
+        "Sorption isotherm slope",
+        "Capillary suction head",
+        "Adsorption thickness",
+        "Material reflectivity"
+      ],
+      "answer": "Vapour diffusion coefficient"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following best describes a 'wettable' material?",
+      "options": [
+        "Water repels from the surface",
+        "Contact angle is large and water beads",
+        "Water spreads and is attracted to the surface",
+        "Hydrophobic coatings dominate",
+        "Zero adsorption occurs"
+      ],
+      "answer": "Water spreads and is attracted to the surface"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A common approach to modelling pore spaces uses:",
+      "options": [
+        "1-D rectangular channels",
+        "Randomized cubic packing of spheres",
+        "Perfectly cylindrical pores only",
+        "Macroscopic optical imaging",
+        "Flat plate models"
+      ],
+      "answer": "Randomized cubic packing of spheres"
+    }
+  ]
