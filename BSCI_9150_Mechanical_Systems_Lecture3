@@ -1,6 +1,114 @@
 [
   {
     "type": "multiple_choice",
+    "question": "Which of the following is the best definition of a Single-Zone System?",
+    "options": [
+      "A system where a single AHU serves multiple rooms with individual thermostats",
+      "A system that utilizes two separate ducts to mix air at the terminal unit",
+      "A simple configuration where one thermostat controls a single heating or cooling unit for one specific area",
+      "A system that varies air volume while maintaining a constant temperature across all floors",
+      "A specialized system that only handles 100% outdoor air for ventilation"
+    ],
+    "answer": "A simple configuration where one thermostat controls a single heating or cooling unit for one specific area"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following describes a Constant Air Volume (CAV) Reheat System?",
+    "options": [
+      "A system that varies the amount of air to match the load while keeping temperature constant",
+      "A system that supplies air at a constant rate and uses coils in branch ducts to adjust temperature per zone",
+      "A system that introduce air through a plenum under a raised floor",
+      "A system that mixes hot and cold air at the central Air Handling Unit only",
+      "A system that decouples ventilation from internal thermal loads"
+    ],
+    "answer": "A system that supplies air at a constant rate and uses coils in branch ducts to adjust temperature per zone"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the defining characteristic of a Dual-Duct System?",
+    "options": [
+      "It uses a single duct to provide both heating and cooling at different times of the day",
+      "It uses two fans to increase the pressure of a single air stream",
+      "It utilizes separate 'Hot Deck' and 'Cold Deck' ducts that mix air in a box at each zone",
+      "It is a system designed exclusively for underfloor air distribution",
+      "It varies the fan speed to maintain a constant static pressure in the return duct"
+    ],
+    "answer": "It utilizes separate 'Hot Deck' and 'Cold Deck' ducts that mix air in a box at each zone"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following best defines a Multizone System as described in the notes?",
+    "options": [
+      "A system where mixing of cold and warm air occurs at the AHU before distribution via a single duct to each zone",
+      "A system that uses one thermostat to control the entire building's temperature",
+      "A system that varies air volume to handle different zones with a single duct",
+      "A system that uses heat pipes to recover energy from exhaust air",
+      "A system that introduces air at high velocity near the ceiling"
+    ],
+    "answer": "A system where mixing of cold and warm air occurs at the AHU before distribution via a single duct to each zone"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the fundamental operating principle of a Variable Air Volume (VAV) System?",
+    "options": [
+      "Varying the supply air temperature while keeping the airflow quantity constant",
+      "Using a primary system for ventilation and a secondary system for heating",
+      "Maintaining a constant supply air temperature but varying the quantity of air delivered to match the load",
+      "Mixing hot and cold air streams at the terminal unit mixing box",
+      "Supplying 100% outdoor air at all times to all zones"
+    ],
+    "answer": "Maintaining a constant supply air temperature but varying the quantity of air delivered to match the load"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which statement accurately defines a Dedicated Outdoor Air System (DOAS)?",
+    "options": [
+      "A system that recirculates 100% of the building air to save energy",
+      "A secondary system that handles only the sensible heat load of the occupants",
+      "A system that supplies 100% outdoor air to handle ventilation requirements, decoupling it from internal loads",
+      "A system that uses underfloor plenums to distribute air to the zones",
+      "A system that uses thermal plumes to carry heat to the ceiling"
+    ],
+    "answer": "A system that supplies 100% outdoor air to handle ventilation requirements, decoupling it from internal loads"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the definition of Underfloor Air Distribution (UFAD)?",
+    "options": [
+      "A system that introduces air through the ceiling and returns it through the floor",
+      "A system that supplies air through a plenum under a raised floor and returns it through the ceiling",
+      "A system that uses high-velocity jets to mix room air thoroughly",
+      "A system where air is cooled by passing it through pipes buried in the ground",
+      "A system that relies exclusively on radiant floor heating and cooling"
+    ],
+    "answer": "A system that supplies air through a plenum under a raised floor and returns it through the ceiling"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "How is Displacement Ventilation defined in the context of air distribution?",
+    "options": [
+      "Using high-velocity fans to displace stale air with fresh air quickly",
+      "Introducing low-velocity supply air near the floor to create laminar flow and upward thermal plumes",
+      "A system that mixes air at the AHU using parallel-blade dampers",
+      "A system that varies the air volume based on the number of occupants in the room",
+      "A system that uses a dual-fan arrangement to displace moisture from the space"
+    ],
+    "answer": "Introducing low-velocity supply air near the floor to create laminar flow and upward thermal plumes"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In an AHU, which component is specifically designed to merge outdoor air and return air airstreams?",
+    "options": [
+      "Preheat Coil",
+      "Filter Section",
+      "Mixing Plenum",
+      "Supply Air Fan",
+      "Run Around Loop"
+    ],
+    "answer": "Mixing Plenum"
+  },
+  {
+    "type": "multiple_choice",
     "question": "Which all-air system is characterized by a single duct supplying air at a constant volume, with temperature adjustments made via coils in branch ducts?",
     "options": [
       "Variable Air Volume (VAV) System",
