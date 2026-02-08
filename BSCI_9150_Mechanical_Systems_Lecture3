@@ -1,0 +1,242 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Which all-air system is characterized by a single duct supplying air at a constant volume, with temperature adjustments made via coils in branch ducts?",
+    "options": [
+      "Variable Air Volume (VAV) System",
+      "Dual-Duct System",
+      "Constant Air Volume (CAV) Reheat System",
+      "Multizone System",
+      "Displacement Ventilation System"
+    ],
+    "answer": "Constant Air Volume (CAV) Reheat System"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In a Dual-Duct system, how is the specific thermal requirement of a zone met?",
+    "options": [
+      "By varying the speed of the supply air fan",
+      "By mixing air from a 'Hot Deck' and a 'Cold Deck' in a mixing box",
+      "By activating a reheat coil located at the diffuser",
+      "By adjusting the bypass factor of the cooling coil",
+      "By utilizing a rotary wheel energy exchanger"
+    ],
+    "answer": "By mixing air from a 'Hot Deck' and a 'Cold Deck' in a mixing box"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary operational difference between a Multizone system and a Dual-Duct system?",
+    "options": [
+      "Multizone systems vary air volume, while Dual-Duct systems vary temperature",
+      "Dual-Duct systems mix air at the AHU, while Multizone systems mix air at the terminal unit",
+      "Multizone systems mix air at the AHU, while Dual-Duct systems mix air at the terminal unit",
+      "Multizone systems only provide cooling, whereas Dual-Duct systems provide both",
+      "There is no operational difference; the terms are synonymous"
+    ],
+    "answer": "Multizone systems mix air at the AHU, while Dual-Duct systems mix air at the terminal unit"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which mechanical law explains the significant energy savings found in Variable Air Volume (VAV) systems as airflow reduces?",
+    "options": [
+      "Newton’s Third Law of Motion",
+      "The First Law of Thermodynamics",
+      "Fan Affinity Laws",
+      "Boyle's Law of Gases",
+      "The Law of Diminishing Returns"
+    ],
+    "answer": "Fan Affinity Laws"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a common disadvantage of Constant Air Volume (CAV) Reheat systems compared to VAV systems?",
+    "options": [
+      "They cannot provide simultaneous heating and cooling",
+      "They have higher fan energy consumption at part-load",
+      "They are less energy-efficient because they reheat previously cooled air",
+      "They fail to provide close control for process applications",
+      "They require larger ductwork than Dual-Duct systems"
+    ],
+    "answer": "They are less energy-efficient because they reheat previously cooled air"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which specialized ventilation system introduces low-velocity air near the floor and relies on thermal plumes to carry heat to the ceiling?",
+    "options": [
+      "Dedicated Outdoor Air System (DOAS)",
+      "Underfloor Air Distribution (UFAD)",
+      "Displacement Ventilation",
+      "Dual-Fan Dual-Duct System",
+      "Primary/Secondary Ventilation"
+    ],
+    "answer": "Displacement Ventilation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the primary function of the 'Preheat Coil' in an Air Handling Unit (AHU)?",
+    "options": [
+      "To provide the main space heating load during winter",
+      "To increase the latent heat capacity of the cooling coil",
+      "To temper outside air and prevent freezing of downstream components",
+      "To dehumidify the incoming outdoor air stream",
+      "To reheat air after it has passed through the mixing plenum"
+    ],
+    "answer": "To temper outside air and prevent freezing of downstream components"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In AHU terminology, what does the 'By-Pass Factor' of a cooling coil represent?",
+    "options": [
+      "The percentage of air that leaks out of the AHU cabinet",
+      "The ratio of outdoor air to return air in the mixing plenum",
+      "The amount of air that passes through the coil without being cooled",
+      "The energy efficiency ratio of the chilled water system",
+      "The volume of air handled by the return fan compared to the supply fan"
+    ],
+    "answer": "The amount of air that passes through the coil without being cooled"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which air-side energy recovery device is capable of recovering BOTH sensible and latent heat?",
+    "options": [
+      "Heat Pipes",
+      "Fixed-Plate Energy Exchangers",
+      "Run Around Loops",
+      "Rotary Wheel Energy Exchangers",
+      "Hydronic Pumping Loops"
+    ],
+    "answer": "Rotary Wheel Energy Exchangers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which recovery device is most suitable when the supply and exhaust airstreams are physically far apart?",
+    "options": [
+      "Rotary Wheel Energy Exchangers",
+      "Fixed-Plate Energy Exchangers",
+      "Heat Pipes",
+      "Run Around Loops",
+      "Mixing Plenums"
+    ],
+    "answer": "Run Around Loops"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the function of the filter section in an AHU?",
+    "options": [
+      "To remove humidity from the supply air",
+      "To prevent dust and dirt from fouling blowers and coils",
+      "To mix outdoor air with return air",
+      "To measure the pressure drop across the supply fan",
+      "To eliminate the need for a dedicated outdoor air system"
+    ],
+    "answer": "To prevent dust and dirt from fouling blowers and coils"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Underfloor Air Distribution (UFAD) systems primarily improve building performance by:",
+    "options": [
+      "Reducing the need for a supply air fan",
+      "Eliminating the use of return air fans",
+      "Enhancing ventilation effectiveness compared to ceiling distribution",
+      "Using high-velocity air to increase occupant comfort",
+      "Decreasing the total volume of air required for cooling"
+    ],
+    "answer": "Enhancing ventilation effectiveness compared to ceiling distribution"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a potential 'con' of Variable Air Volume (VAV) systems at part-load conditions?",
+    "options": [
+      "High fan energy consumption",
+      "Inability to provide heating to any zones",
+      "Limited humidity control and potential ventilation issues",
+      "Excessive noise at the terminal units",
+      "Difficulty in maintaining constant supply air temperature"
+    ],
+    "answer": "Limited humidity control and potential ventilation issues"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In a 'Blow-through' AHU configuration, where is the supply air fan located?",
+    "options": [
+      "Downstream of the cooling coil",
+      "Upstream of the cooling coil",
+      "Inside the mixing plenum",
+      "In the return air duct",
+      "At the terminal unit mixing box"
+    ],
+    "answer": "Upstream of the cooling coil"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which component uses phase transition and thermal conduction to transfer heat without the use of a pump?",
+    "options": [
+      "Run Around Loop",
+      "Rotary Wheel",
+      "Heat Pipe",
+      "Fixed-Plate Exchanger",
+      "Mixing Damper"
+    ],
+    "answer": "Heat Pipe"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Dedicated Outdoor Air Systems (DOAS) are specifically designed to:",
+    "options": [
+      "Handle only the internal sensible heating loads",
+      "Recirculate 100% of the room air for energy efficiency",
+      "Handle ventilation requirements independently of internal thermal loads",
+      "Replace the need for a cooling coil in the main AHU",
+      "Provide high-velocity air for industrial processes"
+    ],
+    "answer": "Handle ventilation requirements independently of internal thermal loads"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What occurs in the mixing plenum of an AHU?",
+    "options": [
+      "Sensible heat is converted to latent heat",
+      "Outdoor air and return air airstreams merge",
+      "Air is filtered to remove fine particulates",
+      "Supply air is pressurized by the centrifugal fan",
+      "Chilled water is mixed with hot water for temperature control"
+    ],
+    "answer": "Outdoor air and return air airstreams merge"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a limitation of packaged Multizone systems according to the notes?",
+    "options": [
+      "They cannot provide cooling to exterior zones",
+      "They are typically limited to serving only 12–14 zones",
+      "They require twice the fan energy of CAV systems",
+      "They cannot utilize heat-rejection equipment",
+      "They must be located on the roof of the building"
+    ],
+    "answer": "They are typically limited to serving only 12–14 zones"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which damper type is used within an AHU to control airflow?",
+    "options": [
+      "Sequential-Blade and Single-Blade",
+      "Parallel-Blade and Opposed-Blade",
+      "Laminar-Flow and Turbulent-Flow",
+      "Fixed-Core and Rotating-Core",
+      "Bypass and Direct-Acting"
+    ],
+    "answer": "Parallel-Blade and Opposed-Blade"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A 'Primary/Secondary' air system configuration is defined by:",
+    "options": [
+      "Using two fans in a single AHU for redundancy",
+      "One system handling outdoor air and another handling space thermal loads",
+      "A system that uses both gas and electricity for heating",
+      "The use of both a hot deck and a cold deck duct",
+      "Two interconnected boilers serving a single chiller"
+    ],
+    "answer": "One system handling outdoor air and another handling space thermal loads"
+  }
+]
