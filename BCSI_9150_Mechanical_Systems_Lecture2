@@ -1,0 +1,602 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a primary characteristic of a Central HVAC system regarding equipment location?",
+    "options": [
+      "Equipment is installed within each individual occupied space",
+      "Heating and cooling are generated in a centralized facility or remote plant",
+      "Generating devices are distributed across the building's facade",
+      "The system lacks a centralized distribution network",
+      "Only cooling equipment is centralized, while heating is always localized"
+    ],
+    "answer": "Heating and cooling are generated in a centralized facility or remote plant"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Compared to decentralized systems, central HVAC systems generally offer:",
+    "options": [
+      "Shorter service life but lower initial costs",
+      "Higher energy consumption and less operational efficiency",
+      "Greater energy efficiency and a longer equipment service life",
+      "Simpler control logic and lower safety requirements",
+      "Elimination of the need for chimneys or emission permits"
+    ],
+    "answer": "Greater energy efficiency and a longer equipment service life"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why do central HVAC systems often require extensive financial and engineering analysis?",
+    "options": [
+      "Because they are only used in small residential homes",
+      "Due to lower initial capital investment requirements",
+      "Because they involve complex control logic and high initial costs",
+      "Due to the lack of safety regulations for centralized plants",
+      "Because they use air-cooled condensers exclusively"
+    ],
+    "answer": "Because they involve complex control logic and high initial costs"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which building type is identified as an ideal candidate for a central HVAC system?",
+    "options": [
+      "A small single-family residential home",
+      "A stand-alone convenience store",
+      "Large shopping malls and high-rise office buildings",
+      "A portable temporary classroom",
+      "A small boutique hotel with under 10 rooms"
+    ],
+    "answer": "Large shopping malls and high-rise office buildings"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In the context of institutional facilities, which of the following would benefit most from a central plant?",
+    "options": [
+      "A community park restroom",
+      "Hospitals and schools",
+      "A temporary pop-up clinic",
+      "A single-room guard house",
+      "Private residential garages"
+    ],
+    "answer": "Hospitals and schools"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The 'Diversity Factor' in central system design refers to:",
+    "options": [
+      "The variety of different fuel sources used in the plant",
+      "The difference between the sum of individual space design loads and the overall system capacity",
+      "The number of different terminal unit types used in the building",
+      "The ratio of sensible heat to latent heat in the distribution system",
+      "The variety of occupants within a commercial facility"
+    ],
+    "answer": "The difference between the sum of individual space design loads and the overall system capacity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a key energy-saving strategy for central HVAC plants mentioned in the notes?",
+    "options": [
+      "Using constant-speed motors on all chillers",
+      "Designing for single-stage operation only",
+      "Incorporating variable-frequency drives (VFDs) on base-loaded chillers",
+      "Reducing the size of the pipe distribution system",
+      "Avoiding the use of multi-stage operation"
+    ],
+    "answer": "Incorporating variable-frequency drives (VFDs) on base-loaded chillers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which design consideration focuses on the movement of the heating or cooling medium?",
+    "options": [
+      "Peak Cooling Load Time",
+      "Diversity Factor",
+      "Variable Flow Design (Primary Variable Flow)",
+      "Emission permit acquisition",
+      "Chimney height calculation"
+    ],
+    "answer": "Variable Flow Design (Primary Variable Flow)"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is considered 'Primary Cooling Equipment' in a central plant?",
+    "options": [
+      "Cooling towers",
+      "Air-cooled condensers",
+      "Vapor-Compression Refrigeration Cycle Chillers",
+      "Water pumps",
+      "Deaerators"
+    ],
+    "answer": "Vapor-Compression Refrigeration Cycle Chillers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which compressor type is NOT listed as a component of Vapor-Compression Chillers in the notes?",
+    "options": [
+      "Reciprocating",
+      "Centrifugal",
+      "Helical rotary/screw",
+      "Axial flow",
+      "Scroll"
+    ],
+    "answer": "Axial flow"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the major primary heating equipment component in central HVAC systems?",
+    "options": [
+      "Evaporative condenser",
+      "The Boiler",
+      "The Chiller",
+      "Heat exchanger",
+      "Cooling tower"
+    ],
+    "answer": "The Boiler"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is categorized as ancillary heating equipment?",
+    "options": [
+      "Absorption-cycle chillers",
+      "Reciprocating compressors",
+      "Deaerators and boiler feed equipment",
+      "Centrifugal chillers",
+      "Cooling towers"
+    ],
+    "answer": "Deaerators and boiler feed equipment"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Heat-rejection equipment, such as cooling towers, is primarily associated with which process?",
+    "options": [
+      "Generating steam for heating",
+      "Ancillary cooling operations",
+      "Variable flow distribution of hot water",
+      "Primary heating in industrial facilities",
+      "Deaeration of boiler feed water"
+    ],
+    "answer": "Ancillary cooling operations"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What requirement might a central fossil-fuel plant have that a decentralized system typically does not?",
+    "options": [
+      "Ductless split unit maintenance",
+      "Chimneys, flues, and emission permits",
+      "Individual window unit installation",
+      "Smaller electrical transformers",
+      "Reduction in distribution piping"
+    ],
+    "answer": "Chimneys, flues, and emission permits"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Central HVAC systems are advantageous for locations where:",
+    "options": [
+      "Space for distribution piping is unavailable",
+      "Waste heat is available for capture and use",
+      "Initial capital investment must be kept to an absolute minimum",
+      "The building footprint is extremely small",
+      "Engineering analysis is not possible"
+    ],
+    "answer": "Waste heat is available for capture and use"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Designers of central plants must account for 'Peak Cooling Load Time' to ensure:",
+    "options": [
+      "The system can handle the building's maximum demand simultaneously",
+      "The distribution pipes are small enough to increase pressure",
+      "The deaerator is sized for winter heating",
+      "The emission permits are renewed on time",
+      "The cooling tower does not freeze in the winter"
+    ],
+    "answer": "The system can handle the building's maximum demand simultaneously"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which type of chiller uses a cycle other than Vapor-Compression?",
+    "options": [
+      "Reciprocating chiller",
+      "Absorption-cycle chiller",
+      "Scroll chiller",
+      "Centrifugal chiller",
+      "Helical rotary chiller"
+    ],
+    "answer": "Absorption-cycle chiller"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Large pipe distribution systems in central HVAC are typically used to transport:",
+    "options": [
+      "Refrigerant gas to every room",
+      "Conditioned medium such as water or steam",
+      "Combustion air for decentralized heaters",
+      "Electricity to local heaters",
+      "Greywater for irrigation"
+    ],
+    "answer": "Conditioned medium such as water or steam"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which is an ancillary cooling component used to transfer heat between two fluids?",
+    "options": [
+      "Boiler feed equipment",
+      "Heat exchangers",
+      "Steam plants",
+      "Deaerators",
+      "Reciprocating compressors"
+    ],
+    "answer": "Heat exchangers"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Designing for 'multi-stage operation' in a central plant is primarily a strategy for:",
+    "options": [
+      "Increasing initial costs",
+      "Energy saving and managing partial loads",
+      "Simplifying control logic",
+      "Reducing the number of safety permits needed",
+      "Eliminating the need for a cooling tower"
+    ],
+    "answer": "Energy saving and managing partial loads"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which compressor type used in vapor-compression chillers typically utilizes a rotating impeller to add kinetic energy to the refrigerant?",
+    "options": [
+      "Scroll compressor",
+      "Reciprocating compressor",
+      "Centrifugal compressor",
+      "Helical rotary/screw compressor",
+      "Absorption compressor"
+    ],
+    "answer": "Centrifugal compressor"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A helical rotary (screw) compressor differentiates itself from a scroll compressor by:",
+    "options": [
+      "Using two interlocking rotors to compress refrigerant",
+      "Relying on a piston and cylinder arrangement",
+      "Using chemical absorption rather than mechanical energy",
+      "Operating strictly as heat-rejection equipment",
+      "Eliminating the need for VFDs"
+    ],
+    "answer": "Using two interlocking rotors to compress refrigerant"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which compressor is generally characterized by a piston-driven design similar to an automotive engine?",
+    "options": [
+      "Centrifugal",
+      "Scroll",
+      "Reciprocating",
+      "Screw",
+      "Helical rotary"
+    ],
+    "answer": "Reciprocating"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What role does ancillary heat-rejection equipment like an evaporative condenser play in the chiller cycle?",
+    "options": [
+      "It generates steam for the boiler feed",
+      "It removes heat from the refrigerant and rejects it to the environment",
+      "It acts as the primary compressor for the vapor-compression cycle",
+      "It provides deaeration for the hot-water plant",
+      "It distributes conditioned medium to terminal units"
+    ],
+    "answer": "It removes heat from the refrigerant and rejects it to the environment"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which compressor type is commonly used in smaller to medium central cooling applications and uses two spiral-shaped elements?",
+    "options": [
+      "Scroll",
+      "Centrifugal",
+      "Boiler",
+      "Screw",
+      "Reciprocating"
+    ],
+    "answer": "Scroll"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a significant advantage of using Centrifugal compressors in very large central cooling plants?",
+    "options": [
+      "High efficiency at full load and extremely high capacity",
+      "Low initial cost regardless of system size",
+      "Quiet operation suitable for small offices",
+      "Ability to operate without a cooling tower",
+      "Simple maintenance that does not require specialized technicians"
+    ],
+    "answer": "High efficiency at full load and extremely high capacity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A potential disadvantage of Centrifugal compressors when operating at low loads is:",
+    "options": [
+      "They are unable to use refrigerants",
+      "Sensitivity to surging, which can cause damage",
+      "They consume more water than air-cooled units",
+      "They require manual lubrication every hour",
+      "They cannot be used with VFDs"
+    ],
+    "answer": "Sensitivity to surging, which can cause damage"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is a key 'pro' for Reciprocating compressors in small to medium HVAC systems?",
+    "options": [
+      "Highest efficiency in the industry",
+      "Near-silent operation",
+      "Relatively low initial cost and familiarity to repair technicians",
+      "Zero vibration during operation",
+      "Exemption from all local building codes"
+    ],
+    "answer": "Relatively low initial cost and familiarity to repair technicians"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a commonly cited 'con' or drawback of Reciprocating compressors?",
+    "options": [
+      "They occupy too much horizontal space",
+      "They are only compatible with steam heating",
+      "Higher noise and vibration levels compared to rotary types",
+      "They cannot provide cooling for more than one zone",
+      "They are incompatible with centralized boilers"
+    ],
+    "answer": "Higher noise and vibration levels compared to rotary types"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Scroll compressors are often preferred for medium-sized applications because they:",
+    "options": [
+      "Are the most expensive option, indicating quality",
+      "Offer quiet operation and high reliability due to fewer moving parts",
+      "Can handle the largest cooling loads of any compressor type",
+      "Do not require any electricity to operate",
+      "Use water as the primary refrigerant"
+    ],
+    "answer": "Offer quiet operation and high reliability due to fewer moving parts"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A limitation or 'con' of Scroll compressors is:",
+    "options": [
+      "They cannot be used in centralized systems",
+      "They are strictly for heating applications",
+      "Limited capacity range compared to screw or centrifugal units",
+      "They require frequent replacement of the spiral elements",
+      "High susceptibility to emission permit violations"
+    ],
+    "answer": "Limited capacity range compared to screw or centrifugal units"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Helical rotary (Screw) compressors are widely valued for which 'pro'?",
+    "options": [
+      "Lowest initial cost of all compressor types",
+      "Exemption from engineering analysis requirements",
+      "Excellent reliability and good performance at part-load conditions",
+      "Small enough to fit in a standard window unit",
+      "Ability to function without a condenser"
+    ],
+    "answer": "Excellent reliability and good performance at part-load conditions"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which factor is often considered a 'con' for Screw compressors compared to Reciprocating ones of similar size?",
+    "options": [
+      "Lower efficiency across all load ranges",
+      "Higher initial equipment cost",
+      "Requirement for a separate chimney",
+      "Inability to work with water-cooled condensers",
+      "Total lack of automated controls"
+    ],
+    "answer": "Higher initial equipment cost"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why are hospitals considered excellent candidates for Central HVAC systems?",
+    "options": [
+      "They require systems that are easy to replace every 5 years",
+      "They need high-reliability systems with a long service life and central monitoring",
+      "They only need cooling in the summer months",
+      "They are usually small buildings with minimal load diversity",
+      "Central systems are the only ones that can use air filtration"
+    ],
+    "answer": "They need high-reliability systems with a long service life and central monitoring"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a primary advantage of Absorption-cycle chillers in industrial settings?",
+    "options": [
+      "They are the smallest chillers available",
+      "They use high-pressure fans to compress refrigerant",
+      "They can utilize waste heat as the primary energy source",
+      "They are immune to the Diversity Factor",
+      "They eliminate the need for primary variable flow design"
+    ],
+    "answer": "They can utilize waste heat as the primary energy source"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The primary objective of 'Variable Flow Design' in central systems is to:",
+    "options": [
+      "Increase the initial cost of distribution piping",
+      "Maintain a constant temperature regardless of load",
+      "Save pumping energy by adjusting flow based on demand",
+      "Force all zones to receive the same amount of cooling",
+      "Reduce the need for emission permits"
+    ],
+    "answer": "Save pumping energy by adjusting flow based on demand"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which ancillary component is critical for removing dissolved gases like oxygen from boiler feed water?",
+    "options": [
+      "Cooling tower",
+      "Evaporative condenser",
+      "Deaerator",
+      "Heat exchanger",
+      "Helical rotary compressor"
+    ],
+    "answer": "Deaerator"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A major 'pro' of Water-Cooled Condensers over Air-Cooled Condensers is:",
+    "options": [
+      "They do not require any water consumption",
+      "They are always cheaper to install initially",
+      "Higher heat transfer efficiency and lower condensing temperatures",
+      "They are completely maintenance-free",
+      "They can be placed anywhere without regard to airflow"
+    ],
+    "answer": "Higher heat transfer efficiency and lower condensing temperatures"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a design 'con' of utilizing the Diversity Factor to downsize a central plant?",
+    "options": [
+      "It makes the system too efficient for the building",
+      "It requires more complex distribution piping",
+      "If all spaces hit peak load simultaneously, the plant may be undersized",
+      "It eliminates the possibility of using boilers",
+      "It requires the building to be vacant at night"
+    ],
+    "answer": "If all spaces hit peak load simultaneously, the plant may be undersized"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Incorporating VFDs on chillers is a 'pro' because it:",
+    "options": [
+      "Increases the peak cooling load",
+      "Allows the compressor to run at constant speed forever",
+      "Significantly reduces energy consumption during part-load hours",
+      "Eliminates the need for a deaerator",
+      "Guarantees that no emission permits are needed"
+    ],
+    "answer": "Significantly reduces energy consumption during part-load hours"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In central steam plants, what is the role of boiler feed equipment?",
+    "options": [
+      "To reject heat to the atmosphere",
+      "To supply water to the boiler at the appropriate pressure and rate",
+      "To compress refrigerant gas in the chiller cycle",
+      "To mix hot and cold air streams for terminal units",
+      "To manage the diversity factor of the cooling plant"
+    ],
+    "answer": "To supply water to the boiler at the appropriate pressure and rate"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Central HVAC systems allow for combining multiple equipment types in one plant, which is a 'pro' for:",
+    "options": [
+      "Reducing distribution complexity",
+      "Simplifying the engineering analysis",
+      "Operational flexibility and redundant backup capacity",
+      "Eliminating the need for a mechanical room",
+      "Reducing the building's footprint"
+    ],
+    "answer": "Operational flexibility and redundant backup capacity"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is a logistical 'con' of a fossil-fuel based central plant compared to an electric decentralized system?",
+    "options": [
+      "It requires larger window units",
+      "It is simpler to maintain",
+      "The need for flues, chimneys, and environmental emission monitoring",
+      "It cannot provide heating and cooling simultaneously",
+      "It consumes less floor space in the occupied zone"
+    ],
+    "answer": "The need for flues, chimneys, and environmental emission monitoring"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "In large pipe distribution systems, thermal losses and pumping energy represent a:",
+    "options": [
+      "Primary advantage of centralized design",
+      "Significant design consideration and potential drawback",
+      "Reason to avoid using insulation",
+      "Benefit for high-rise commercial buildings only",
+      "Strategy for increasing the diversity factor"
+    ],
+    "answer": "Significant design consideration and potential drawback"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Why is multi-stage operation a 'pro' for energy saving in central plants?",
+    "options": [
+      "It allows for smaller distribution pipes",
+      "It matches equipment output more closely to the actual building load",
+      "It prevents the use of VFDs",
+      "It simplifies the control logic to a single switch",
+      "It eliminates the need for heat exchangers"
+    ],
+    "answer": "It matches equipment output more closely to the actual building load"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which compressor type is technically described as a positive-displacement machine similar to an internal combustion engine?",
+    "options": [
+      "Centrifugal",
+      "Scroll",
+      "Reciprocating",
+      "Screw",
+      "Absorption"
+    ],
+    "answer": "Reciprocating"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "The use of a cooling tower is a 'pro' for large chillers because it:",
+    "options": [
+      "Replaces the boiler in the winter",
+      "Can provide unlimited heating for free",
+      "Provides efficient heat rejection via evaporation",
+      "Allows the chiller to run without refrigerant",
+      "Simplifies the distribution piping design"
+    ],
+    "answer": "Provides efficient heat rejection via evaporation"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which design factor identifies the specific time when the building requires the most cooling?",
+    "options": [
+      "Diversity Factor",
+      "Peak Cooling Load Time",
+      "Variable Flow Period",
+      "Emission Window",
+      "Primary Stage Duration"
+    ],
+    "answer": "Peak Cooling Load Time"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "Which of the following is considered 'ancillary' to a central heating system?",
+    "options": [
+      "The primary Boiler",
+      "Steam plant deaerators",
+      "Vapor-compression chillers",
+      "Reciprocating compressors",
+      "Absorption-cycle chillers"
+    ],
+    "answer": "Steam plant deaerators"
+  },
+  {
+    "type": "multiple_choice",
+    "question": "A key design goal for primary variable flow in central systems is to optimize:",
+    "options": [
+      "Initial investment in fossil fuels",
+      "System flow efficiency and pump power consumption",
+      "The noise levels of centrifugal compressors",
+      "The service life of decentralized split systems",
+      "The number of emission permits required per year"
+    ],
+    "answer": "System flow efficiency and pump power consumption"
+  }
+]
